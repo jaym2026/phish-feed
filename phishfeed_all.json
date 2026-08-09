@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 4003,
- "generated_at": "2026-08-09T15:10:35Z",
+ "count": 4019,
+ "generated_at": "2026-08-09T15:46:16Z",
  "hosts": [
   {
    "brand": "Other",
@@ -244,6 +244,18 @@
    "verified": true
   },
   {
+   "brand": "Coinbase",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://493335coinbase.com/",
+   "first_seen": "2026-07-19 07:16:01",
+   "host": "493335coinbase.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:37:29",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": null,
    "corroboration_count": 0,
    "crypto": false,
@@ -301,6 +313,18 @@
    "hosting_platform": "Other",
    "last_seen": "2026-08-09 12:44:31",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Coinbase",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://570637coinbase.com/",
+   "first_seen": "2026-08-09 03:32:02",
+   "host": "570637coinbase.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:32:54",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -889,6 +913,18 @@
    "hosting_platform": "Vercel",
    "last_seen": "2026-08-09 11:31:24",
    "source_feed": "platform_hunter",
+   "verified": true
+  },
+  {
+   "brand": "Coinbase",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://admin.coinbasebackup.click/",
+   "first_seen": "2026-08-06 21:48:02",
+   "host": "admin.coinbasebackup.click",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:35:33",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -2045,6 +2081,18 @@
    "hosting_platform": "Vercel",
    "last_seen": "2026-08-09 11:14:43",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://arbinance.solteca.net/",
+   "first_seen": "2026-07-20 21:16:02",
+   "host": "arbinance.solteca.net",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:42:05",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -5303,6 +5351,30 @@
    "brand": "Binance",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://binance-bonus.online/",
+   "first_seen": "2026-08-07 01:16:03",
+   "host": "binance-bonus.online",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:49:52",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://binance-codes.com/",
+   "first_seen": "2026-07-28 07:16:02",
+   "host": "binance-codes.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:48:54",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://binance-quick-order.pages.dev/",
    "first_seen": "2026-08-01 14:48:02",
    "host": "binance-quick-order.pages.dev",
@@ -5337,6 +5409,18 @@
   },
   {
    "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://binancefze.online/",
+   "first_seen": "2026-08-08 06:48:03",
+   "host": "binancefze.online",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:34:22",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://binanceit.com/",
@@ -5346,6 +5430,42 @@
    "last_seen": "2026-08-09 12:48:22",
    "source_feed": "ct_monitor",
    "verified": false
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://binanceof.com/",
+   "first_seen": "2026-08-05 11:32:02",
+   "host": "binanceof.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:37:25",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://binancep22pp.site/",
+   "first_seen": "2026-08-08 22:16:03",
+   "host": "binancep22pp.site",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:33:05",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://binancesupport.top/",
+   "first_seen": "2026-07-17 07:16:02",
+   "host": "binancesupport.top",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:39:00",
+   "source_feed": "ct_monitor",
+   "verified": true
   },
   {
    "brand": "Ledger",
@@ -6369,6 +6489,18 @@
   },
   {
    "brand": "Coinbase",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://coinbase-trader.devraa.com/",
+   "first_seen": "2026-07-19 22:16:02",
+   "host": "coinbase-trader.devraa.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:44:16",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Coinbase",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://coinbaseru.ru/",
@@ -6378,6 +6510,18 @@
    "last_seen": "2026-08-09 12:49:12",
    "source_feed": "ct_monitor",
    "verified": false
+  },
+  {
+   "brand": "Coinbase",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://coinbases.app/",
+   "first_seen": "2026-07-16 18:16:01",
+   "host": "coinbases.app",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:46:43",
+   "source_feed": "ct_monitor",
+   "verified": true
   },
   {
    "brand": "Coinbase",
@@ -11620,6 +11764,18 @@
    "verified": true
   },
   {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://endpoint.binancepay.dot2.ws/",
+   "first_seen": "2026-08-01 21:32:02",
+   "host": "endpoint.binancepay.dot2.ws",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:38:30",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -14105,6 +14261,18 @@
    "hosting_platform": "GitHub Pages",
    "last_seen": "2026-08-09 11:14:42",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://freebinancecoin.com/",
+   "first_seen": "2026-07-27 09:16:02",
+   "host": "freebinancecoin.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:48:40",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -47021,6 +47189,18 @@
   },
   {
    "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://www.binance-bonus.online/",
+   "first_seen": "2026-08-07 01:16:03",
+   "host": "www.binance-bonus.online",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:49:52",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Binance",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://www.binancerating.com/",
@@ -47462,6 +47642,18 @@
    "last_seen": "2026-07-24 00:41:06",
    "source_feed": "OpenPhish",
    "verified": false
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://www.sanbinance.com/",
+   "first_seen": "2026-07-21 23:16:01",
+   "host": "www.sanbinance.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-09 12:47:09",
+   "source_feed": "ct_monitor",
+   "verified": true
   },
   {
    "brand": "Other",
