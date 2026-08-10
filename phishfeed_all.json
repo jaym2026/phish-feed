@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3989,
- "generated_at": "2026-08-10T10:10:02Z",
+ "count": 3987,
+ "generated_at": "2026-08-10T11:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -5768,6 +5768,18 @@
    "verified": false
   },
   {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://business-ledger-5e5.pages.dev/",
+   "first_seen": "2026-08-09 08:00:04",
+   "host": "business-ledger-5e5.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-10 08:32:27",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
@@ -8628,18 +8640,6 @@
    "host": "desktp-ledgr--live.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-10 08:45:12",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://deskttop-ledger.pages.dev/",
-   "first_seen": "2026-07-22 10:48:02",
-   "host": "deskttop-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-10 08:43:45",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -14297,6 +14297,18 @@
    "hosting_platform": "Other",
    "last_seen": "2026-08-10 08:38:02",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://game-purchase-ledger.pages.dev/",
+   "first_seen": "2026-08-10 01:48:02",
+   "host": "game-purchase-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-10 08:32:03",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -20507,6 +20519,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://land-ledger.pages.dev/",
+   "first_seen": "2026-08-09 19:32:02",
+   "host": "land-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-10 08:51:32",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://larn-start-ledgr-x.pages.dev/",
    "first_seen": "2026-07-31 21:00:02",
    "host": "larn-start-ledgr-x.pages.dev",
@@ -20560,18 +20584,6 @@
    "host": "le-live-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-10 08:49:40",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://lear-ledger-live.pages.dev/",
-   "first_seen": "2026-07-23 11:48:01",
-   "host": "lear-ledger-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-10 08:43:58",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22554,6 +22566,18 @@
    "last_seen": "2026-08-10 08:50:28",
    "source_feed": "ct_monitor",
    "verified": false
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://ledger-bss.pages.dev/",
+   "first_seen": "2026-08-10 05:16:02",
+   "host": "ledger-bss.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-10 08:51:52",
+   "source_feed": "ct_monitor",
+   "verified": true
   },
   {
    "brand": "Ledger",
@@ -25859,18 +25883,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledgercom-help-eng.pages.dev/",
-   "first_seen": "2026-08-01 11:48:02",
-   "host": "ledgercom-help-eng.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-10 08:39:06",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledgercom-iostart.pages.dev/",
    "first_seen": "2026-07-30 00:32:02",
    "host": "ledgercom-iostart.pages.dev",
@@ -27400,18 +27412,6 @@
    "host": "ledgerwalite-pages.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-10 08:40:01",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgerwallet-help.pages.dev/",
-   "first_seen": "2026-07-22 12:00:02",
-   "host": "ledgerwallet-help.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-10 08:43:48",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -31036,18 +31036,6 @@
    "host": "ledgrs-iu-r.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-10 08:42:05",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://ledgrs-live-en.pages.dev/",
-   "first_seen": "2026-07-23 12:48:02",
-   "host": "ledgrs-live-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-10 08:49:29",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -44052,18 +44040,6 @@
    "host": "us-en-ledgrr-page.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-10 08:41:20",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://us-eng-desktop-ledger.pages.dev/",
-   "first_seen": "2026-07-22 15:32:02",
-   "host": "us-eng-desktop-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-10 08:43:49",
    "source_feed": "ct_monitor",
    "verified": true
   },
