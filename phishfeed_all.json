@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3815,
- "generated_at": "2026-08-12T13:10:03Z",
+ "count": 3807,
+ "generated_at": "2026-08-12T14:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -1784,22 +1784,6 @@
    "verified": false
   },
   {
-   "brand": "Meta",
-   "brands": [
-    "Meta",
-    "Other"
-   ],
-   "corroboration_count": 1,
-   "crypto": false,
-   "evidence_url": "https://assessment-portal.metaprofiling.com/",
-   "first_seen": "2026-08-11 11:15:50",
-   "host": "assessment-portal.metaprofiling.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-12 12:59:51",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -3382,18 +3366,6 @@
    "last_seen": "2026-08-11 23:53:55",
    "source_feed": "urlscan_hunter",
    "verified": true
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://bridg-trezr-en.pages.dev/",
-   "first_seen": "2026-07-18 10:32:02",
-   "host": "bridg-trezr-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-12 12:58:03",
-   "source_feed": "ct_monitor",
-   "verified": false
   },
   {
    "brand": "Other",
@@ -8023,18 +7995,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://en-ledgeer-start.pages.dev/",
-   "first_seen": "2026-07-22 22:16:02",
-   "host": "en-ledgeer-start.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-12 12:50:11",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://en-ledger-app-live-bkf.pages.dev/",
    "first_seen": "2026-07-21 14:16:02",
    "host": "en-ledger-app-live-bkf.pages.dev",
@@ -12064,18 +12024,6 @@
    "host": "get-desktop-ledgr-3m9.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-12 12:56:11",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://get-desktop-ledgr.pages.dev/",
-   "first_seen": "2026-07-18 10:00:03",
-   "host": "get-desktop-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-12 12:48:44",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -17720,18 +17668,6 @@
    "verified": true
   },
   {
-   "brand": "Other",
-   "corroboration_count": 1,
-   "crypto": false,
-   "evidence_url": "https://jvr-portal.metaprofiling.com/",
-   "first_seen": "2026-08-11 11:15:50",
-   "host": "jvr-portal.metaprofiling.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-12 12:59:50",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": null,
    "corroboration_count": 1,
    "crypto": false,
@@ -17776,18 +17712,6 @@
    "host": "kanduvo.com",
    "hosting_platform": "Other",
    "last_seen": "2026-08-12 12:53:33",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Other",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "https://kantox-preprod.com/fr/secure/login",
-   "first_seen": "2026-08-10 11:16:29",
-   "host": "kantox-preprod.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-12 12:39:36",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -19456,18 +19380,6 @@
    "host": "ledgeer-en-lvedesktop.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-12 12:50:09",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgeer-get-live.pages.dev/",
-   "first_seen": "2026-07-22 22:48:01",
-   "host": "ledgeer-get-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-12 12:50:13",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -44588,18 +44500,6 @@
    "host": "whatsapp.spacevip.com.br",
    "hosting_platform": "Other",
    "last_seen": "2026-08-12 12:51:23",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "WhatsApp",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "http://whatsapp.traviyo.in/",
-   "first_seen": "2026-08-10 11:16:29",
-   "host": "whatsapp.traviyo.in",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-12 12:39:41",
    "source_feed": "OpenPhish",
    "verified": true
   },
