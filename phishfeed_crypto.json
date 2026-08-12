@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2735,
- "generated_at": "2026-08-12T22:10:03Z",
+ "count": 2737,
+ "generated_at": "2026-08-12T23:10:03Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -8131,6 +8131,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://guide-live-ledgr-come.pages.dev/",
+   "first_seen": "2026-08-12 16:48:02",
+   "host": "guide-live-ledgr-come.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-12 20:48:37",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://guide-live-ledgr-coms.pages.dev/",
    "first_seen": "2026-08-04 00:48:10",
    "host": "guide-live-ledgr-coms.pages.dev",
@@ -13728,6 +13740,18 @@
    "host": "ledger-a7a.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-12 20:35:41",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://ledger-app-16v.pages.dev/",
+   "first_seen": "2026-08-12 10:16:02",
+   "host": "ledger-app-16v.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-12 20:33:31",
    "source_feed": "ct_monitor",
    "verified": true
   },
