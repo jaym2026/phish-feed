@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2730,
- "generated_at": "2026-08-12T11:10:03Z",
+ "count": 2729,
+ "generated_at": "2026-08-12T12:10:02Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -683,7 +683,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "awsweb3apprunner-east0nsitecom.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-12 08:39:11",
+   "last_seen": "2026-08-12 11:15:39",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1091,7 +1091,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "coinbaseverify.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-12 08:38:57",
+   "last_seen": "2026-08-12 11:15:36",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -3599,7 +3599,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "dynamexcard.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-12 08:38:36",
+   "last_seen": "2026-08-12 11:15:34",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -20203,18 +20203,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledgr-live-engg.pages.dev/",
-   "first_seen": "2026-08-03 16:48:22",
-   "host": "ledgr-live-engg.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-12 08:55:01",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledgr-live-enn.pages.dev/",
    "first_seen": "2026-07-26 12:16:02",
    "host": "ledgr-live-enn.pages.dev",
@@ -25879,12 +25867,12 @@
    "brand": "Pedagio",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "https://pedagio-eletronico.vercel.app/",
+   "evidence_url": "https://pedagio-eletronico.vercel.app/inicio",
    "first_seen": "2026-06-24 11:17:54",
    "host": "pedagio-eletronico.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-12 08:54:02",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-12 11:15:34",
+   "source_feed": "PhishTank",
    "verified": false
   },
   {
