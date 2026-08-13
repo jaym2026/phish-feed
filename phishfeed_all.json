@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3783,
- "generated_at": "2026-08-13T05:10:03Z",
+ "count": 3780,
+ "generated_at": "2026-08-13T06:31:25Z",
  "hosts": [
   {
    "brand": "Other",
@@ -9840,7 +9840,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Microsoft",
    "corroboration_count": 0,
    "crypto": false,
    "evidence_url": "https://eu.microsft.org/?r=121b9d6609c848d34ad90e8920a100b7",
@@ -19037,18 +19037,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgeer-com-auth-start.pages.dev/",
-   "first_seen": "2026-07-23 18:00:03",
-   "host": "ledgeer-com-auth-start.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-13 04:47:44",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://ledgeer-com-start-app.pages.dev/",
@@ -25384,14 +25372,14 @@
    "verified": true
   },
   {
-   "brand": null,
+   "brand": "Ledger",
    "corroboration_count": 0,
-   "crypto": false,
+   "crypto": true,
    "evidence_url": "https://ledgr-are.pages.dev/",
    "first_seen": "2026-08-12T09:24:08.004767",
    "host": "ledgr-are.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-12 11:42:23",
+   "last_seen": "2026-08-13 05:47:44",
    "source_feed": "platform_hunter",
    "verified": true
   },
@@ -35840,18 +35828,6 @@
    "verified": true
   },
   {
-   "brand": "Tokyo Denki University",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "https://revviewfiles.es/jppppsss/",
-   "first_seen": "2026-08-03 14:04:17",
-   "host": "revviewfiles.es",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-13 00:25:44",
-   "source_feed": "open_redirect_pivot",
-   "verified": true
-  },
-  {
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
@@ -39088,18 +39064,6 @@
    "host": "start-ledgrr-live.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-13 04:45:43",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://start-ledgrs-en-us.pages.dev/",
-   "first_seen": "2026-07-23 16:48:01",
-   "host": "start-ledgrs-en-us.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-13 04:54:23",
    "source_feed": "ct_monitor",
    "verified": true
   },
