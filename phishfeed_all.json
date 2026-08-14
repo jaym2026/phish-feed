@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3777,
- "generated_at": "2026-08-14T09:10:01Z",
+ "count": 3782,
+ "generated_at": "2026-08-14T10:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -2644,6 +2644,18 @@
    "host": "base-ledgerlive-eng.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-14 09:00:52",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://base-ledgr-desktop.pages.dev/",
+   "first_seen": "2026-08-14 03:54:01",
+   "host": "base-ledgr-desktop.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-14 08:36:43",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -24103,6 +24115,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://ledgerly-cxv.pages.dev/",
+   "first_seen": "2026-08-13 18:16:05",
+   "host": "ledgerly-cxv.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-14 08:39:26",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://ledgeros.pages.dev/",
    "first_seen": "2026-07-23 02:48:02",
    "host": "ledgeros.pages.dev",
@@ -25152,18 +25176,6 @@
    "host": "ledgger-live-download.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-14 08:43:30",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgger-live-en-usa.pages.dev/",
-   "first_seen": "2026-07-30 06:48:02",
-   "host": "ledgger-live-en-usa.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-14 08:51:24",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -31605,6 +31617,18 @@
   },
   {
    "brand": "Microsoft",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://microsoft-7w1.pages.dev/",
+   "first_seen": "2026-08-14 01:38:01",
+   "host": "microsoft-7w1.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-14 08:33:54",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Microsoft",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://microsoft.authorised-support.com/login/hxb7OotFGJz7EKSI3cDuDx_Tqhf3aaCY1UEQ=5BA==/pj3GO-7mA-wnRGSL8fOlA4-LG0uRCHw1",
@@ -34788,6 +34812,18 @@
    "verified": true
   },
   {
+   "brand": null,
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://progeny-password-reset.pages.dev/",
+   "first_seen": "2026-08-13 23:16:02",
+   "host": "progeny-password-reset.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-14 08:38:22",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -35204,6 +35240,18 @@
    "host": "pump-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-14 09:00:25",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://purchase-ledger.pages.dev/",
+   "first_seen": "2026-08-13 11:33:03",
+   "host": "purchase-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-14 08:39:50",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -42689,6 +42737,18 @@
    "hosting_platform": "Other",
    "last_seen": "2026-08-14 08:53:58",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://voice-ledger.pages.dev/",
+   "first_seen": "2026-07-30 11:16:02",
+   "host": "voice-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-14 08:44:34",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
