@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2710,
- "generated_at": "2026-08-16T19:10:01Z",
+ "count": 2708,
+ "generated_at": "2026-08-16T20:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -979,12 +979,12 @@
    "brand": "Coinbase",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "http://coinbase-referral-code.vercel.app",
+   "evidence_url": "https://coinbase-referral-code.vercel.app/",
    "first_seen": "2026-06-08 11:13:30",
    "host": "coinbase-referral-code.vercel.app",
-   "hosting_platform": null,
+   "hosting_platform": "Vercel",
    "last_seen": "2026-08-16 17:02:56",
-   "source_feed": "Mastodon (phish)",
+   "source_feed": "PhishTank",
    "verified": false
   },
   {
@@ -11587,12 +11587,12 @@
    "brand": "KuCoin",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "https://kucoiin-log-in.webflow.io",
+   "evidence_url": "https://kucoiin-log-in.webflow.io/",
    "first_seen": "2026-06-08 11:13:30",
    "host": "kucoiin-log-in.webflow.io",
-   "hosting_platform": null,
+   "hosting_platform": "Webflow",
    "last_seen": "2026-08-16 17:01:42",
-   "source_feed": "Mastodon (phish)",
+   "source_feed": "PhishTank",
    "verified": false
   },
   {
@@ -11771,7 +11771,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "lear-trezorsuite.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-16 16:54:16",
+   "last_seen": "2026-08-16 16:59:35",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -13968,18 +13968,6 @@
    "host": "ledger-com-sta-rt-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-16 16:56:50",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-com-sta-rt-web.pages.dev/",
-   "first_seen": "2026-07-16 20:00:03",
-   "host": "ledger-com-sta-rt-web.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-16 16:58:47",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -16908,18 +16896,6 @@
    "host": "ledger-wallet-support.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-16 16:56:30",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-web-com-start.pages.dev/",
-   "first_seen": "2026-07-28 12:32:03",
-   "host": "ledger-web-com-start.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-16 16:57:59",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -29936,7 +29912,7 @@
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://trustwalletsupport.dev/",
-   "first_seen": "2026-06-22 11:15:43",
+   "first_seen": "2026-06-18 16:11:25",
    "host": "trustwalletsupport.dev",
    "hosting_platform": "Other",
    "last_seen": "2026-08-16 17:02:48",
