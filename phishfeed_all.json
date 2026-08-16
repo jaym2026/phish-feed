@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3771,
- "generated_at": "2026-08-15T23:10:02Z",
+ "count": 3762,
+ "generated_at": "2026-08-16T00:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -359,7 +359,7 @@
    "first_seen": "2026-06-26 17:18:27",
    "host": "69f51bf256ae1c589cdf5abb--ornate-kangaroo-aca286.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": false
   },
@@ -743,7 +743,7 @@
    "first_seen": "2026-07-06 18:10:07",
    "host": "advertising-account-management-console.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": false
   },
@@ -803,7 +803,7 @@
    "first_seen": "2026-06-29 18:05:24",
    "host": "ai-news-command-center-test.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -899,12 +899,12 @@
    ],
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://alert-navyfederal.web.app/account/activity/transaction/transaction_id=WyjzaGlub2J1Lmta57ecd?i=e005a4",
+   "evidence_url": "https://alert-navyfederal.web.app/account/activity/transaction/transaction_id=WyjzaGlub2J1Lmta57ecd?i=e005a4",
    "first_seen": "2026-06-24 11:17:54",
    "host": "alert-navyfederal.web.app",
    "hosting_platform": "Firebase",
-   "last_seen": "2026-08-15 21:06:19",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-15 23:31:53",
+   "source_feed": "urlscan_hunter",
    "verified": false
   },
   {
@@ -1227,7 +1227,7 @@
    "first_seen": "2026-07-13 18:06:51",
    "host": "apoioapscajamar.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -1815,7 +1815,7 @@
    "first_seen": "2026-07-09 18:03:52",
    "host": "atrix-account-intelligence.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -2067,7 +2067,7 @@
    "first_seen": "2026-07-05 21:07:52",
    "host": "auth.ftidev.link",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "kit_detonation_exfil",
    "verified": true
   },
@@ -2715,7 +2715,7 @@
    "first_seen": "2026-07-14 18:07:59",
    "host": "banks-7hg.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -2871,7 +2871,7 @@
    "first_seen": "2026-07-13 18:08:34",
    "host": "bew-client.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3123,7 +3123,7 @@
    "first_seen": "2026-07-11 18:12:24",
    "host": "bot-linkedin-813.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3135,7 +3135,7 @@
    "first_seen": "2026-07-08 18:05:09",
    "host": "bowl-billing.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3379,7 +3379,7 @@
    "first_seen": "2026-06-28 18:06:08",
    "host": "casino-click-form-second-azn.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3620,18 +3620,6 @@
    "host": "cloud-login-ledgr-live.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-15 20:55:41",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://cloude-ledger-com-auth.pages.dev/",
-   "first_seen": "2026-07-27 10:32:02",
-   "host": "cloude-ledger-com-auth.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 20:57:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -4367,7 +4355,7 @@
    "first_seen": "2026-06-26 15:16:24",
    "host": "controlhousegroup.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -4988,7 +4976,7 @@
    "first_seen": "2026-07-07 18:14:27",
    "host": "demo-login-page-1ev.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -6212,7 +6200,7 @@
    "first_seen": "2026-06-29 18:07:43",
    "host": "dishnetwork-login-in.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -6896,7 +6884,7 @@
    "first_seen": "2026-06-27 18:12:18",
    "host": "dreameow-account-deletion.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -11312,7 +11300,7 @@
    "first_seen": "2026-07-01 18:35:38",
    "host": "form-gates-of-olympus-fast-uz.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -11520,7 +11508,7 @@
    "first_seen": "2026-07-06 18:08:56",
    "host": "fromtop.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -13104,7 +13092,7 @@
    "first_seen": "2026-07-03 18:09:15",
    "host": "habit-tracker2.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -16188,7 +16176,7 @@
    "first_seen": "2026-07-14 18:09:47",
    "host": "insurance-cbt.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -16393,18 +16381,6 @@
    "host": "io-ledgerr-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-15 21:09:45",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://io-ledgger-com-io.pages.dev/",
-   "first_seen": "2026-07-24 07:48:03",
-   "host": "io-ledgger-com-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 21:08:57",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -17328,7 +17304,7 @@
    "first_seen": "2026-07-01 18:36:01",
    "host": "k-valut-telegram.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -19890,18 +19866,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-auth-live.pages.dev/",
-   "first_seen": "2026-07-27 10:48:02",
-   "host": "ledger-auth-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 20:57:04",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://ledger-bitcoin-recovery.org/",
@@ -20365,18 +20329,6 @@
    "host": "ledger-com-us-app-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-15 20:54:36",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-com-web-start-jid.pages.dev/",
-   "first_seen": "2026-07-27 10:16:01",
-   "host": "ledger-com-web-start-jid.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 20:57:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22861,18 +22813,6 @@
    "host": "ledger-up-walet.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-15 20:51:54",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-us-com-start.pages.dev/",
-   "first_seen": "2026-07-27 10:16:01",
-   "host": "ledger-us-com-start.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 20:57:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -26444,18 +26384,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledgr-livewllt-web.pages.dev/",
-   "first_seen": "2026-07-27 10:32:02",
-   "host": "ledgr-livewllt-web.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 20:57:04",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledgr-livv-app.pages.dev/",
    "first_seen": "2026-08-05 12:48:02",
    "host": "ledgr-livv-app.pages.dev",
@@ -26905,18 +26833,6 @@
    "host": "ledgr-wallet-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-15 20:58:28",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgr-wallet-device.pages.dev/",
-   "first_seen": "2026-07-27 10:32:02",
-   "host": "ledgr-wallet-device.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 20:57:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -30576,7 +30492,7 @@
    "first_seen": "2026-06-27 18:10:19",
    "host": "login-ledgercom.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -31480,7 +31396,7 @@
    "first_seen": "2026-07-13 18:02:59",
    "host": "mind-tests-frontend-dev.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": false
   },
@@ -31924,7 +31840,7 @@
    "first_seen": "2026-06-26 16:01:11",
    "host": "naver-bid-admin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -33176,7 +33092,7 @@
    "first_seen": "2026-06-27 09:00:08",
    "host": "optficount.duckdns.org",
    "hosting_platform": null,
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "dormant_watcher",
    "verified": true
   },
@@ -33632,7 +33548,7 @@
    "first_seen": "2026-06-26 17:00:16",
    "host": "pastovan.duckdns.org",
    "hosting_platform": null,
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "dormant_watcher",
    "verified": true
   },
@@ -35276,7 +35192,7 @@
    "first_seen": "2026-07-04 18:02:45",
    "host": "radiant-churros-e037bf.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": false
   },
@@ -35536,7 +35452,7 @@
    "first_seen": "2026-07-05 18:01:38",
    "host": "remarkable-crepe-c4a21b.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": false
   },
@@ -35584,7 +35500,7 @@
    "first_seen": "2026-07-04 18:04:24",
    "host": "resort-tracker.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -35620,7 +35536,7 @@
    "first_seen": "2026-08-15 18:03:36",
    "host": "retail-accounting.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 18:03:36",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -36028,7 +35944,7 @@
    "first_seen": "2026-07-07 18:04:06",
    "host": "safety-meeting-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -36604,7 +36520,7 @@
    "first_seen": "2026-06-26 17:30:10",
    "host": "secure-page-builder-1--makiuzoma.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -36772,7 +36688,7 @@
    "first_seen": "2026-07-07 18:11:40",
    "host": "seqret-auth-frontend.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -36844,7 +36760,7 @@
    "first_seen": "2026-07-04 18:02:01",
    "host": "service-tracking.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -37492,7 +37408,7 @@
    "first_seen": "2026-07-06 18:13:33",
    "host": "sound-slot-gates-of-olympus-multi-geo-kz-kk.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -38482,18 +38398,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://start-ledgr-desktop-io.pages.dev/",
-   "first_seen": "2026-07-16 23:16:01",
-   "host": "start-ledgr-desktop-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 20:57:47",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://start-ledgr-dty.pages.dev/",
@@ -39041,18 +38945,6 @@
    "host": "start-trezrr--dev.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-15 20:55:58",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://start-us-en-ledgr--x.pages.dev/",
-   "first_seen": "2026-06-23 12:41:19",
-   "host": "start-us-en-ledgr--x.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 21:01:23",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -39844,7 +39736,7 @@
    "first_seen": "2026-06-26 14:42:04",
    "host": "superos-auth-8xd.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -40324,7 +40216,7 @@
    "first_seen": "2026-07-10 18:12:09",
    "host": "swisstarget-proxy.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -42280,7 +42172,7 @@
    "first_seen": "2026-06-26 18:30:26",
    "host": "verify-gate-checkin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -43480,7 +43372,7 @@
    "first_seen": "2026-07-12 18:11:27",
    "host": "webdav-cloudflare-r2-pages.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -44044,7 +43936,7 @@
    "first_seen": "2026-07-05 18:05:49",
    "host": "wheel-gates-of-olympus-in.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -45032,7 +44924,7 @@
    "first_seen": "2026-06-28 18:11:10",
    "host": "xxcdnuser.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 05:37:01",
+   "last_seen": "2026-08-15 23:31:53",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
