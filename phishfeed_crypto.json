@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2705,
- "generated_at": "2026-08-16T17:10:02Z",
+ "count": 2704,
+ "generated_at": "2026-08-16T18:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -19007,7 +19007,7 @@
    "first_seen": "2026-08-12 09:24:08",
    "host": "ledgr-are.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 17:40:07",
+   "last_seen": "2026-08-16 17:36:27",
    "source_feed": "platform_hunter",
    "verified": true
   },
@@ -24263,7 +24263,7 @@
    "first_seen": "2026-06-27 18:10:19",
    "host": "login-ledgercom.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 23:31:53",
+   "last_seen": "2026-08-16 17:36:27",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -27287,7 +27287,7 @@
    "first_seen": "2026-07-31 18:06:54",
    "host": "sso-login-kucoin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-15 17:40:07",
+   "last_seen": "2026-08-16 17:36:27",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -29460,18 +29460,6 @@
    "host": "support-ledgr-io-web.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-16 16:54:40",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://support-ledgr-ios.pages.dev/",
-   "first_seen": "2026-07-23 22:32:02",
-   "host": "support-ledgr-ios.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-16 16:58:15",
    "source_feed": "ct_monitor",
    "verified": true
   },
