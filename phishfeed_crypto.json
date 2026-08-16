@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
  "count": 2702,
- "generated_at": "2026-08-16T11:10:02Z",
+ "generated_at": "2026-08-16T12:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -647,7 +647,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "awsweb3apprunner-east0nsitecom.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-16 08:49:35",
+   "last_seen": "2026-08-16 11:17:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1019,7 +1019,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "coinbaseverify.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-16 08:45:09",
+   "last_seen": "2026-08-16 11:17:46",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -3515,7 +3515,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "dynamexcard.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-16 08:44:31",
+   "last_seen": "2026-08-16 11:17:42",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -13219,18 +13219,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledger---live-web.pages.dev/",
-   "first_seen": "2026-07-31 19:00:03",
-   "host": "ledger---live-web.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-16 08:52:20",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledger--cm-started.pages.dev/",
    "first_seen": "2026-08-06 20:32:02",
    "host": "ledger--cm-started.pages.dev",
@@ -16489,6 +16477,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-16 08:46:59",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://ledger-security-checker.com/",
+   "first_seen": "2026-08-13 13:16:02",
+   "host": "ledger-security-checker.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-16 11:17:53",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -25543,12 +25543,12 @@
    "brand": "Pedagio",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "https://pedagio-eletronico.vercel.app/",
+   "evidence_url": "https://pedagio-eletronico.vercel.app/inicio",
    "first_seen": "2026-06-24 11:17:54",
    "host": "pedagio-eletronico.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-16 09:01:26",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-16 11:17:42",
+   "source_feed": "PhishTank",
    "verified": false
   },
   {
