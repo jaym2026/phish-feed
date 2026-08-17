@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3728,
- "generated_at": "2026-08-17T19:10:02Z",
+ "count": 3726,
+ "generated_at": "2026-08-17T20:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -36664,18 +36664,6 @@
    "verified": true
   },
   {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://simple-ledgr-start.pages.dev/",
-   "first_seen": "2026-07-15 23:32:02",
-   "host": "simple-ledgr-start.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 15:33:23",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
    "brand": "Microsoft",
    "corroboration_count": 3,
    "crypto": false,
@@ -42298,18 +42286,6 @@
    "evidence_url": "https://wallt-ledger.pages.dev/",
    "first_seen": "2026-07-23 20:32:03",
    "host": "wallt-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 15:32:47",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://wallt-ledgr.pages.dev/",
-   "first_seen": "2026-07-23 18:32:01",
-   "host": "wallt-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 15:32:47",
    "source_feed": "ct_monitor",
