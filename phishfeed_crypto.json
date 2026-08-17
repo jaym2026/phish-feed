@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2692,
- "generated_at": "2026-08-17T12:10:01Z",
+ "count": 2693,
+ "generated_at": "2026-08-17T13:40:00Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -947,7 +947,7 @@
    "first_seen": "2026-07-17 04:32:12",
    "host": "co-ledger-desk.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:04:18",
+   "last_seen": "2026-08-17 12:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2987,7 +2987,7 @@
    "first_seen": "2026-07-29 10:32:02",
    "host": "doc-phantomus.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 08:56:39",
+   "last_seen": "2026-08-17 12:38:25",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22871,7 +22871,7 @@
    "first_seen": "2026-07-29 09:32:02",
    "host": "live-ledger-co.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:05:34",
+   "last_seen": "2026-08-17 12:22:07",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -24302,6 +24302,18 @@
    "last_seen": "2026-08-17 08:56:02",
    "source_feed": "Mastodon (phish)",
    "verified": false
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://metamaskchromeextensionn.blogspot.com",
+   "first_seen": "2026-08-17 12:18:27",
+   "host": "metamaskchromeextensionn.blogspot.com",
+   "hosting_platform": null,
+   "last_seen": "2026-08-17 12:18:27",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
   },
   {
    "brand": "MetaMask",

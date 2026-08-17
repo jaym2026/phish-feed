@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3745,
- "generated_at": "2026-08-17T12:10:01Z",
+ "count": 3742,
+ "generated_at": "2026-08-17T13:40:00Z",
  "hosts": [
   {
    "brand": "Other",
@@ -3383,7 +3383,7 @@
    "first_seen": "2026-07-17 04:32:12",
    "host": "co-ledger-desk.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:04:18",
+   "last_seen": "2026-08-17 12:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6199,7 +6199,7 @@
    "first_seen": "2026-07-29 10:32:02",
    "host": "doc-phantomus.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 08:56:39",
+   "last_seen": "2026-08-17 12:38:25",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -28847,7 +28847,7 @@
    "first_seen": "2026-07-29 09:32:02",
    "host": "live-ledger-co.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:05:34",
+   "last_seen": "2026-08-17 12:22:07",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -30786,6 +30786,18 @@
    "last_seen": "2026-08-17 08:56:02",
    "source_feed": "Mastodon (phish)",
    "verified": false
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://metamaskchromeextensionn.blogspot.com",
+   "first_seen": "2026-08-17 12:18:27",
+   "host": "metamaskchromeextensionn.blogspot.com",
+   "hosting_platform": null,
+   "last_seen": "2026-08-17 12:18:27",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
   },
   {
    "brand": "MetaMask",
@@ -32780,18 +32792,6 @@
    "host": "onlineishop-misoporte.com",
    "hosting_platform": "Other",
    "last_seen": "2026-08-17 11:32:52",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Microsoft",
-   "corroboration_count": 1,
-   "crypto": false,
-   "evidence_url": "https://onlineservicetec.com/landingpages/90d69b1d-cc46-48a6-8a25-a3222e9cce64/uav_usonfsaxnvby-4z2ughpj76_dljgiidxbz7r33m",
-   "first_seen": "2026-06-25 11:16:03",
-   "host": "onlineservicetec.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:17:55",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -44344,18 +44344,6 @@
    "verified": true
   },
   {
-   "brand": "Other",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "http://www.onlineservicetec.com/landingpages/6641da38-5372-40e8-a9f2-f87c7b3b69de/RzNX4nB3tdKRBqIzgg6gJljbF-t_-fOnaKQGc6eaJeE",
-   "first_seen": "2026-08-15 11:17:49",
-   "host": "www.onlineservicetec.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-17 11:32:52",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "PayPal",
    "corroboration_count": 0,
    "crypto": false,
@@ -44452,18 +44440,6 @@
    "verified": true
   },
   {
-   "brand": "Other",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "http://www.solutionfun.info/landingpage/939c66c5-a2e6-4d48-93bb-6fda5e52ed17/tnuOXP6xEB_amudV8wNT5e8PVoRBwLlx98TEs-UQs-0",
-   "first_seen": "2026-08-15 11:17:49",
-   "host": "www.solutionfun.info",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-17 11:32:52",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Sparkasse",
    "corroboration_count": 1,
    "crypto": false,
@@ -44538,18 +44514,6 @@
    "last_seen": "2026-08-17 09:00:00",
    "source_feed": "PhishTank",
    "verified": false
-  },
-  {
-   "brand": "Other",
-   "corroboration_count": 3,
-   "crypto": false,
-   "evidence_url": "http://www.webfun.website/landingpages/fe996bbf-3dce-487c-acd3-4a69200fa8a0/nzgsyxcfqtmaoopyigy6c_oz4ahrk7p1rfca9qgkxj8",
-   "first_seen": "2026-06-21 11:17:36",
-   "host": "www.webfun.website",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:17:55",
-   "source_feed": "OpenPhish",
-   "verified": true
   },
   {
    "brand": "Other",
