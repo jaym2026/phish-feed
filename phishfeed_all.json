@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3700,
- "generated_at": "2026-08-17T11:10:02Z",
+ "count": 3745,
+ "generated_at": "2026-08-17T12:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -83,7 +83,7 @@
    "first_seen": "2026-07-16 11:16:56",
    "host": "2025-beta.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -175,11 +175,11 @@
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "http://43.156.0.130/v3/signin/identifier?amp%3Bfollowup=https%3A%2F%2Faccounts.google.com&amp%3Bifkv=ASKXGp0_nbFzdHoBsG_d6znGlWE063OUXUJ-liVgQNfJJB3wA_mip4wV6In-9Cchxtm7MSHwtubxoQ&amp%3Bpassive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxt0YrF7730vCPEpWpWFWgeJWVXiLZIvhI8mwYRz0P_V07h-UyeU0NF-UjnabBZl_NVQkHfR&dsh=S571788563%3A1784263888246922",
+   "evidence_url": "http://43.156.0.130/v3/signin/identifier?amp%3Bfollowup=https%3A%2F%2Faccounts.google.com%2F&amp%3Bifkv=AWnogHfrcMjMJOA5-x4JjU2A_H62FL5Ipip8qUn0FfsVqhu1vrUBPxBl4JpnqCjPGKNrTfaShVnNJQ&amp%3Bpassive=1209600&continue=https%3A%2F%2Faccounts.google.com%2F&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxtqyA0sVFFowGtnWPk9T5ZCrNbeDrEgxZZ71GQFN7gd-DApOBG-qUvnmHQis4SllHKA84QR_Q&dsh=S-1828361393%3A1786074737565530",
    "first_seen": "2026-06-19 11:14:58",
    "host": "43.156.0.130",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:18:49",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishStats",
    "verified": true
   },
@@ -263,7 +263,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "6465.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -386,6 +386,18 @@
    "last_seen": "2026-08-17 09:17:55",
    "source_feed": "OpenPhish",
    "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 1,
+   "crypto": false,
+   "evidence_url": "https://abms-jns.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "abms-jns.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:47",
+   "source_feed": "PhishTank",
+   "verified": true
   },
   {
    "brand": "Other",
@@ -517,6 +529,18 @@
    "hosting_platform": "GitHub Pages",
    "last_seen": "2026-08-17 09:14:42",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Trezor",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://account-security-trezor.pages.dev/",
+   "first_seen": "2026-08-17 06:38:02",
+   "host": "account-security-trezor.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -743,7 +767,7 @@
    "first_seen": "2026-08-05 11:14:25",
    "host": "aivrcmx.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -851,7 +875,7 @@
    "first_seen": "2026-08-01 11:11:12",
    "host": "alkpomna122.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -959,7 +983,7 @@
    "first_seen": "2026-06-26 11:15:44",
    "host": "ambaadi2026-cyber.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -971,7 +995,7 @@
    "first_seen": "2026-07-06 13:38:35",
    "host": "amigosdelasantacruz-commits.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:58",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1034,6 +1058,42 @@
    "last_seen": "2026-08-17 09:17:56",
    "source_feed": "OpenPhish",
    "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://annulation-s.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "annulation-s.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:46",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://annulation-socgen.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "annulation-socgen.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:46",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://anulsocg-gmps.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "anulsocg-gmps.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:46",
+   "source_feed": "PhishTank",
+   "verified": true
   },
   {
    "brand": "Other",
@@ -1283,7 +1343,7 @@
    "first_seen": "2026-07-28 11:12:17",
    "host": "apply-on-free-here.surge.sh",
    "hosting_platform": "Surge",
-   "last_seen": "2026-08-17 08:56:39",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1415,7 +1475,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "ar24-sigma.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1535,7 +1595,7 @@
    "first_seen": "2026-06-23 11:16:06",
    "host": "askyourquery.net",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1643,7 +1703,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "attttnetconfirm-verify20381.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -1655,7 +1715,7 @@
    "first_seen": "2026-07-18 11:16:31",
    "host": "aunmnu.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:03",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1847,7 +1907,7 @@
    "first_seen": "2026-06-22 11:15:43",
    "host": "auth-ndax-login.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -1907,7 +1967,7 @@
    "first_seen": "2026-06-11 21:18:40",
    "host": "authorizedfixednode.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:15:39",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1955,7 +2015,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "awsapprunner-west-0clinedcom.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1967,7 +2027,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "awsweb3apprunner-east0nsitecom.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2375,7 +2435,7 @@
    "first_seen": "2026-06-18 12:31:27",
    "host": "bafybeiba5t7gefttnj6v45j2sxtjn5mi5rmgrkpvn47h2psozuu6sqc5wm.ipfs.dweb.link",
    "hosting_platform": "IPFS Gateway (ipfs.io)",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2387,7 +2447,7 @@
    "first_seen": "2026-06-18 12:31:27",
    "host": "bafybeiba5t7gefttnj6v45j2sxtjn5mi5rmgrkpvn47h2psozuu6sqc5wm.ipfs.inbrowser.link",
    "hosting_platform": "IPFS Gateway (ipfs.io)",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2399,7 +2459,7 @@
    "first_seen": "2026-06-11 11:12:45",
    "host": "baksmany.org",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:52:41",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2423,7 +2483,7 @@
    "first_seen": "2026-06-20 11:15:49",
    "host": "banco-pichincha.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2495,7 +2555,7 @@
    "first_seen": "2026-07-07 11:16:58",
    "host": "bbiwbsiw-tech.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2615,7 +2675,7 @@
    "first_seen": "2026-08-11 11:15:50",
    "host": "bi-magalu-benews.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:57:50",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2683,12 +2743,12 @@
    "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
-   "evidence_url": "http://bima-ativasi-mobile.vercel.app/",
+   "evidence_url": "https://bima-ativasi-mobile.vercel.app/",
    "first_seen": "2026-07-07 11:16:58",
    "host": "bima-ativasi-mobile.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:17:03",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -2747,7 +2807,7 @@
    "first_seen": "2026-07-09 11:17:42",
    "host": "bitly.cx",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2927,7 +2987,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "buksh-alee.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:11",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -3059,7 +3119,7 @@
    "first_seen": "2026-06-18 11:17:11",
    "host": "casobancamiga.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -3167,7 +3227,7 @@
    "first_seen": "2026-07-05 11:16:03",
    "host": "cigaretteswhilelisteningtomusic.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:58",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -3395,7 +3455,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "coinbaseverify.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:36",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -3563,7 +3623,7 @@
    "first_seen": "2026-07-18 11:16:31",
    "host": "come.ac",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:56:03",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4047,12 +4107,12 @@
    ],
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://cpcontacts.20-244-0-63.cprapid.com/",
+   "evidence_url": "https://cpcontacts.20-244-0-63.cprapid.com/signin",
    "first_seen": "2026-08-06 11:15:36",
    "host": "cpcontacts.20-244-0-63.cprapid.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:04:37",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -4183,7 +4243,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "cuddly-lamp.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:18",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4208,6 +4268,18 @@
    "host": "cwymkfndmd-stack.github.io",
    "hosting_platform": "GitHub Pages",
    "last_seen": "2026-08-17 08:59:34",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://cxyziva.vu/onlghdhhg/hihtrybhgg",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "cxyziva.vu",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -4327,7 +4399,7 @@
    "first_seen": "2026-07-31 11:12:14",
    "host": "dashboardaccount-moviepremiumnetfix.129-121-114-233.cpanel.site",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4363,7 +4435,7 @@
    "first_seen": "2026-08-13 11:19:30",
    "host": "dbs-secure.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:59:34",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4495,7 +4567,7 @@
    "first_seen": "2026-07-07 11:16:58",
    "host": "deepika-m-06.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4539,12 +4611,12 @@
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "https://delicate-horse-3bbb09.netlify.app/",
+   "evidence_url": "http://delicate-horse-3bbb09.netlify.app/",
    "first_seen": "2026-08-15 11:17:49",
    "host": "delicate-horse-3bbb09.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 08:54:50",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -4579,7 +4651,7 @@
    "first_seen": "2026-07-08 11:17:01",
    "host": "denver.candy-dev.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4618,6 +4690,18 @@
    "last_seen": "2026-08-17 09:12:45",
    "source_feed": "PhishTank",
    "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://design42.ict.ph/broxx/allieif.html",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "design42.ict.ph",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
   },
   {
    "brand": "Ledger",
@@ -5791,7 +5875,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "diskcacambasdetroit.com.br",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -5899,7 +5983,7 @@
    "first_seen": "2026-08-01 11:11:12",
    "host": "doc-aavmdlr.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -6103,7 +6187,7 @@
    "first_seen": "2026-08-04 11:16:08",
    "host": "doc-mkvelinb.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -6127,7 +6211,7 @@
    "first_seen": "2026-08-02 11:13:45",
    "host": "doc-ythvvbc.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -6747,12 +6831,12 @@
    "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
-   "evidence_url": "http://dupllacidadania.com/wp-admin/js/widgets/membercenter.made-in-china.com/index.html",
+   "evidence_url": "https://dupllacidadania.com/wp-admin/js/widgets/membercenter.made-in-china.com/index.html",
    "first_seen": "2026-08-07 11:16:33",
    "host": "dupllacidadania.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:02:03",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -6787,7 +6871,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "dynamexcard.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:51",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -6895,7 +6979,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "ecotoursturkey.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:18",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -7675,7 +7759,7 @@
    "first_seen": "2026-08-17 05:54:02",
    "host": "en-ledgr-org-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 05:54:02",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9211,7 +9295,7 @@
    "first_seen": "2026-07-10 11:18:46",
    "host": "epicarena.com.br",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -9223,7 +9307,7 @@
    "first_seen": "2026-06-11 21:18:40",
    "host": "epichange.org",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -9247,7 +9331,7 @@
    "first_seen": "2026-07-19 11:14:28",
    "host": "erfan82erfan.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:03",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -9259,7 +9343,7 @@
    "first_seen": "2026-06-12 11:16:11",
    "host": "eri0-dreayi.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:16:22",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -9999,11 +10083,23 @@
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_za1e1c3219b22cac692f00811_f101cd76d393ee210_d20260804_m115805_c005_v0501047_t0040_u01785844685624",
+   "evidence_url": "https://f005.backblazeb2.com/b2api/v1/b2_download_file_by_id?fileId=4_z5a673c42fc7f1b7590f90e12_f11503d6d9d520b09_d20260708_m130755_c005_v0501046_t0057_u01783516075435",
    "first_seen": "2026-07-24 14:26:40",
    "host": "f005.backblazeb2.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:03:10",
+   "last_seen": "2026-08-17 11:19:51",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://faceb00k-br.blogspot.com/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "faceb00k-br.blogspot.com",
+   "hosting_platform": "Blogspot",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10579,7 +10675,7 @@
    "first_seen": "2026-06-16 11:16:17",
    "host": "farmapay-replica.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -10593,6 +10689,18 @@
    "hosting_platform": "Blogspot",
    "last_seen": "2026-08-17 08:57:51",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://fbet-auju.duckdns.org/",
+   "first_seen": "2026-06-11 21:18:40",
+   "host": "fbet-auju.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:47",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -10688,6 +10796,18 @@
    "host": "ff.emmashoestienda.com",
    "hosting_platform": "Other",
    "last_seen": "2026-08-17 09:17:41",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Fidelity",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://fidelity-investment.vercel.app/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "fidelity-investment.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10819,7 +10939,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "flutney.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -10908,6 +11028,18 @@
    "host": "formspreeguatemalashoponline.github.io",
    "hosting_platform": "GitHub Pages",
    "last_seen": "2026-08-17 09:15:27",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://forprojectwork2021.github.io/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "forprojectwork2021.github.io",
+   "hosting_platform": "GitHub Pages",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -11039,7 +11171,7 @@
    "first_seen": "2026-06-10 00:51:47",
    "host": "freash23.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -11195,7 +11327,7 @@
    "first_seen": "2026-07-13 11:16:33",
    "host": "geckotristate.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:52:40",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -11245,6 +11377,18 @@
    "hosting_platform": "GitHub Pages",
    "last_seen": "2026-08-17 09:17:03",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "LinkedIn",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://georgetownmover.com/www.linkedin.com/index.html",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "georgetownmover.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:19:47",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -11860,6 +12004,18 @@
    "verified": true
   },
   {
+   "brand": "Google",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://gmail-account.vercel.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "gmail-account.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
@@ -11915,7 +12071,7 @@
    "first_seen": "2026-06-19 11:14:58",
    "host": "golr3795-sudo.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -12820,6 +12976,30 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://hello-my-project-for-study.vercel.app/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "hello-my-project-for-study.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://hellomatethismypagepleasejoin.vercel.app/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "hellomatethismypagepleasejoin.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
@@ -13403,7 +13583,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "hg111222.cc",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -14687,7 +14867,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "htyd.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:08",
+   "last_seen": "2026-08-17 11:19:46",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -14867,7 +15047,7 @@
    "first_seen": "2026-07-18 11:16:31",
    "host": "human-resources-benefit.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:03",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -14903,7 +15083,7 @@
    "first_seen": "2026-08-07 11:16:33",
    "host": "hyperters.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 09:00:38",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -14915,7 +15095,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "iadigital.com.br",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:18",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -15004,6 +15184,18 @@
    "verified": true
   },
   {
+   "brand": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale",
+   "corroboration_count": 1,
+   "crypto": false,
+   "evidence_url": "https://in-anuls.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "in-anuls.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:47",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -15071,7 +15263,7 @@
    "first_seen": "2026-07-19 11:14:28",
    "host": "indexzip-1.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-17 08:56:03",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -15095,7 +15287,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "indoamerica200.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:18",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -15443,7 +15635,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "instagram-cam.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -15515,7 +15707,7 @@
    "first_seen": "2026-07-18 11:16:31",
    "host": "instagram5-byte.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:03",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -15551,7 +15743,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "instagrmm.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:08",
+   "last_seen": "2026-08-17 11:19:46",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -16444,6 +16636,42 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://ishop-mixupmx-online.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "ishop-mixupmx-online.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://ishopmexico-retenciones.app/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "ishopmexico-retenciones.app",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://ishopmixup-recuperaciomx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "ishopmixup-recuperaciomx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -16487,7 +16715,7 @@
    "first_seen": "2026-07-30 11:13:39",
    "host": "item.ehay.com.login.secures-wr8wsvzt.construccionesjlfabririssas.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:53:03",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -16631,7 +16859,7 @@
    "first_seen": "2026-07-01 11:16:13",
    "host": "jimcooks211.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:52",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -16775,7 +17003,7 @@
    "first_seen": "2026-06-12 11:16:11",
    "host": "kasmli313univ.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -16799,7 +17027,7 @@
    "first_seen": "2026-06-15 12:58:55",
    "host": "kciane645estar.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -16823,7 +17051,7 @@
    "first_seen": "2026-06-11 11:12:45",
    "host": "kiamdrive474exch.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -28007,7 +28235,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "lighthearted-zabaione-c450ce.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -29591,7 +29819,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "ln.run",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -29915,7 +30143,7 @@
    "first_seen": "2026-06-17 11:16:50",
    "host": "login.hmvegn.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -30059,7 +30287,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "loquacious-naiad-5360db.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -30291,7 +30519,7 @@
    "first_seen": "2026-07-14 11:15:39",
    "host": "mailiredisdiscord-cell.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -30317,6 +30545,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:03:54",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Microsoft",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://malienterprises.com/exe/app/",
+   "first_seen": "2026-08-12 11:15:41",
+   "host": "malienterprises.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -30387,7 +30627,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "marketcommonhomesonline.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:52",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -30447,7 +30687,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "meateemasklugn.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -30497,6 +30737,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-16 17:36:27",
    "source_feed": "urlscan_hunter",
+   "verified": true
+  },
+  {
+   "brand": "Messenger",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://messenger-verrification-supporst.us/login",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "messenger-verrification-supporst.us",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -30567,7 +30819,7 @@
    "first_seen": "2026-08-04 11:16:08",
    "host": "metasecurity3.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -30740,6 +30992,114 @@
    "verified": true
   },
   {
+   "brand": "Apple",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://mireporteapplemx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "mireporteapplemx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://mireporteishop-mx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "mireporteishop-mx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://misoporte-ishopmxonline.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "misoporte-ishopmxonline.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://misoporte-mixupmx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "misoporte-mixupmx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://misoporte-online-mixupmx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "misoporte-online-mixupmx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://misoporteishopmx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "misoporteishopmx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://misoporteonline-ishopmixupmx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "misoporteonline-ishopmixupmx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://misoporteonline-macstoremx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "misoporteonline-macstoremx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://misoporteonline-reportesmx.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "misoporteonline-reportesmx.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
@@ -30795,7 +31155,7 @@
    "first_seen": "2026-08-17 06:38:02",
    "host": "monthly-ledger-er9.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 06:38:02",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -30819,7 +31179,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "moonlit-phoenix-8039b7.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -30951,7 +31311,7 @@
    "first_seen": "2026-06-11 11:12:45",
    "host": "mubeenahmedyt789-dotcom.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -30963,7 +31323,7 @@
    "first_seen": "2026-07-07 11:16:58",
    "host": "muda34026-droid.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:00",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -31011,7 +31371,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "myndxxlogans.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -31239,7 +31599,7 @@
    "first_seen": "2026-06-22 11:15:43",
    "host": "nddaxxsignin.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -31287,7 +31647,7 @@
    "first_seen": "2026-08-01 11:11:12",
    "host": "neon59903-alt.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -31395,8 +31755,20 @@
    "first_seen": "2026-08-04 11:16:09",
    "host": "newbreedlifearts.org",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://newlogin.webaccess-alert.com/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "newlogin.webaccess-alert.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -32112,6 +32484,18 @@
    "verified": true
   },
   {
+   "brand": "Exodus",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://offiicals-exod.pages.dev/",
+   "first_seen": "2026-08-17 04:38:02",
+   "host": "offiicals-exod.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -32167,7 +32551,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "olbitx.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:49",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -32340,6 +32724,18 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://online-ishopoficial.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "online-ishopoficial.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -32352,6 +32748,18 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://online-recuperacionishop.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "online-recuperacionishop.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": null,
    "corroboration_count": 0,
    "crypto": false,
@@ -32361,6 +32769,18 @@
    "hosting_platform": "Vercel",
    "last_seen": "2026-08-17 08:49:10",
    "source_feed": "platform_hunter",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://onlineishop-misoporte.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "onlineishop-misoporte.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -32419,7 +32839,7 @@
    "first_seen": "2026-07-25 11:10:53",
    "host": "orange-1.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:04",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -32796,6 +33216,18 @@
    "verified": true
   },
   {
+   "brand": "Leboncoin",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://paiement-boncoin.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "paiement-boncoin.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:46",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
    "brand": "Other",
    "corroboration_count": 1,
    "crypto": false,
@@ -32923,7 +33355,7 @@
    "first_seen": "2026-08-05 11:14:25",
    "host": "paywalletsecure.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -32955,12 +33387,12 @@
    "brand": "Pedagio",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "https://pedagio-eletronico.vercel.app/",
+   "evidence_url": "https://pedagio-eletronico.vercel.app/inicio",
    "first_seen": "2026-06-24 11:17:54",
    "host": "pedagio-eletronico.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:17:42",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:19:49",
+   "source_feed": "PhishTank",
    "verified": false
   },
   {
@@ -32971,7 +33403,7 @@
    "first_seen": "2026-07-09 11:17:42",
    "host": "peee-dash-zim-six.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -33211,7 +33643,7 @@
    "first_seen": "2026-07-31 11:12:14",
    "host": "php-web-server--unittec.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-17 08:56:40",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -33223,7 +33655,7 @@
    "first_seen": "2026-06-20 11:15:49",
    "host": "pichincha.firebaseapp.com",
    "hosting_platform": "Firebase",
-   "last_seen": "2026-08-17 08:55:25",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -33295,7 +33727,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "pnc-nine.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:08",
+   "last_seen": "2026-08-17 11:19:46",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -33355,7 +33787,7 @@
    "first_seen": "2026-07-12 11:28:46",
    "host": "pocket.kg",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -33967,7 +34399,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "pub-1bae389293eb48d58e53398a6e375d75.r2.dev",
    "hosting_platform": "Cloudflare R2",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -34003,7 +34435,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "pub-6f3f870ec2f04c2f9b5a3f312a76eb9e.r2.dev",
    "hosting_platform": "Cloudflare R2",
-   "last_seen": "2026-08-17 08:55:18",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -34087,7 +34519,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "pub-f44d81b8724d45818e53a22e6e4f737a.r2.dev",
    "hosting_platform": "Cloudflare R2",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -34095,12 +34527,12 @@
    "brand": "Other",
    "corroboration_count": 1,
    "crypto": false,
-   "evidence_url": "https://pub-f8fde659e2dc4783b121a5445d3d74c0.r2.dev/wmx.html?Faurecia=galix7%40af2a53fdf681ce9589746327d14fb4234cb5.com%2F",
+   "evidence_url": "https://pub-f8fde659e2dc4783b121a5445d3d74c0.r2.dev/wmx.html",
    "first_seen": "2026-06-28 11:15:18",
    "host": "pub-f8fde659e2dc4783b121a5445d3d74c0.r2.dev",
    "hosting_platform": "Cloudflare R2",
-   "last_seen": "2026-08-17 09:16:38",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:19:49",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -34571,7 +35003,7 @@
    "first_seen": "2026-07-24 14:26:39",
    "host": "rcb.cuj.temporary.site",
    "hosting_platform": "Temporary.site",
-   "last_seen": "2026-08-17 08:59:34",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -34636,6 +35068,30 @@
    "verified": true
   },
   {
+   "brand": "Apple",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://reclamacionesapple.com/s1.php/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "reclamacionesapple.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 1,
+   "crypto": false,
+   "evidence_url": "https://reduc-losfs.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "reduc-losfs.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:47",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
@@ -34679,7 +35135,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "reimagined-funicular-jmjb.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:08",
+   "last_seen": "2026-08-17 11:19:46",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -34763,7 +35219,7 @@
    "first_seen": "2026-08-03 11:14:02",
    "host": "restauramariana.com.br",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -34859,7 +35315,7 @@
    "first_seen": "2026-08-07 11:16:33",
    "host": "rngkuqoo.elementor.cloud",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:00:38",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -34955,7 +35411,7 @@
    "first_seen": "2026-07-13 11:16:33",
    "host": "roy689.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35087,7 +35543,7 @@
    "first_seen": "2026-08-07 11:16:33",
    "host": "s3.us-east-2.amazonaws.com",
    "hosting_platform": "AWS S3",
-   "last_seen": "2026-08-17 09:00:38",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35279,7 +35735,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "samplel-ks6yxvur5-instagramm.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35308,14 +35764,14 @@
    "verified": false
   },
   {
-   "brand": "Santander",
+   "brand": "Banco Santander, S.A.",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://santander.kinsta.cloud/",
    "first_seen": "2026-06-08 11:13:30",
    "host": "santander.kinsta.cloud",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:57:50",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35351,7 +35807,7 @@
    "first_seen": "2026-07-19 11:14:28",
    "host": "sardineext.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:03",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35411,7 +35867,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "sddftyrdyfwaru.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:03:45",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35699,7 +36155,7 @@
    "first_seen": "2026-08-07 11:16:33",
    "host": "secure-page-builder--bigpride007.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-17 09:00:38",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35735,7 +36191,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "secure-static-page--andrewkhan89.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-17 08:56:38",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -35896,6 +36352,18 @@
    "verified": true
   },
   {
+   "brand": "Leboncoin",
+   "corroboration_count": 1,
+   "crypto": false,
+   "evidence_url": "https://service-boncoin.duckdns.org/",
+   "first_seen": "2026-06-08 11:13:30",
+   "host": "service-boncoin.duckdns.org",
+   "hosting_platform": "Duck DNS",
+   "last_seen": "2026-08-17 11:19:46",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
@@ -35951,7 +36419,7 @@
    "first_seen": "2026-07-16 11:16:56",
    "host": "serviemprende2026.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -36047,7 +36515,7 @@
    "first_seen": "2026-07-13 11:16:33",
    "host": "shabirhussain276-cpu.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -36145,6 +36613,18 @@
    "hosting_platform": "Vercel",
    "last_seen": "2026-08-17 09:02:32",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Roblox",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://shiro1x210.github.io/robloxlogin-/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "shiro1x210.github.io",
+   "hosting_platform": "GitHub Pages",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -36335,7 +36815,7 @@
    "first_seen": "2026-08-16 11:17:53",
    "host": "simple-security-page--weekkiol.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-17 08:52:10",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -36484,18 +36964,6 @@
    "verified": true
   },
   {
-   "brand": "Amazon",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "http://softmicro.s3-website-us-east-1.amazonaws.com/#info@mup.cz",
-   "first_seen": "2026-06-11 11:12:45",
-   "host": "softmicro.s3-website-us-east-1.amazonaws.com",
-   "hosting_platform": "AWS S3",
-   "last_seen": "2026-08-13 11:43:55",
-   "source_feed": "PhishTank",
-   "verified": true
-  },
-  {
    "brand": "Other",
    "corroboration_count": 1,
    "crypto": false,
@@ -36575,7 +37043,7 @@
    "first_seen": "2026-08-08 12:35:29",
    "host": "sparkling-fenglisu-5df58c.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-17 09:00:55",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -36671,7 +37139,7 @@
    "first_seen": "2026-08-15 11:17:48",
    "host": "squarespace-me-affiliates.squarespace.com",
    "hosting_platform": "Squarespace",
-   "last_seen": "2026-08-17 08:54:49",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -38483,7 +38951,7 @@
    "first_seen": "2026-08-03 11:14:02",
    "host": "stockhouse.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -38491,12 +38959,12 @@
    "brand": "Google",
    "corroboration_count": 1,
    "crypto": false,
-   "evidence_url": "http://storage.googleapis.com/0bdh36hd-file/driveworkspace.html",
+   "evidence_url": "https://storage.googleapis.com/imole17765/43567970005/3003543765988/focm/50012/index.html",
    "first_seen": "2026-06-08 11:13:29",
    "host": "storage.googleapis.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:17:03",
-   "source_feed": "PhishStats",
+   "hosting_platform": "Google Cloud Storage",
+   "last_seen": "2026-08-17 11:19:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -38519,7 +38987,7 @@
    "first_seen": "2026-06-11 11:12:45",
    "host": "storebucks.org",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:01:27",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -39125,18 +39593,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://support-ledgeer-live-apps.pages.dev/",
-   "first_seen": "2026-07-16 04:48:02",
-   "host": "support-ledgeer-live-apps.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 08:56:02",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://support-ledger-co-us.pages.dev/",
@@ -39395,7 +39851,7 @@
    "first_seen": "2026-08-04 11:16:08",
    "host": "swvcnm.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -39407,7 +39863,7 @@
    "first_seen": "2026-08-01 11:11:12",
    "host": "syamazon168.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:53:03",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -39420,6 +39876,18 @@
    "host": "sys.028426.com",
    "hosting_platform": "Other",
    "last_seen": "2026-08-17 09:05:34",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://tactica7.com.mx/plala/jpn/webmai1/index.php",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "tactica7.com.mx",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -39647,7 +40115,7 @@
    "first_seen": "2026-08-17 06:54:02",
    "host": "the-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 06:54:02",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -39679,11 +40147,11 @@
    "brand": "Other",
    "corroboration_count": 1,
    "crypto": false,
-   "evidence_url": "https://tinyurl.com/3x4e89ap",
+   "evidence_url": "https://tinyurl.com/3d2sn8vn",
    "first_seen": "2026-07-12 11:28:46",
    "host": "tinyurl.com",
    "hosting_platform": "TinyURL",
-   "last_seen": "2026-08-17 09:00:54",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -39756,6 +40224,18 @@
    "host": "topup-koro.github.io",
    "hosting_platform": "GitHub Pages",
    "last_seen": "2026-08-17 09:04:58",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://trafifer.github.io/rob/?p=robuxroblox",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "trafifer.github.io",
+   "hosting_platform": "GitHub Pages",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -40115,7 +40595,7 @@
    "first_seen": "2026-08-05 11:14:25",
    "host": "tvcmnuiot.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -40187,7 +40667,7 @@
    "first_seen": "2026-07-11 11:15:39",
    "host": "udhayarraj619-art.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:56:02",
+   "last_seen": "2026-08-17 11:19:50",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -40324,6 +40804,18 @@
    "verified": true
   },
   {
+   "brand": "Yahoo",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://updatescoopyahoo.dpdns.org/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "updatescoopyahoo.dpdns.org",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
    "brand": "Microsoft",
    "corroboration_count": 0,
    "crypto": false,
@@ -40331,7 +40823,19 @@
    "first_seen": "2026-08-16 11:17:53",
    "host": "updateserv-owa.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:52:10",
+   "last_seen": "2026-08-17 11:19:52",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Yahoo",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://updateversescoopyah.dpdns.org/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "updateversescoopyah.dpdns.org",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -40343,7 +40847,7 @@
    "first_seen": "2026-06-09 11:15:44",
    "host": "upndownco.tor1.digitaloceanspaces.com",
    "hosting_platform": "DigitalOcean Spaces",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -41555,7 +42059,7 @@
    "first_seen": "2026-08-01 11:11:12",
    "host": "vigilance89.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -42367,6 +42871,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://web-ledgrrlive.pages.dev/",
+   "first_seen": "2026-08-17 06:54:03",
+   "host": "web-ledgrrlive.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://web-ledgrrr-livee-en.pages.dev/",
    "first_seen": "2026-07-21 20:48:01",
    "host": "web-ledgrrr-livee-en.pages.dev",
@@ -42703,12 +43219,12 @@
    "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
-   "evidence_url": "http://webser99-mxhost997.vercel.app:443/",
+   "evidence_url": "https://webser99-mxhost997.vercel.app/",
    "first_seen": "2026-06-08 11:13:30",
    "host": "webser99-mxhost997.vercel.app",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-17 09:14:17",
-   "source_feed": "OpenPhish",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-17 11:19:47",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -42760,6 +43276,18 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://wedfgbnmoijhgcxvbnm-dpyjx01bl5o7.edgeone.dev/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "wedfgbnmoijhgcxvbnm-dpyjx01bl5o7.edgeone.dev",
+   "hosting_platform": "Tencent EdgeOne",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Apple",
    "corroboration_count": 1,
    "crypto": false,
@@ -42767,7 +43295,7 @@
    "first_seen": "2026-07-03 11:16:59",
    "host": "weedfreegardening.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:55",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -43139,7 +43667,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "wellsfargo-worl.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:04",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -43151,7 +43679,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "wetransfer-mu.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:04",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -43307,7 +43835,7 @@
    "first_seen": "2026-07-22 11:17:25",
    "host": "wordpress-1644952-6533726.cloudwaysapps.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:56:04",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -43595,7 +44123,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "www.fourfreedomsblog.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:18",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -43607,7 +44135,7 @@
    "first_seen": "2026-07-04 11:16:03",
    "host": "www.georgetownmover.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:58",
+   "last_seen": "2026-08-17 11:19:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -43799,7 +44327,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "www.mohelusa.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:08",
+   "last_seen": "2026-08-17 11:19:46",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -43807,11 +44335,23 @@
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "http://www.onlineservicetec.com/landingpages/fe996bbf-3dce-487c-acd3-4a69200fa8a0/XHuGh3MwqO61T8IhIRdumoaHrrH_MUNV2zn3bSaL8AQ",
+   "evidence_url": "https://www.nsgacademy.com/path/directory/cpanel.html",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "www.nsgacademy.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://www.onlineservicetec.com/landingpages/6641da38-5372-40e8-a9f2-f87c7b3b69de/RzNX4nB3tdKRBqIzgg6gJljbF-t_-fOnaKQGc6eaJeE",
    "first_seen": "2026-08-15 11:17:49",
    "host": "www.onlineservicetec.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:54:50",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -43871,7 +44411,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "www.roblox.com.et",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:55:18",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -43915,11 +44455,11 @@
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "http://www.solutionfun.info/landingpage/fe996bbf-3dce-487c-acd3-4a69200fa8a0/r764jJxg06ewU5aqPrP_5V7cMXnKN71bfmLEV_SlRL4",
+   "evidence_url": "http://www.solutionfun.info/landingpage/939c66c5-a2e6-4d48-93bb-6fda5e52ed17/tnuOXP6xEB_amudV8wNT5e8PVoRBwLlx98TEs-UQs-0",
    "first_seen": "2026-08-15 11:17:49",
    "host": "www.solutionfun.info",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-17 08:54:50",
+   "last_seen": "2026-08-17 11:32:52",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -44151,7 +44691,7 @@
    "first_seen": "2026-08-05 11:14:25",
    "host": "xfinityupdates.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:00:30",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -44223,7 +44763,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "yjasur039-cyber.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-17 08:55:24",
+   "last_seen": "2026-08-17 11:19:47",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -44235,7 +44775,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "ynvcxcv.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 08:56:36",
+   "last_seen": "2026-08-17 11:19:51",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -44303,12 +44843,12 @@
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://yuixszc.vercel.app/",
+   "evidence_url": "https://yuixszc.vercel.app/",
    "first_seen": "2026-08-06 11:15:36",
    "host": "yuixszc.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:03:10",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -44343,7 +44883,7 @@
    "first_seen": "2026-08-01 11:11:12",
    "host": "z456df7g8hj.z13.web.core.windows.net",
    "hosting_platform": "Azure Blob",
-   "last_seen": "2026-08-17 09:00:24",
+   "last_seen": "2026-08-17 11:19:52",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -44351,12 +44891,12 @@
    "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
-   "evidence_url": "http://zcxwmnbv.vercel.app/",
+   "evidence_url": "https://zcxwmnbv.vercel.app/",
    "first_seen": "2026-07-14 11:15:39",
    "host": "zcxwmnbv.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-08-17 09:15:50",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
