@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2693,
- "generated_at": "2026-08-17T13:40:00Z",
+ "count": 2706,
+ "generated_at": "2026-08-17T14:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -253,6 +253,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:04:47",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://app-live-ledger-wllet.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "app-live-ledger-wllet.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -739,6 +751,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "http://begin-ledger-support.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "begin-ledger-support.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://bet-ledger-2b6.pages.dev/",
    "first_seen": "2026-07-21 18:32:01",
    "host": "bet-ledger-2b6.pages.dev",
@@ -949,6 +973,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 12:54:02",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://co-web-ledger-live-login.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "co-web-ledger-live-login.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -2989,6 +3025,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 12:38:25",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://docs--login--ledger-live-desktop-io.typedream.app/",
+   "first_seen": "2026-08-17 11:19:53",
+   "host": "docs--login--ledger-live-desktop-io.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -5184,18 +5232,6 @@
    "host": "eng-ledger-cdn-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:02:03",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://eng-ledger-faq-b2d.pages.dev/",
-   "first_seen": "2026-08-03 06:48:02",
-   "host": "eng-ledger-faq-b2d.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:05:11",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13939,6 +13975,30 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://ledger-com-start-sso-web.typedream.app/",
+   "first_seen": "2026-07-30 11:13:39",
+   "host": "ledger-com-start-sso-web.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:19:52",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://ledger-com-start-start-us-app.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "ledger-com-start-start-us-app.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://ledger-com-start-up.pages.dev/",
    "first_seen": "2026-07-29 02:48:01",
    "host": "ledger-com-start-up.pages.dev",
@@ -14911,6 +14971,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://ledger-live-app-us-web.typedream.app/",
+   "first_seen": "2026-08-03 11:14:02",
+   "host": "ledger-live-app-us-web.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:19:52",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://ledger-live-auth-en.pages.dev/",
    "first_seen": "2026-07-23 22:16:02",
    "host": "ledger-live-auth-en.pages.dev",
@@ -15169,6 +15241,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:20:11",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://ledger-live-desktop-start-cloud.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "ledger-live-desktop-start-cloud.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -16141,6 +16225,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:19:58",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://ledger-login-start-ledger-web.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "ledger-login-start-ledger-web.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -25807,6 +25903,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "http://portal-liv-e-ap-p-ledger.typedream.app",
+   "first_seen": "2026-07-13 11:16:33",
+   "host": "portal-liv-e-ap-p-ledger.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:19:50",
+   "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://portal-live-ledger-eng-us.pages.dev/",
    "first_seen": "2026-07-16 01:48:01",
    "host": "portal-live-ledger-eng-us.pages.dev",
@@ -26551,6 +26659,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "http://secure-help-eng-ledger-live-login.typedream.app/",
+   "first_seen": "2026-07-29 11:10:53",
+   "host": "secure-help-eng-ledger-live-login.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:19:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://secure-larn-start-ledgr.pages.dev/",
    "first_seen": "2026-08-03 09:32:02",
    "host": "secure-larn-start-ledgr.pages.dev",
@@ -26689,6 +26809,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:02:32",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Trezor",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://secure-trezor-get-web.typedream.app/",
+   "first_seen": "2026-07-26 11:02:26",
+   "host": "secure-trezor-get-web.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -27372,18 +27504,6 @@
    "host": "start-en-ledger--com.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:12:13",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://start-en-ledgger-live.pages.dev/",
-   "first_seen": "2026-08-05 00:32:03",
-   "host": "start-en-ledgger-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:03:29",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -29177,6 +29297,18 @@
   },
   {
    "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://support-ledgeer-live-apps.pages.dev/",
+   "first_seen": "2026-07-16 04:48:02",
+   "host": "support-ledgeer-live-apps.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-17 11:38:03",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://support-ledger-co-us.pages.dev/",
@@ -29941,6 +30073,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:11:59",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://us-conect-ledger-live-login.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "us-conect-ledger-live-login.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -31645,6 +31789,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:19:37",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "http://web-us-en-ledger-live-wallet.typedream.app/",
+   "first_seen": "2026-08-17 11:19:52",
+   "host": "web-us-en-ledger-live-wallet.typedream.app",
+   "hosting_platform": "Typedream",
+   "last_seen": "2026-08-17 11:32:52",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
