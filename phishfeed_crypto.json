@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2694,
- "generated_at": "2026-08-17T10:10:02Z",
+ "count": 2690,
+ "generated_at": "2026-08-17T11:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -1464,18 +1464,6 @@
    "host": "content-support-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:03:36",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://control-live--io-ledgr.pages.dev/",
-   "first_seen": "2026-07-29 06:48:01",
-   "host": "control-live--io-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:05:34",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10668,18 +10656,6 @@
    "host": "io-ledger-login.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:21:01",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://io-ledger-starts.pages.dev/",
-   "first_seen": "2026-07-23 16:32:04",
-   "host": "io-ledger-starts.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:12:55",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -21247,18 +21223,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledgres-live-clb.pages.dev/",
-   "first_seen": "2026-08-06 07:00:03",
-   "host": "ledgres-live-clb.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:02:57",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledgres-live-en.pages.dev/",
    "first_seen": "2026-08-05 05:16:03",
    "host": "ledgres-live-en.pages.dev",
@@ -25248,18 +25212,6 @@
    "host": "page-start-ledgr-io.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-17 09:08:07",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://page-trezriodesktop.pages.dev/",
-   "first_seen": "2026-07-16 05:00:03",
-   "host": "page-trezriodesktop.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-17 09:09:40",
    "source_feed": "ct_monitor",
    "verified": true
   },
