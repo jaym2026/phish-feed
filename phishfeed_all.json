@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3726,
- "generated_at": "2026-08-18T13:10:01Z",
+ "count": 3711,
+ "generated_at": "2026-08-18T14:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -928,18 +928,6 @@
    "verified": false
   },
   {
-   "brand": "Amazon",
-   "corroboration_count": 2,
-   "crypto": false,
-   "evidence_url": "http://amazonwebservices.security-unauthorised-request.com/amazonwebservices.security-unauthorised-request.com/login/zWDOx0s0gIihk38-aQieIuFbpbkAZ0v32U0c=1AA==7VlpWTVhZaFtYUF5Z/OU7jtVLNJA1gbiNb6px9GtUDewiAWseu/",
-   "first_seen": "2026-06-08 11:13:29",
-   "host": "amazonwebservices.security-unauthorised-request.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 08:45:17",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
@@ -1200,18 +1188,6 @@
    "host": "app-live-ledgr-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-18 08:47:41",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://app-official-ledger.pages.dev/",
-   "first_seen": "2026-07-29 08:32:01",
-   "host": "app-official-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 08:39:53",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6409,18 +6385,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://download-ledger-live.pages.dev/",
-   "first_seen": "2026-07-25 10:48:02",
-   "host": "download-ledger-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 09:08:07",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://download-ledger-llive.pages.dev/",
@@ -7208,18 +7172,6 @@
    "host": "en-desktop-ledgrr-li.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-18 08:59:38",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://en-desktop-ledgrr-sso.pages.dev/",
-   "first_seen": "2026-07-21 13:00:02",
-   "host": "en-desktop-ledgrr-sso.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 08:46:39",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -8319,18 +8271,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://en-us-desk-ledgr.pages.dev/",
-   "first_seen": "2026-07-20 12:32:02",
-   "host": "en-us-desk-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 08:43:48",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://en-us-desktop-ledgerr.pages.dev/",
    "first_seen": "2026-07-28 04:48:02",
    "host": "en-us-desktop-ledgerr.pages.dev",
@@ -9243,12 +9183,12 @@
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "https://epicarena.com.br/fetch/baaufix/aruba/web/authen.php#/dashboard/overviewAccounts/overview/index=wGpU4ynFxVQ6a3aJG8bo2ULDoTgac8r5ClTJA2qL1MKfVWwvpWo2eaG4RlwsnV6z0f1poMFEtBN0JyEK",
+   "evidence_url": "https://epicarena.com.br/fetch/baaufix/aruba/web/authen.php?web/auth/arub12",
    "first_seen": "2026-07-10 11:18:46",
    "host": "epicarena.com.br",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 11:18:34",
-   "source_feed": "PhishTank",
+   "hosting_platform": null,
+   "last_seen": "2026-08-18 13:25:01",
+   "source_feed": "pivot:urlscan_ip_seeded",
    "verified": true
   },
   {
@@ -11311,12 +11251,12 @@
    "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
-   "evidence_url": "https://geckotristate.com/wed",
+   "evidence_url": "https://geckotristate.com/wed/",
    "first_seen": "2026-07-13 11:16:33",
    "host": "geckotristate.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 11:18:35",
-   "source_feed": "PhishTank",
+   "hosting_platform": null,
+   "last_seen": "2026-08-18 13:25:01",
+   "source_feed": "pivot:urlscan_ip_seeded",
    "verified": true
   },
   {
@@ -15172,18 +15112,6 @@
    "verified": true
   },
   {
-   "brand": "Phantom",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://in-phntom.pages.dev/",
-   "first_seen": "2026-07-20 02:48:01",
-   "host": "in-phntom.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 08:40:51",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -17928,18 +17856,6 @@
    "host": "learn-ledgr-wlt-en.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-18 08:45:55",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://learn-ledgri-log.pages.dev/",
-   "first_seen": "2026-07-23 20:00:03",
-   "host": "learn-ledgri-log.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 08:41:21",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -29992,18 +29908,6 @@
    "verified": true
   },
   {
-   "brand": "Microsoft",
-   "corroboration_count": 2,
-   "crypto": false,
-   "evidence_url": "http://login.authorised-support.com/microsoft365/mfa/Y9IinybDOKJ6iJOhVzyjurYkMprt0uh_1UEQ=4BQ==7Wl5URVhEWFFDaFpRVmhbWFBeWQ==/wnTk5ndScljeBjW3KbK1Avf42r-uArq4",
-   "first_seen": "2026-06-17 11:16:50",
-   "host": "login.authorised-support.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 08:45:02",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
@@ -30028,15 +29932,19 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Microsoft",
+   "brands": [
+    "Microsoft",
+    "Other"
+   ],
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://login.hmvegn.com/",
+   "evidence_url": "https://login.hmvegn.com/",
    "first_seen": "2026-06-17 11:16:50",
    "host": "login.hmvegn.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 11:18:33",
-   "source_feed": "PhishTank",
+   "hosting_platform": null,
+   "last_seen": "2026-08-18 13:25:01",
+   "source_feed": "pivot:urlscan_ip_seeded",
    "verified": true
   },
   {
@@ -30055,12 +29963,12 @@
    "brand": "Microsoft",
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://login.microsoftonline.hmvegn.ie/",
+   "evidence_url": "https://login.microsoftonline.hmvegn.ie/",
    "first_seen": "2026-06-13 13:18:57",
    "host": "login.microsoftonline.hmvegn.ie",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 08:43:29",
-   "source_feed": "OpenPhish",
+   "hosting_platform": null,
+   "last_seen": "2026-08-18 13:25:01",
+   "source_feed": "pivot:urlscan_ip_seeded",
    "verified": true
   },
   {
@@ -30788,42 +30696,6 @@
    "verified": true
   },
   {
-   "brand": "Microsoft",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "http://microsoft.account.trustedentity.com/http/microsoft.authorised-support.com/new-account/EOzAFbYj1bjLmgufSIlKJJR9Kpvsy5kc3UkY=3Ag==0XVlTQl9DX1ZEb1xfV1leb0dZRFhvQFFDQ0dfQlQ=/6Xx5KG1mKRNjeU3rSnC8diFTM7R4V1de/",
-   "first_seen": "2026-07-11 11:15:39",
-   "host": "microsoft.account.trustedentity.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 08:58:26",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Microsoft",
-   "corroboration_count": 2,
-   "crypto": false,
-   "evidence_url": "http://microsoft.authorised-support.com/login/hxb7OotFGJz7EKSI3cDuDx_Tqhf3aaCY1UEQ=5BA==/pj3GO-7mA-wnRGSL8fOlA4-LG0uRCHw1",
-   "first_seen": "2026-06-26 11:15:44",
-   "host": "microsoft.authorised-support.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 08:45:17",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Microsoft",
-   "corroboration_count": 2,
-   "crypto": false,
-   "evidence_url": "https://microsoftquarantine.authorised-support.com/login/review/wjy99UrJpywk6FVPPIN_vx51xfx1Jt7X1UEQ=7Bg==1XFhSQ15CXldFbl1eVlhfbkZYRVluQVBCQkZeQ1U=/qVL0fNmNYahdj2smOXWXeggfE1TOi_hb/",
-   "first_seen": "2026-07-01 22:00:26",
-   "host": "microsoftquarantine.authorised-support.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 08:58:26",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Midasbuy",
    "corroboration_count": 0,
    "crypto": false,
@@ -30882,18 +30754,6 @@
    "last_seen": "2026-08-18 11:35:00",
    "source_feed": "urlscan_hunter",
    "verified": false
-  },
-  {
-   "brand": "Microsoft",
-   "corroboration_count": 2,
-   "crypto": false,
-   "evidence_url": "http://mircosoft.authorised-support.com/subscription/5XsXlANZYvCVJDYrwwVeVt3mwVxaSaWd7VkI=1AA==3XlpQQVxAXFVHbF9cVFpdbERaR1tsQ1JAQERcQVc=/IPE-XT7pJrYdXgN1YNWobo6-aCq1jF8M/",
-   "first_seen": "2026-07-29 11:10:53",
-   "host": "mircosoft.authorised-support.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 09:15:39",
-   "source_feed": "OpenPhish",
-   "verified": true
   },
   {
    "brand": "Apple",
@@ -33080,18 +32940,6 @@
    "host": "paypal-signin.blogspot.com",
    "hosting_platform": "Blogspot",
    "last_seen": "2026-08-18 08:59:00",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "PayPal",
-   "corroboration_count": 2,
-   "crypto": false,
-   "evidence_url": "https://paypal.cardpaysecurity.org/login/TfkxSCSMT_48_QyAbrl9iI9HgJWLIoW24VUE=0AQ==8SFlBSFlUZ1RXX1FW/KJken0OKG_PsaCkVuioA_HBsebTjbUf6/",
-   "first_seen": "2026-06-10 00:51:47",
-   "host": "paypal.cardpaysecurity.org",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 08:43:29",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -38729,14 +38577,18 @@
   },
   {
    "brand": "Google",
+   "brands": [
+    "Google",
+    "WeTransfer"
+   ],
    "corroboration_count": 1,
    "crypto": false,
-   "evidence_url": "https://storage.googleapis.com/imole17765/43567970005/3003543765988/focm/50012/index.html",
+   "evidence_url": "https://storage.googleapis.com/xssg-1tqk-hc7m.n7e.xano.io/vault/Tb8nNogE/qwvw7L7tsgAo34mQeShHo1tbWK4/TpVnXA../wetransferalex.html",
    "first_seen": "2026-06-08 11:13:29",
    "host": "storage.googleapis.com",
    "hosting_platform": "Google Cloud Storage",
-   "last_seen": "2026-08-18 11:18:36",
-   "source_feed": "PhishTank",
+   "last_seen": "2026-08-18 13:25:01",
+   "source_feed": "pivot:urlscan_ip_seeded",
    "verified": true
   },
   {
@@ -39653,18 +39505,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://tag-lic-ledger.pages.dev/",
-   "first_seen": "2026-07-25 20:32:02",
-   "host": "tag-lic-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 09:11:07",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://tags-lic-ledger.pages.dev/",
@@ -40405,18 +40245,6 @@
    "hosting_platform": "Other",
    "last_seen": "2026-08-18 08:42:38",
    "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://u-ledgr-starts.pages.dev/",
-   "first_seen": "2026-07-22 10:48:02",
-   "host": "u-ledgr-starts.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-18 08:40:32",
-   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -43888,15 +43716,19 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Made-in-China.com",
+   "brands": [
+    "Made-in-China.com",
+    "Other"
+   ],
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://www.georgetownmover.com/site/www.made-in-china.com/index.html",
+   "evidence_url": "https://www.georgetownmover.com/site/www.made-in-china.com/index.html",
    "first_seen": "2026-07-04 11:16:03",
    "host": "www.georgetownmover.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-18 11:18:34",
-   "source_feed": "PhishTank",
+   "hosting_platform": null,
+   "last_seen": "2026-08-18 13:55:28",
+   "source_feed": "pivot:urlscan_ip_seeded",
    "verified": true
   },
   {
