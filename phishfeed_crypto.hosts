@@ -23,7 +23,6 @@ app-us-ledger.pages.dev
 apps-en-ledgr.pages.dev
 apps-hub-ledgr.pages.dev
 apps-ledger-io.pages.dev
-apps-ledger-live-login.pages.dev
 apps-ledgr-logn.pages.dev
 apps-ledgr-us.pages.dev
 apps-ledgrlive-guide.pages.dev
@@ -47,7 +46,6 @@ auth-ledgr-com-strt.pages.dev
 auth-ledgr-wlt.pages.dev
 auth-ledgrcom-start.pages.dev
 auth-strt-ledgercom.pages.dev
-auth-x-ledger-com-sso.pages.dev
 auths-ledgr-learn.pages.dev
 auths-ledgrcom-io.pages.dev
 authu-apps--ledgrlive.pages.dev
@@ -371,6 +369,7 @@ en-ledgrcom.pages.dev
 en-ledgrdesktop.pages.dev
 en-ledgre-en.pages.dev
 en-ledgre.pages.dev
+en-ledgred-desktop.pages.dev
 en-ledgrelive-com.pages.dev
 en-ledgrlive-access.pages.dev
 en-ledgrlive-desktop.pages.dev
@@ -449,6 +448,7 @@ eng-ledgger-live-us.pages.dev
 eng-ledgr-app.pages.dev
 eng-ledgr-desktop-live.pages.dev
 eng-ledgr-desktops.pages.dev
+eng-ledgr-explor.pages.dev
 eng-ledgr-hardware-io.pages.dev
 eng-ledgr-io-en.pages.dev
 eng-ledgr-io.pages.dev
@@ -568,6 +568,7 @@ faq-start-ledger.pages.dev
 faq-start-ledgrcom.pages.dev
 faq-start-ledgrr-us-en.pages.dev
 faq-suiets-trezr.pages.dev
+faq-trezor-wallet-hardwere.pages.dev
 faq-us-desktop-ledgrer.pages.dev
 faqs-desktop-ledgre.pages.dev
 faqs-ledgercom-guide.pages.dev
@@ -714,13 +715,13 @@ help-ledger-us-io.pages.dev
 help-ledger.pages.dev
 help-ledgerlives-com-eng.pages.dev
 help-ledgerr-live.pages.dev
+help-ledgerstartt-com.pages.dev
 help-ledgr--live-eng.pages.dev
 help-ledgr-desk-top.pages.dev
 help-ledgr-downloads.pages.dev
 help-ledgr-en-live.pages.dev
 help-ledgr-ledgr.pages.dev
 help-ledgr-live-co.pages.dev
-help-ledgr-live-en.pages.dev
 help-ledgr.pages.dev
 help-ledgrdesktop.pages.dev
 help-ledgre-wallet.pages.dev
@@ -1166,7 +1167,6 @@ ledger-com-oi-started.pages.dev
 ledger-com-on.pages.dev
 ledger-com-org.pages.dev
 ledger-com-portel.pages.dev
-ledger-com-st-art-us.pages.dev
 ledger-com-sta-rt-us.pages.dev
 ledger-com-sta-rt-web.pages.dev
 ledger-com-start-8em.pages.dev
@@ -1349,7 +1349,6 @@ ledger-llivee.pages.dev
 ledger-login-auth-cdn.pages.dev
 ledger-login-cloud.pages.dev
 ledger-login-get.pages.dev
-ledger-login-guide-en.pages.dev
 ledger-login-live.pages.dev
 ledger-login-portal.pages.dev
 ledger-login-start-ledger-web.typedream.app
@@ -1413,6 +1412,7 @@ ledgercom-iostart.pages.dev
 ledgercom-starrt.pages.dev
 ledgercom-start.pages.dev
 ledgercom-start.webflow.io
+ledgercom-startr.pages.dev
 ledgercom-starts.pages.dev
 ledgercom-strt.pages.dev
 ledgercom-sttart.pages.dev
@@ -1596,6 +1596,7 @@ ledgr-download-helps.pages.dev
 ledgr-dsktoplve.pages.dev
 ledgr-en--us.pages.dev
 ledgr-en-com.pages.dev
+ledgr-en-desktop.pages.dev
 ledgr-en-download.pages.dev
 ledgr-en-learn.pages.dev
 ledgr-en-ledggr.pages.dev
@@ -1947,6 +1948,7 @@ live-ledgrdesktop.pages.dev
 live-ledgre-help-web.pages.dev
 live-ledgrer.pages.dev
 live-ledgres-us.pages.dev
+live-ledgrr-apps.pages.dev
 live-ledgrr-en.pages.dev
 live-ledgrr-eng.pages.dev
 live-ledgrr-us.pages.dev
@@ -2166,7 +2168,6 @@ project-eng-ledgrlive.pages.dev
 project-ledgr-guide.pages.dev
 project-ledgrcm-en.pages.dev
 project-ledgrlive-io.pages.dev
-project-ledgrlive.pages.dev
 project-live--ledgger.pages.dev
 protect-ledgr-login-io.pages.dev
 pu-sh-ledgr.pages.dev
@@ -2200,6 +2201,7 @@ run-ledgrr-com-en.pages.dev
 s-strt-ledgr.pages.dev
 saf-start-ledgrcom.pages.dev
 safe-ledgerapp---eng.pages.dev
+safe-start-ledgr-com-cnh.pages.dev
 safe-strt-ledgr.pages.dev
 safepal-ledger-wallet.pages.dev
 sales-ledger-dzw.pages.dev
@@ -2292,6 +2294,7 @@ start-help-ledgr.pages.dev
 start-io-ledgr-help.pages.dev
 start-io-ledgr-learn.pages.dev
 start-learn-ledger.pages.dev
+start-learn-ledgr.pages.dev
 start-learn-ledgrr.pages.dev
 start-ledgeer-hardware.pages.dev
 start-ledger-1bh.pages.dev
