@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2701,
- "generated_at": "2026-08-22T17:10:01Z",
+ "count": 2693,
+ "generated_at": "2026-08-22T18:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -772,6 +772,18 @@
    "verified": false
   },
   {
+   "brand": "Phantom",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://bulletin-irr-ablaikhan.pages.dev/",
+   "first_seen": "2026-08-22 18:05:37",
+   "host": "bulletin-irr-ablaikhan.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-22 18:05:37",
+   "source_feed": "urlscan_hunter",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -1464,18 +1476,6 @@
    "host": "connect-start-ledger-ens.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-22 14:59:52",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://connect-u-ledgr-com-start-us.pages.dev/",
-   "first_seen": "2026-07-22 12:48:02",
-   "host": "connect-u-ledgr-com-start-us.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:13:14",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5033,18 +5033,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://en-us-ledger.pages.dev/",
-   "first_seen": "2026-08-03 12:32:02",
-   "host": "en-us-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:18:04",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://en-us-ledgerwallelivet.pages.dev/",
@@ -7387,18 +7375,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://get-ledgrcom.pages.dev/",
-   "first_seen": "2026-08-03 18:00:04",
-   "host": "get-ledgrcom.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:18:13",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://get-ledgrlive-walete.pages.dev/",
    "first_seen": "2026-07-31 12:32:02",
    "host": "get-ledgrlive-walete.pages.dev",
@@ -9024,18 +9000,6 @@
    "host": "home-cd-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-22 15:22:31",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://home-en-io-ledgr.pages.dev/",
-   "first_seen": "2026-07-17 04:00:03",
-   "host": "home-en-io-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:15:11",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -18809,18 +18773,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgr---live.pages.dev/",
-   "first_seen": "2026-08-05 13:48:02",
-   "host": "ledgr---live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:16:24",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://ledgr--com-app.pages.dev/",
@@ -19931,7 +19883,7 @@
    "first_seen": "2026-07-18 06:32:02",
    "host": "ledgr-live-login-eng.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:21:47",
+   "last_seen": "2026-08-22 18:03:58",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -25063,18 +25015,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://oi-ledger-com-started.pages.dev/",
-   "first_seen": "2026-07-28 10:48:02",
-   "host": "oi-ledger-com-started.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:13:14",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://oi-ledgerlive.pages.dev/",
    "first_seen": "2026-08-02 14:48:02",
    "host": "oi-ledgerlive.pages.dev",
@@ -26558,18 +26498,6 @@
    "last_seen": "2026-08-22 15:00:08",
    "source_feed": "ct_monitor",
    "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://secrrr---wallttt---liive---ledgrrr.pages.dev/",
-   "first_seen": "2026-07-28 16:48:02",
-   "host": "secrrr---wallttt---liive---ledgrrr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 15:13:14",
-   "source_feed": "ct_monitor",
-   "verified": false
   },
   {
    "brand": "Ledger",
@@ -28615,18 +28543,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://started-ledgr-io.pages.dev/",
-   "first_seen": "2026-07-24 16:32:04",
-   "host": "started-ledgr-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 14:34:46",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://started-ledgre-us.pages.dev/",
    "first_seen": "2026-07-20 10:48:02",
    "host": "started-ledgre-us.pages.dev",
@@ -30096,18 +30012,6 @@
    "host": "us-desktop-ledgr-46f.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-22 15:13:08",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://us-desktop-ledgr-en.pages.dev/",
-   "first_seen": "2026-07-18 20:32:10",
-   "host": "us-desktop-ledgr-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-22 14:57:18",
    "source_feed": "ct_monitor",
    "verified": true
   },
