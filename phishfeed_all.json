@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3685,
- "generated_at": "2026-08-24T20:10:01Z",
+ "count": 3683,
+ "generated_at": "2026-08-24T21:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -991,7 +991,7 @@
    "first_seen": "2026-08-24 11:15:48",
    "host": "amigosdelasfinanzas.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-24 11:31:34",
+   "last_seen": "2026-08-24 20:46:31",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -4391,7 +4391,7 @@
    "first_seen": "2026-08-18 15:26:39",
    "host": "dc.crs.gov.in.viewcarde.in",
    "hosting_platform": null,
-   "last_seen": "2026-08-24 13:05:29",
+   "last_seen": "2026-08-24 20:58:26",
    "source_feed": "urlscan_fingerprint_watch:crs_counterfeit_certificates",
    "verified": true
   },
@@ -4403,7 +4403,7 @@
    "first_seen": "2026-06-17 11:16:50",
    "host": "dc.crsorgi.gov.in.index.web-index.info",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-24 13:05:12",
+   "last_seen": "2026-08-24 20:58:26",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5335,18 +5335,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://desktop-lives-ledger.pages.dev/",
-   "first_seen": "2026-08-05 06:00:04",
-   "host": "desktop-lives-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-24 14:45:04",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://desktop-lives-ledgers.pages.dev/",
    "first_seen": "2026-08-04 23:16:02",
    "host": "desktop-lives-ledgers.pages.dev",
@@ -5591,7 +5579,7 @@
    "first_seen": "2026-08-24 11:15:48",
    "host": "developed-moccasin-gsqaxb6nfs-kkobyqpwga.edgeone.app",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-24 11:31:34",
+   "last_seen": "2026-08-24 20:48:28",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -15143,7 +15131,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "infomark.lk",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-24 14:30:56",
+   "last_seen": "2026-08-24 21:06:00",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -15299,7 +15287,7 @@
    "first_seen": "2026-08-24 11:15:49",
    "host": "instagram.rents.ac",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-24 11:31:34",
+   "last_seen": "2026-08-24 20:48:28",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -29780,18 +29768,6 @@
    "verified": true
   },
   {
-   "brand": "Coinbase",
-   "corroboration_count": 3,
-   "crypto": true,
-   "evidence_url": "https://m.help-coinbase.beer/",
-   "first_seen": "2026-08-24 11:15:49",
-   "host": "m.help-coinbase.beer",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-24 11:31:34",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
@@ -34212,11 +34188,7 @@
    "verified": false
   },
   {
-   "brand": "Other",
-   "brands": [
-    "Other",
-    "Roblox"
-   ],
+   "brand": "Roblox",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://rbcode.net/v/d4173cdeda72c2dbee40c9b281a5fbc9",
@@ -35387,12 +35359,12 @@
    ],
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://secure-page-builder--blaizingsure.replit.app/",
+   "evidence_url": "https://secure-page-builder--blaizingsure.replit.app/",
    "first_seen": "2026-08-22 11:14:03",
    "host": "secure-page-builder--blaizingsure.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-24 18:01:04",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-24 20:46:31",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -35427,12 +35399,12 @@
    ],
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://secure-page-editor--isaniecka.replit.app/",
+   "evidence_url": "https://secure-page-editor--isaniecka.replit.app/",
    "first_seen": "2026-08-22 11:14:03",
    "host": "secure-page-editor--isaniecka.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-24 14:58:36",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-24 20:46:31",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -35448,11 +35420,7 @@
    "verified": true
   },
   {
-   "brand": "Microsoft",
-   "brands": [
-    "Microsoft",
-    "Other"
-   ],
+   "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
    "evidence_url": "http://secure-server-index--dolangroupllc.replit.app/",
@@ -35464,11 +35432,7 @@
    "verified": true
   },
   {
-   "brand": "Microsoft",
-   "brands": [
-    "Microsoft",
-    "Other"
-   ],
+   "brand": "Other",
    "corroboration_count": 3,
    "crypto": false,
    "evidence_url": "http://secure-site-maker--castlevaleservi.replit.app/",
@@ -35551,7 +35515,7 @@
    "first_seen": "2026-08-24 11:15:48",
    "host": "securebankinggroup.org",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-24 11:31:34",
+   "last_seen": "2026-08-24 20:46:31",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -43519,7 +43483,7 @@
    "first_seen": "2026-08-24 11:15:49",
    "host": "www.instagram-login-authentication.duckdns.org",
    "hosting_platform": "Duck DNS",
-   "last_seen": "2026-08-24 11:31:34",
+   "last_seen": "2026-08-24 20:48:28",
    "source_feed": "OpenPhish",
    "verified": true
   },

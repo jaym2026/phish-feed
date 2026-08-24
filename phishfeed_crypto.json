@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2662,
- "generated_at": "2026-08-24T20:10:01Z",
+ "count": 2660,
+ "generated_at": "2026-08-24T21:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -2328,18 +2328,6 @@
    "host": "desktop-live-ledgrus.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-24 15:21:14",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://desktop-lives-ledger.pages.dev/",
-   "first_seen": "2026-08-05 06:00:04",
-   "host": "desktop-lives-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-24 14:45:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -23713,18 +23701,6 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-24 14:47:46",
    "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Coinbase",
-   "corroboration_count": 3,
-   "crypto": true,
-   "evidence_url": "https://m.help-coinbase.beer/",
-   "first_seen": "2026-08-24 11:15:49",
-   "host": "m.help-coinbase.beer",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-24 11:31:34",
-   "source_feed": "OpenPhish",
    "verified": true
   },
   {
