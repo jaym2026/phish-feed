@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2635,
- "generated_at": "2026-08-25T05:10:01Z",
+ "count": 2633,
+ "generated_at": "2026-08-25T06:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -2688,18 +2688,6 @@
    "host": "doc-live-en--ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-25 03:12:50",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Phantom",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://doc-phantomus.pages.dev/",
-   "first_seen": "2026-07-29 10:32:02",
-   "host": "doc-phantomus.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-24 21:40:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -17892,18 +17880,6 @@
    "host": "ledgger-live-download.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-24 21:49:16",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgger-live-en-usa.pages.dev/",
-   "first_seen": "2026-07-30 06:48:02",
-   "host": "ledgger-live-en-usa.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-25 03:12:50",
    "source_feed": "ct_monitor",
    "verified": true
   },
