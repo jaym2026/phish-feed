@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3638,
- "generated_at": "2026-08-25T06:10:02Z",
+ "count": 3636,
+ "generated_at": "2026-08-25T07:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -22711,18 +22711,6 @@
    "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
-   "evidence_url": "https://ledgerr-app.pages.dev/",
-   "first_seen": "2026-07-25 06:32:01",
-   "host": "ledgerr-app.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-25 03:10:58",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
    "evidence_url": "https://ledgerr-com-app-start.pages.dev/",
    "first_seen": "2026-07-23 03:32:01",
    "host": "ledgerr-com-app-start.pages.dev",
@@ -31808,18 +31796,6 @@
    "host": "outlook-b3b6b5.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-24 21:30:40",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Outlook",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "https://outlook-email-plus-pages.pages.dev/",
-   "first_seen": "2026-08-14 09:38:02",
-   "host": "outlook-email-plus-pages.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-24 21:43:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
