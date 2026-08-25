@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
  "count": 3443,
- "generated_at": "2026-08-25T22:10:01Z",
+ "generated_at": "2026-08-25T23:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -3227,8 +3227,8 @@
    "first_seen": "2026-06-18 12:31:27",
    "host": "cn.mpmxzu.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-25 21:28:05",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-25 22:23:02",
+   "source_feed": "payload_hunter",
    "verified": true
   },
   {
@@ -4480,18 +4480,6 @@
    "host": "desktop-ledgr-strart.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-25 20:41:32",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://desktop-ledgr-suport.pages.dev/",
-   "first_seen": "2026-07-15 23:32:02",
-   "host": "desktop-ledgr-suport.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-25 21:04:16",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12132,6 +12120,18 @@
    "verified": true
   },
   {
+   "brand": null,
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://hrk-verwaltungsplattform-schulungsvideos.pages.dev/login?weiter=%2F",
+   "first_seen": "2026-08-25 18:09:22",
+   "host": "hrk-verwaltungsplattform-schulungsvideos.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-25 18:09:22",
+   "source_feed": "urlscan_hunter",
+   "verified": true
+  },
+  {
    "brand": "Roblox",
    "corroboration_count": 1,
    "crypto": false,
@@ -12429,6 +12429,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-25 21:27:19",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": null,
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://idx-dashboard.pages.dev/login",
+   "first_seen": "2026-08-25 18:08:43",
+   "host": "idx-dashboard.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-25 18:08:43",
+   "source_feed": "urlscan_hunter",
    "verified": true
   },
   {
@@ -13954,6 +13966,18 @@
    "last_seen": "2026-08-25 21:07:12",
    "source_feed": "OpenPhish",
    "verified": false
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://jami-ledger.pages.dev/",
+   "first_seen": "2026-08-25 05:22:02",
+   "host": "jami-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-25 21:03:34",
+   "source_feed": "ct_monitor",
+   "verified": true
   },
   {
    "brand": "DHL",
@@ -17667,18 +17691,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledger-liev.pages.dev/",
-   "first_seen": "2026-07-26 12:32:02",
-   "host": "ledger-liev.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-25 21:30:18",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledger-life-desktop.pages.dev/",
    "first_seen": "2026-07-16 17:00:03",
    "host": "ledger-life-desktop.pages.dev",
@@ -18236,18 +18248,6 @@
    "host": "ledger-live-desktop-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-25 21:13:31",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-desktop-uss.pages.dev/",
-   "first_seen": "2026-07-16 00:32:10",
-   "host": "ledger-live-desktop-uss.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-25 21:21:19",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -27528,6 +27528,18 @@
    "verified": true
   },
   {
+   "brand": "Office 365",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://march-12.micrsoft-office365-opendocs.workers.dev/",
+   "first_seen": "2026-08-25 05:54:20",
+   "host": "march-12.micrsoft-office365-opendocs.workers.dev",
+   "hosting_platform": "Cloudflare Workers",
+   "last_seen": "2026-08-25 21:03:34",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Outlook",
    "corroboration_count": 3,
    "crypto": false,
@@ -36732,6 +36744,18 @@
    "verified": true
   },
   {
+   "brand": null,
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://tinder-review.pages.dev/login",
+   "first_seen": "2026-08-25 18:06:59",
+   "host": "tinder-review.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-25 18:06:59",
+   "source_feed": "urlscan_hunter",
+   "verified": true
+  },
+  {
    "brand": "Other",
    "corroboration_count": 1,
    "crypto": false,
@@ -38079,18 +38103,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://usa-ledgeer-live.pages.dev/",
-   "first_seen": "2026-07-25 00:48:07",
-   "host": "usa-ledgeer-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-25 21:12:58",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://usa-ledgr-desktop-io.pages.dev/",
    "first_seen": "2026-07-22 12:32:05",
    "host": "usa-ledgr-desktop-io.pages.dev",
@@ -38120,18 +38132,6 @@
    "host": "usa-lives-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-25 21:12:33",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://usa-login-ledger.pages.dev/",
-   "first_seen": "2026-07-19 06:32:01",
-   "host": "usa-login-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-25 20:42:22",
    "source_feed": "ct_monitor",
    "verified": true
   },
