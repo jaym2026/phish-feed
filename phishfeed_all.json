@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3439,
- "generated_at": "2026-08-26T12:10:01Z",
+ "count": 3438,
+ "generated_at": "2026-08-26T13:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -4143,7 +4143,7 @@
    "first_seen": "2026-08-18 15:26:39",
    "host": "dc.crs.gov.in.viewcarde.in",
    "hosting_platform": null,
-   "last_seen": "2026-08-26 09:19:55",
+   "last_seen": "2026-08-26 13:05:28",
    "source_feed": "urlscan_fingerprint_watch:crs_counterfeit_certificates",
    "verified": true
   },
@@ -4155,7 +4155,7 @@
    "first_seen": "2026-06-17 11:16:50",
    "host": "dc.crsorgi.gov.in.index.web-index.info",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-26 09:19:55",
+   "last_seen": "2026-08-26 13:05:13",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10764,18 +10764,6 @@
    "host": "help-lgerlive.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-26 09:15:37",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://help-lgerr-live-en.pages.dev/",
-   "first_seen": "2026-07-31 09:48:02",
-   "host": "help-lgerr-live-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-26 03:34:01",
    "source_feed": "ct_monitor",
    "verified": true
   },
