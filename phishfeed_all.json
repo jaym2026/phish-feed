@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3523,
- "generated_at": "2026-08-27T12:10:02Z",
+ "count": 3517,
+ "generated_at": "2026-08-27T13:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -3099,6 +3099,18 @@
    "brand": "CoinSquare",
    "corroboration_count": 2,
    "crypto": false,
+   "evidence_url": "https://ca-coinsquare--auth--nav.webflow.io/",
+   "first_seen": "2026-08-27 11:16:43",
+   "host": "ca-coinsquare--auth--nav.webflow.io",
+   "hosting_platform": "Webflow",
+   "last_seen": "2026-08-27 11:16:43",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "CoinSquare",
+   "corroboration_count": 2,
+   "crypto": false,
    "evidence_url": "https://ca-coinsquare-auth.webflow.io/",
    "first_seen": "2026-08-22 11:14:03",
    "host": "ca-coinsquare-auth.webflow.io",
@@ -3118,6 +3130,18 @@
    "last_seen": "2026-08-27 09:08:02",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "CoinSquare",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://cacoinsquarelogin.webflow.io/",
+   "first_seen": "2026-08-27 11:16:43",
+   "host": "cacoinsquarelogin.webflow.io",
+   "hosting_platform": "Webflow",
+   "last_seen": "2026-08-27 11:16:43",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Ledger",
@@ -3296,6 +3320,18 @@
    "host": "charurajesh1007-rgb.github.io",
    "hosting_platform": "GitHub Pages",
    "last_seen": "2026-08-27 03:38:26",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://check-poczta.vercel.app/",
+   "first_seen": "2026-08-27 11:16:43",
+   "host": "check-poczta.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-27 11:16:43",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -4236,18 +4272,6 @@
    "verified": true
   },
   {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://crypto-wallets-ledger.pages.dev/",
-   "first_seen": "2026-08-06 06:48:02",
-   "host": "crypto-wallets-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 09:34:40",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
    "brand": null,
    "corroboration_count": 0,
    "crypto": false,
@@ -4471,7 +4495,7 @@
    "first_seen": "2026-08-18 15:26:39",
    "host": "dc.crs.gov.in.viewcarde.in",
    "hosting_platform": null,
-   "last_seen": "2026-08-27 09:24:55",
+   "last_seen": "2026-08-27 13:05:21",
    "source_feed": "urlscan_fingerprint_watch:crs_counterfeit_certificates",
    "verified": true
   },
@@ -4483,7 +4507,7 @@
    "first_seen": "2026-06-17 11:16:50",
    "host": "dc.crsorgi.gov.in.index.web-index.info",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-27 09:24:36",
+   "last_seen": "2026-08-27 13:05:13",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8915,7 +8939,7 @@
    "first_seen": "2026-07-06 18:08:56",
    "host": "fromtop.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 11:39:15",
+   "last_seen": "2026-08-27 13:02:50",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -9035,7 +9059,7 @@
    "first_seen": "2026-08-03 13:01:48",
    "host": "gatelio.de",
    "hosting_platform": null,
-   "last_seen": "2026-08-26 23:35:06",
+   "last_seen": "2026-08-27 12:14:46",
    "source_feed": "dormant_watcher",
    "verified": true
   },
@@ -10277,18 +10301,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://guide-ledgrlive-io.pages.dev/",
-   "first_seen": "2026-07-23 10:48:02",
-   "host": "guide-ledgrlive-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 09:36:43",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://guide-ledgrlive-us.pages.dev/",
@@ -11016,18 +11028,6 @@
    "host": "help-ledgr--live-eng.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-27 09:25:11",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://help-ledgr-desk-top.pages.dev/",
-   "first_seen": "2026-07-21 10:48:02",
-   "host": "help-ledgr-desk-top.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 03:36:59",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13553,7 +13553,7 @@
   },
   {
    "brand": "Instagram",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://instagramunblockedd.vercel.app/",
    "first_seen": "2026-08-27 11:16:43",
@@ -22457,18 +22457,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledgr-com-strt-temp-en-doc.pages.dev/",
-   "first_seen": "2026-07-20 00:48:01",
-   "host": "ledgr-com-strt-temp-en-doc.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 03:32:34",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://ledgr-comstrt.pages.dev/",
@@ -23030,18 +23018,6 @@
    "last_seen": "2026-08-27 09:08:21",
    "source_feed": "ct_monitor",
    "verified": false
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgr-liv-walt.pages.dev/",
-   "first_seen": "2026-07-28 02:48:02",
-   "host": "ledgr-liv-walt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 09:37:30",
-   "source_feed": "ct_monitor",
-   "verified": true
   },
   {
    "brand": "Ledger",
@@ -24156,18 +24132,6 @@
    "host": "ledgrcom-solution.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-27 09:36:10",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgrcom-start-home.pages.dev/",
-   "first_seen": "2026-07-20 12:32:02",
-   "host": "ledgrcom-start-home.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 09:07:39",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -25915,18 +25879,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://liv-ledgre-io.pages.dev/",
-   "first_seen": "2026-07-22 02:32:02",
-   "host": "liv-ledgre-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 03:32:57",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://liv-nav-ledger.pages.dev/",
    "first_seen": "2026-07-25 02:32:02",
    "host": "liv-nav-ledger.pages.dev",
@@ -26220,18 +26172,6 @@
    "host": "live-io-ledger-sso.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-27 09:36:23",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://live-io-ledgr-eng.pages.dev/",
-   "first_seen": "2026-07-23 16:32:04",
-   "host": "live-io-ledgr-eng.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 03:36:18",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -27532,6 +27472,18 @@
    "verified": false
   },
   {
+   "brand": "CoinSquare",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://logi-secure-coinsquare-com-cdn-auth.webflow.io/",
+   "first_seen": "2026-08-27 11:16:43",
+   "host": "logi-secure-coinsquare-com-cdn-auth.webflow.io",
+   "hosting_platform": "Webflow",
+   "last_seen": "2026-08-27 11:16:43",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": null,
    "corroboration_count": 0,
    "crypto": false,
@@ -28802,6 +28754,18 @@
    "last_seen": "2026-08-27 09:38:16",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://mycnsqurligin.webflow.io/",
+   "first_seen": "2026-08-27 11:16:43",
+   "host": "mycnsqurligin.webflow.io",
+   "hosting_platform": "Webflow",
+   "last_seen": "2026-08-27 11:16:43",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Ndax",
@@ -30575,18 +30539,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://pages-ledgr-desktop-io.pages.dev/",
-   "first_seen": "2026-07-23 08:32:06",
-   "host": "pages-ledgr-desktop-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 03:36:11",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://pages-ledgr-io-en.pages.dev/",
    "first_seen": "2026-07-23 12:00:03",
    "host": "pages-ledgr-io-en.pages.dev",
@@ -31118,18 +31070,6 @@
    "evidence_url": "https://piggy-ledger.pages.dev/",
    "first_seen": "2026-08-06 17:00:04",
    "host": "piggy-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 09:14:23",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Dropbox",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "https://pitchiton-dropbox.pages.dev/",
-   "first_seen": "2026-08-06 21:00:04",
-   "host": "pitchiton-dropbox.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-27 09:14:23",
    "source_feed": "ct_monitor",
@@ -31983,7 +31923,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "pub-d37b8cff4381478390372f45fa529228.r2.dev",
    "hosting_platform": "Cloudflare R2",
-   "last_seen": "2026-08-27 09:37:18",
+   "last_seen": "2026-08-27 13:04:30",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -32806,6 +32746,18 @@
    "last_seen": "2026-08-27 09:07:19",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": null,
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://robinhood-reward.vercel.app/",
+   "first_seen": "2026-08-27 02:49:07",
+   "host": "robinhood-reward.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-27 11:16:43",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Roblox",
@@ -36373,18 +36325,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://step-connect-live-ledgrs.pages.dev/",
-   "first_seen": "2026-08-23 14:22:02",
-   "host": "step-connect-live-ledgrs.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 03:32:41",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://step-ledgerlive.pages.dev/",
@@ -37993,7 +37933,7 @@
   },
   {
    "brand": "Trust Wallet",
-   "corroboration_count": 0,
+   "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://trust-wallet-contact.vercel.app/",
    "first_seen": "2026-08-27 11:16:43",
@@ -39370,18 +39310,6 @@
    "last_seen": "2026-08-27 11:16:42",
    "source_feed": "PhishTank",
    "verified": false
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://version--v1-ledgr-live.pages.dev/",
-   "first_seen": "2026-08-01 13:48:02",
-   "host": "version--v1-ledgr-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 09:27:58",
-   "source_feed": "ct_monitor",
-   "verified": true
   },
   {
    "brand": "Ledger",
@@ -41629,7 +41557,7 @@
   },
   {
    "brand": "Instagram",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://www.instagramunblockedd.vercel.app/",
    "first_seen": "2026-08-27 11:16:43",
