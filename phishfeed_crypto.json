@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2380,
- "generated_at": "2026-08-28T00:10:01Z",
+ "count": 2373,
+ "generated_at": "2026-08-28T01:10:02Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -13063,18 +13063,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledger-web-live.pages.dev/",
-   "first_seen": "2026-08-02 23:48:01",
-   "host": "ledger-web-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 21:40:57",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledgerappslive.pages.dev/",
    "first_seen": "2026-07-19 12:32:10",
    "host": "ledgerappslive.pages.dev",
@@ -16476,18 +16464,6 @@
    "host": "ledgr-starts.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-27 20:40:45",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgr-startscom.pages.dev/",
-   "first_seen": "2026-07-26 08:48:02",
-   "host": "ledgr-startscom.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 21:40:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -27053,18 +27029,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://view-live-connect-ledgr.pages.dev/",
-   "first_seen": "2026-07-25 18:32:01",
-   "host": "view-live-connect-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 20:45:18",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://view-setup-ledger.pages.dev/",
@@ -27460,18 +27424,6 @@
    "verified": true
   },
   {
-   "brand": "Uniswap",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://web-claude-launches-v4-09-dev-data-uniswap.vercel.app/",
-   "first_seen": "2026-07-19 11:14:28",
-   "host": "web-claude-launches-v4-09-dev-data-uniswap.vercel.app",
-   "hosting_platform": "Vercel",
-   "last_seen": "2026-08-27 21:25:11",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -27772,18 +27724,6 @@
    "verified": true
   },
   {
-   "brand": "Uniswap",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://web-nickkoutrelakos-eco-178-unblock-permissioned-f27a9b-uniswap.vercel.app/",
-   "first_seen": "2026-07-17 11:16:02",
-   "host": "web-nickkoutrelakos-eco-178-unblock-permissioned-f27a9b-uniswap.vercel.app",
-   "hosting_platform": "Vercel",
-   "last_seen": "2026-08-27 21:28:10",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -27868,18 +27808,6 @@
    "verified": true
   },
   {
-   "brand": "Uniswap",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://web-testing-dev-entry-gateway-uniswap.vercel.app/explore/pools",
-   "first_seen": "2026-06-26 11:15:44",
-   "host": "web-testing-dev-entry-gateway-uniswap.vercel.app",
-   "hosting_platform": "Vercel",
-   "last_seen": "2026-08-27 21:34:24",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
    "brand": "Trezor",
    "corroboration_count": 0,
    "crypto": true,
@@ -27938,18 +27866,6 @@
    "last_seen": "2026-08-27 20:44:27",
    "source_feed": "ct_monitor",
    "verified": true
-  },
-  {
-   "brand": "Uniswap",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "https://web-web-embed-iframe-test-harness-uniswap.vercel.app/explore/tokens/solana/native",
-   "first_seen": "2026-07-25 11:10:53",
-   "host": "web-web-embed-iframe-test-harness-uniswap.vercel.app",
-   "hosting_platform": "Vercel",
-   "last_seen": "2026-08-27 21:26:43",
-   "source_feed": "OpenPhish",
-   "verified": false
   },
   {
    "brand": "Exodus",
