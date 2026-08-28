@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2382,
- "generated_at": "2026-08-27T23:10:01Z",
+ "count": 2380,
+ "generated_at": "2026-08-28T00:10:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -11453,18 +11453,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-cold.pages.dev/",
-   "first_seen": "2026-08-03 03:32:02",
-   "host": "ledger-live-cold.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 20:48:17",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://ledger-live-connect-home-desktop.pages.dev/",
@@ -22368,18 +22356,6 @@
    "host": "pussh-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-27 21:40:32",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://q-ledger.pages.dev/",
-   "first_seen": "2026-08-04 23:16:02",
-   "host": "q-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-27 15:36:25",
    "source_feed": "ct_monitor",
    "verified": true
   },
