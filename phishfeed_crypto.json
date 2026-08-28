@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2153,
- "generated_at": "2026-08-28T22:10:01Z",
+ "count": 2155,
+ "generated_at": "2026-08-28T23:10:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -4967,7 +4967,7 @@
    "first_seen": "2026-07-15 23:48:02",
    "host": "home-page-en--ledgr-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-28 20:58:48",
+   "last_seen": "2026-08-28 22:27:32",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6131,7 +6131,7 @@
    "first_seen": "2026-06-22 11:15:43",
    "host": "kuyzcoinlogin.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-08-28 15:28:26",
+   "last_seen": "2026-08-28 22:10:34",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -6623,7 +6623,7 @@
    "first_seen": "2026-08-21 11:22:02",
    "host": "learn-start-ledgr-cm.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-28 15:28:26",
+   "last_seen": "2026-08-28 22:10:34",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11015,7 +11015,7 @@
    "first_seen": "2026-06-16 11:16:17",
    "host": "ledgerlikeapp.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-28 15:28:26",
+   "last_seen": "2026-08-28 22:10:34",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -12371,7 +12371,7 @@
    "first_seen": "2026-07-02 19:48:02",
    "host": "ledgger--com--statr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-28 21:58:15",
+   "last_seen": "2026-08-28 22:27:07",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12635,7 +12635,7 @@
    "first_seen": "2026-07-02 04:48:02",
    "host": "ledgr--com-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-28 21:07:08",
+   "last_seen": "2026-08-28 22:26:36",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -15875,7 +15875,7 @@
    "first_seen": "2026-06-18 12:31:27",
    "host": "ledhgu-9aushdfu.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-28 15:28:26",
+   "last_seen": "2026-08-28 22:10:34",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -15887,7 +15887,7 @@
    "first_seen": "2026-06-18 12:31:27",
    "host": "ledhgzjhb-33jgjgd.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-28 15:28:41",
+   "last_seen": "2026-08-28 22:10:34",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -18503,7 +18503,7 @@
    "first_seen": "2026-06-27 13:16:01",
    "host": "official-ledgr--eng.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-28 15:28:41",
+   "last_seen": "2026-08-28 22:10:50",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -23011,6 +23011,18 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
+   "evidence_url": "https://the-artificers-ledger.pages.dev/",
+   "first_seen": "2026-08-28 13:54:03",
+   "host": "the-artificers-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-28 21:49:21",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
    "evidence_url": "https://the-ledger-4sk.pages.dev/",
    "first_seen": "2026-08-19 19:54:02",
    "host": "the-ledger-4sk.pages.dev",
@@ -23040,6 +23052,18 @@
    "host": "the-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-28 15:44:03",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://thetsakit-asset-ledger.pages.dev/",
+   "first_seen": "2026-08-28 10:22:03",
+   "host": "thetsakit-asset-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-28 21:20:27",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -23327,7 +23351,7 @@
    "first_seen": "2026-06-18 16:11:25",
    "host": "trustwalletsupport.dev",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-28 15:28:26",
+   "last_seen": "2026-08-28 22:10:34",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -25343,7 +25367,7 @@
    "first_seen": "2026-06-18 11:17:11",
    "host": "web3.oyuzh.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-28 15:28:26",
+   "last_seen": "2026-08-28 22:10:34",
    "source_feed": "OpenPhish",
    "verified": false
   },
