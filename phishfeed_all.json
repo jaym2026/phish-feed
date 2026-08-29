@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3141,
- "generated_at": "2026-08-29T17:10:01Z",
+ "count": 3140,
+ "generated_at": "2026-08-29T18:10:03Z",
  "hosts": [
   {
    "brand": "Other",
@@ -4415,7 +4415,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "delivery-equipment.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-29 11:16:02",
+   "last_seen": "2026-08-29 17:36:04",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -11587,7 +11587,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "julianabreu924-source.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-29 11:16:02",
+   "last_seen": "2026-08-29 17:36:05",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -13635,18 +13635,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledger--live-cloud-pdf.pages.dev/",
-   "first_seen": "2026-08-05 17:16:02",
-   "host": "ledger--live-cloud-pdf.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 15:33:08",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledger--live-login-cdn.pages.dev/",
    "first_seen": "2026-07-22 23:16:01",
    "host": "ledger--live-login-cdn.pages.dev",
@@ -14012,18 +14000,6 @@
    "host": "ledger-com-hek.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-29 14:52:48",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledger-com-ion.pages.dev/",
-   "first_seen": "2026-07-19 12:48:02",
-   "host": "ledger-com-ion.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 15:15:45",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -20348,18 +20324,6 @@
    "host": "ledgrcom-start-home.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-29 15:29:33",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgrcom-start-learn.pages.dev/",
-   "first_seen": "2026-08-06 05:16:02",
-   "host": "ledgrcom-start-learn.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 15:33:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -29415,11 +29379,23 @@
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
+   "evidence_url": "http://security-server-landing-page--offiicehubplumb.replit.app/",
+   "first_seen": "2026-08-28 11:16:51",
+   "host": "security-server-landing-page--offiicehubplumb.replit.app",
+   "hosting_platform": "Replit",
+   "last_seen": "2026-08-29 18:01:52",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
    "evidence_url": "https://security-server-page--leonine84.replit.app/",
    "first_seen": "2026-08-27 11:16:43",
    "host": "security-server-page--leonine84.replit.app",
    "hosting_platform": "Replit",
-   "last_seen": "2026-08-29 14:44:57",
+   "last_seen": "2026-08-29 18:03:35",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -29515,7 +29491,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "senecasy2k.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-08-29 11:16:03",
+   "last_seen": "2026-08-29 17:36:17",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -29745,6 +29721,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-29 15:18:10",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": null,
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://shermanbarnwoodfurnitureamp.pages.dev/",
+   "first_seen": "2026-08-29 18:07:58",
+   "host": "shermanbarnwoodfurnitureamp.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-08-29 18:07:58",
+   "source_feed": "urlscan_hunter",
    "verified": true
   },
   {
