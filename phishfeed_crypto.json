@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2130,
- "generated_at": "2026-08-30T12:10:01Z",
+ "count": 2129,
+ "generated_at": "2026-08-30T13:10:01Z",
  "hosts": [
   {
    "brand": "Trezor",
@@ -638,6 +638,18 @@
    "last_seen": "2026-08-30 09:18:11",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Coinbase",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "https://baseservices.vercel.app/",
+   "first_seen": "2026-08-30 11:16:18",
+   "host": "baseservices.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-08-30 11:16:18",
+   "source_feed": "PhishTank",
+   "verified": false
   },
   {
    "brand": "Trezor",
@@ -12545,18 +12557,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgr-cloud.pages.dev/",
-   "first_seen": "2026-07-29 22:48:02",
-   "host": "ledgr-cloud.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 09:17:07",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://ledgr-com-acces.pages.dev/",
@@ -22848,18 +22848,6 @@
    "host": "trezr-io-sart-wall.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 03:45:32",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://trezr-suit-info.pages.dev/",
-   "first_seen": "2026-07-30 14:16:02",
-   "host": "trezr-suit-info.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 03:46:24",
    "source_feed": "ct_monitor",
    "verified": true
   },
