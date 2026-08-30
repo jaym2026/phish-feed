@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2119,
- "generated_at": "2026-08-30T19:10:01Z",
+ "count": 2115,
+ "generated_at": "2026-08-30T20:10:01Z",
  "hosts": [
   {
    "brand": "Trezor",
@@ -11,7 +11,7 @@
    "first_seen": "2026-08-29 15:38:03",
    "host": "144618trezor.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 17:40:39",
+   "last_seen": "2026-08-30 19:40:07",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -18271,18 +18271,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://official-ledgre-es.pages.dev/",
-   "first_seen": "2026-07-19 12:16:02",
-   "host": "official-ledgre-es.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 15:31:25",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://official-ledgre-star.pages.dev/",
    "first_seen": "2026-07-25 06:32:01",
    "host": "official-ledgre-star.pages.dev",
@@ -19020,18 +19008,6 @@
    "host": "portal-ledgr-live-io.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 14:50:20",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://portal-ledgrr-livewllt.pages.dev/",
-   "first_seen": "2026-07-28 20:32:02",
-   "host": "portal-ledgrr-livewllt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 14:59:44",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -23729,18 +23705,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://usa-lives-ledgr.pages.dev/",
-   "first_seen": "2026-07-21 04:48:02",
-   "host": "usa-lives-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 15:37:24",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://usa-login-ledger.pages.dev/",
@@ -23808,18 +23772,6 @@
    "host": "use-ledger-live.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 14:49:42",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://use-trezrsuite.pages.dev/",
-   "first_seen": "2026-07-19 16:16:02",
-   "host": "use-trezrsuite.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 15:31:38",
    "source_feed": "ct_monitor",
    "verified": true
   },
