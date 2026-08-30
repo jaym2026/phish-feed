@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3135,
- "generated_at": "2026-08-30T05:10:01Z",
+ "count": 3132,
+ "generated_at": "2026-08-30T06:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -2340,7 +2340,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Zimbra",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://bafybeialhrwzqxqwwecyjmub6gn4ehoajt64dcpsaxtu6b5ier4zowx3de.ipfs.dweb.link/",
@@ -2352,7 +2352,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Zimbra",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://bafybeialhrwzqxqwwecyjmub6gn4ehoajt64dcpsaxtu6b5ier4zowx3de.ipfs.inbrowser.link/",
@@ -2833,10 +2833,6 @@
   },
   {
    "brand": "Facebook",
-   "brands": [
-    "Facebook",
-    "Other"
-   ],
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://buksh-alee.github.io/azan",
@@ -3331,12 +3327,12 @@
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "https://cn.mpmxzu.com/home/register?code=31515",
+   "evidence_url": "https://cn.mpmxzu.com/home/register?code=20188",
    "first_seen": "2026-06-18 12:31:27",
    "host": "cn.mpmxzu.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-29 21:46:26",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-08-30 05:36:35",
+   "source_feed": "payload_hunter",
    "verified": true
   },
   {
@@ -3496,7 +3492,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Outlook",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "http://colliercynthia.github.io/mstest/",
@@ -4175,7 +4171,7 @@
    "first_seen": "2026-08-18 18:07:59",
    "host": "darkex-login-en-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -5304,18 +5300,6 @@
    "host": "dowload--exoduus-cdn.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 02:42:42",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://down-ledger-faq.pages.dev/",
-   "first_seen": "2026-07-18 16:16:02",
-   "host": "down-ledger-faq.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 02:40:18",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7541,10 +7525,6 @@
   },
   {
    "brand": "Facebook",
-   "brands": [
-    "Facebook",
-    "Other"
-   ],
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://fd180.github.io/face/index.html",
@@ -7665,10 +7645,6 @@
   },
   {
    "brand": "Instagram",
-   "brands": [
-    "Instagram",
-    "Other"
-   ],
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://fidus6282-collab.github.io/Thebestsafesite",
@@ -7788,7 +7764,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Microsoft",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://fls-a2969d8f-9d0c-4b4a-a789-5c019f296423.laravel.cloud/ggg.html",
@@ -7812,7 +7788,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Microsoft",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://fls-a29a95aa-4836-4f6b-9225-b3f2612bdfc6.laravel.cloud/newsmartfx.html",
@@ -7824,7 +7800,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Microsoft",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://fls-a29aad60-569c-4a7b-9f6c-eb338c5dfaae.laravel.cloud/crush.html",
@@ -7939,7 +7915,7 @@
    "first_seen": "2026-08-18 18:06:03",
    "host": "fpost-hc.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -8623,7 +8599,7 @@
    "first_seen": "2026-08-19 17:07:48",
    "host": "golf-tracker-75u.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -8746,18 +8722,6 @@
    "last_seen": "2026-08-29 21:33:14",
    "source_feed": "OpenPhish",
    "verified": false
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://guest-ledger-wallet.pages.dev/",
-   "first_seen": "2026-07-22 10:48:02",
-   "host": "guest-ledger-wallet.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 04:00:34",
-   "source_feed": "ct_monitor",
-   "verified": true
   },
   {
    "brand": "Pedagio",
@@ -9072,7 +9036,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Instagram",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://hamzachehlaoui.github.io/login/",
@@ -10171,7 +10135,7 @@
    "first_seen": "2026-08-25 18:09:22",
    "host": "hrk-verwaltungsplattform-schulungsvideos.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -10411,7 +10375,7 @@
    "first_seen": "2026-08-25 18:08:43",
    "host": "idx-dashboard.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -15505,18 +15469,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-lo-gin-en.pages.dev/",
-   "first_seen": "2026-08-12 18:16:02",
-   "host": "ledger-live-lo-gin-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 03:33:16",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://ledger-live-login-access.pages.dev/",
@@ -17000,18 +16952,6 @@
    "host": "ledgerlive---run.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 02:42:58",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledgerlive--desktop--run.pages.dev/",
-   "first_seen": "2026-07-16 17:48:02",
-   "host": "ledgerlive--desktop--run.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 02:49:51",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -21751,7 +21691,7 @@
    "first_seen": "2026-08-21 18:01:19",
    "host": "lettingsmate-auth.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -21888,9 +21828,9 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Binance",
    "corroboration_count": 2,
-   "crypto": false,
+   "crypto": true,
    "evidence_url": "https://license-keys.vercel.app/",
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
@@ -23437,18 +23377,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://livs-io-ledgr.pages.dev/",
-   "first_seen": "2026-08-02 11:48:02",
-   "host": "livs-io-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 03:44:55",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://livwalet-helps-ledgr.pages.dev/",
@@ -23635,7 +23563,7 @@
    "first_seen": "2026-08-18 18:09:13",
    "host": "login-7r7.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -23731,7 +23659,7 @@
    "first_seen": "2026-08-18 18:01:29",
    "host": "login-serwis.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -24612,6 +24540,30 @@
    "verified": false
   },
   {
+   "brand": "Midasbuy",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://midasbuygame.m7-event.com/",
+   "first_seen": "2026-08-10 11:16:29",
+   "host": "midasbuygame.m7-event.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-30 05:36:35",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Midasbuy",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://midasbuyz.officiall-events.com/",
+   "first_seen": "2026-08-18 11:18:46",
+   "host": "midasbuyz.officiall-events.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-30 05:36:35",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Uniswap",
    "corroboration_count": 1,
    "crypto": true,
@@ -24684,7 +24636,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Google",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "http://mohsinabbas19.github.io/fsh/",
@@ -25092,7 +25044,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Facebook",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://naviatayde.github.io/fb-login",
@@ -25461,6 +25413,18 @@
    "hosting_platform": "Other",
    "last_seen": "2026-08-30 03:33:47",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "http://newmidas.gamerstored.com/",
+   "first_seen": "2026-08-08 12:35:29",
+   "host": "newmidas.gamerstored.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-08-30 05:36:35",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -26452,11 +26416,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
-   "brands": [
-    "Other",
-    "Outlook"
-   ],
+   "brand": "Outlook",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "http://owa.sarbacame.com/owa/auth/",
@@ -26739,7 +26699,7 @@
    "first_seen": "2026-08-18 18:05:55",
    "host": "payeecapitaldashboard.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -29043,7 +29003,7 @@
    "first_seen": "2026-08-18 18:02:15",
    "host": "schoolsafe-v2.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -29055,7 +29015,7 @@
    "first_seen": "2026-08-25 18:05:40",
    "host": "schule-info-portal.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -29432,7 +29392,7 @@
    "verified": false
   },
   {
-   "brand": "Other",
+   "brand": "Google",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://senecasy2k.github.io/my-login-page/",
@@ -31295,18 +31255,6 @@
    "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
-   "evidence_url": "https://start-ledgrecom--eng.pages.dev/",
-   "first_seen": "2026-08-05 15:48:02",
-   "host": "start-ledgrecom--eng.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 03:41:53",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
    "evidence_url": "https://start-ledgrecom--usa.pages.dev/",
    "first_seen": "2026-07-27 10:48:02",
    "host": "start-ledgrecom--usa.pages.dev",
@@ -32295,7 +32243,7 @@
    "first_seen": "2026-08-21 18:02:24",
    "host": "study-tracker-87x.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -33207,7 +33155,7 @@
    "first_seen": "2026-08-25 18:06:59",
    "host": "tinder-review.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-29 11:35:44",
+   "last_seen": "2026-08-30 05:36:35",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -36560,7 +36508,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Adobe",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "http://wildcard.facture-rapide.fr/s/63BZGFSVBWSFCDX7Y9/584dd8/90eab167-7429-489f-99f6-ce86e8d0d81a/",
@@ -36788,7 +36736,7 @@
    "verified": false
   },
   {
-   "brand": "Other",
+   "brand": "Outlook",
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "http://www.5mp.eu/fajlok2/scba/index_www.5mp.eu_.html",
@@ -36800,7 +36748,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Netflix",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://www.anahirschle.com.br/css/domains/eovlogin.php",
@@ -36980,7 +36928,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Xfinity",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://www.guiaemfoco.com.br/xinfinifix/xinfini/",
@@ -37076,7 +37024,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "SharePoint",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://www.mabosi-otoku.com/wp-includes/assets/bnkslp.html",
@@ -37088,7 +37036,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Outlook",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://www.marketcommonhomesonline.com/ccd/",
@@ -37292,7 +37240,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Apple",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://www.urasenkesydney.org.au/wp/wp-content/INFOS/",
