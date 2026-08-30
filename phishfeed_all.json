@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3150,
- "generated_at": "2026-08-30T17:10:01Z",
+ "count": 3145,
+ "generated_at": "2026-08-30T18:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -52,7 +52,7 @@
    "first_seen": "2026-08-29 15:38:03",
    "host": "144618trezor.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:46:24",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -425,7 +425,7 @@
    "first_seen": "2026-08-21 11:14:39",
    "host": "ac.lcdjqy.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:26:11",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -701,7 +701,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "agua-assassina.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:23:34",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -857,7 +857,7 @@
    "first_seen": "2026-08-21 11:14:39",
    "host": "albamahaeid1786586584919.2030066.misitiohostgator.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:25:41",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2801,7 +2801,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "bncenlimea.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 11:16:18",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -8167,18 +8167,6 @@
    "verified": true
   },
   {
-   "brand": "Other",
-   "corroboration_count": 2,
-   "crypto": false,
-   "evidence_url": "http://fullaski.com/longman/ourtimepge/v3",
-   "first_seen": "2026-06-18 12:31:27",
-   "host": "fullaski.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:24:19",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Amazon",
    "corroboration_count": 2,
    "crypto": false,
@@ -8405,18 +8393,6 @@
    "last_seen": "2026-08-30 15:25:41",
    "source_feed": "OpenPhish",
    "verified": false
-  },
-  {
-   "brand": "Exodus",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://get-exodas-waallets.pages.dev/",
-   "first_seen": "2026-07-25 05:16:01",
-   "host": "get-exodas-waallets.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 15:38:49",
-   "source_feed": "ct_monitor",
-   "verified": true
   },
   {
    "brand": "Ledger",
@@ -9799,18 +9775,6 @@
    "host": "home--lger-logn-cdn.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 15:31:38",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://home-en-ledgr-us-8fo.pages.dev/",
-   "first_seen": "2026-07-18 04:00:03",
-   "host": "home-en-ledgr-us-8fo.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 15:48:52",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -15225,18 +15189,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-cloud.pages.dev/",
-   "first_seen": "2026-07-20 22:32:02",
-   "host": "ledger-live-cloud.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 15:23:12",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://ledger-live-cold.pages.dev/",
@@ -15784,18 +15736,6 @@
    "host": "ledger-live-sse.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 14:46:56",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-start-cmt.pages.dev/",
-   "first_seen": "2026-07-30 02:32:02",
-   "host": "ledger-live-start-cmt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 14:50:20",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -23339,18 +23279,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://livepdf-ledger.pages.dev/",
-   "first_seen": "2026-07-23 20:48:01",
-   "host": "livepdf-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 15:37:57",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://lives-en-ledgr.pages.dev/",
    "first_seen": "2026-07-16 03:32:01",
    "host": "lives-en-ledgr.pages.dev",
@@ -26959,7 +26887,7 @@
    "first_seen": "2026-08-29 14:54:03",
    "host": "paypal-login-support.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 14:53:53",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -27369,6 +27297,18 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 15:46:11",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "2dehands",
+   "corroboration_count": 1,
+   "crypto": false,
+   "evidence_url": "https://poczta-onet.netlify.app/",
+   "first_seen": "2026-07-27 18:03:40",
+   "host": "poczta-onet.netlify.app",
+   "hosting_platform": "Netlify",
+   "last_seen": "2026-08-30 18:01:03",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -30376,7 +30316,7 @@
    "first_seen": "2026-08-13 11:19:30",
    "host": "ssl-ff3a69f1-36ce-441a-8de8-eae84d28ed1e.velasoft.cz",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:27:28",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -33880,7 +33820,7 @@
    "first_seen": "2026-06-12 11:16:11",
    "host": "underwave.digital",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:23:21",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -36920,7 +36860,7 @@
    "first_seen": "2026-06-15 12:58:55",
    "host": "www.105633222.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:23:48",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -36968,7 +36908,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "www.5mp.eu",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 09:35:11",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -37088,7 +37028,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "www.emmanuelbarrault.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 09:35:11",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -37376,7 +37316,7 @@
    "first_seen": "2026-06-12 13:58:13",
    "host": "www.pglhj2026.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:25:41",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -37400,7 +37340,7 @@
    "first_seen": "2026-08-21 11:14:39",
    "host": "www.roblox.com.kz",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 15:25:41",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -37484,7 +37424,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "www.ts757.net",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-30 09:35:11",
+   "last_seen": "2026-08-30 17:40:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
