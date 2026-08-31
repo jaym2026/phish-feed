@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2126,
- "generated_at": "2026-08-31T05:10:01Z",
+ "count": 2123,
+ "generated_at": "2026-08-31T06:10:01Z",
  "hosts": [
   {
    "brand": "Trezor",
@@ -15917,18 +15917,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://livas-io-ledgr.pages.dev/",
-   "first_seen": "2026-08-06 14:48:02",
-   "host": "livas-io-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:29:31",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://live--ledgr-desktop.pages.dev/",
@@ -21341,18 +21329,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://start-ledgrecom-x.pages.dev/",
-   "first_seen": "2026-08-03 05:48:02",
-   "host": "start-ledgrecom-x.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:30:28",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://start-ledgrecom.pages.dev/",
@@ -25332,18 +25308,6 @@
    "host": "welcome-ledgr-wallet-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 21:36:10",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://welcome-sos-ledger-wallet.pages.dev/",
-   "first_seen": "2026-07-28 00:48:03",
-   "host": "welcome-sos-ledger-wallet.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 02:49:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
