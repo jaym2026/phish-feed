@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2129,
- "generated_at": "2026-08-31T04:10:02Z",
+ "count": 2126,
+ "generated_at": "2026-08-31T05:10:01Z",
  "hosts": [
   {
    "brand": "Trezor",
@@ -11,7 +11,7 @@
    "first_seen": "2026-08-29 15:38:03",
    "host": "144618trezor.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-31 00:40:15",
+   "last_seen": "2026-08-31 04:40:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3691,18 +3691,6 @@
    "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
-   "evidence_url": "https://get-ledger-login-hub.pages.dev/",
-   "first_seen": "2026-07-20 06:48:02",
-   "host": "get-ledger-login-hub.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 02:48:00",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
    "evidence_url": "https://get-ledgercomstartt.pages.dev/",
    "first_seen": "2026-07-25 00:32:02",
    "host": "get-ledgercomstartt.pages.dev",
@@ -6396,18 +6384,6 @@
    "host": "learn-ledgr-wlt-en.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-31 02:48:26",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://learn-ledgri-log.pages.dev/",
-   "first_seen": "2026-07-23 20:00:03",
-   "host": "learn-ledgri-log.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-30 21:35:34",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10751,7 +10727,7 @@
    "first_seen": "2026-07-22 10:48:02",
    "host": "ledgerdisconnect.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-08-31 00:40:15",
+   "last_seen": "2026-08-31 04:40:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22680,18 +22656,6 @@
    "host": "the-artificers-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-31 03:39:17",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://the-ledger-4sk.pages.dev/",
-   "first_seen": "2026-08-19 19:54:02",
-   "host": "the-ledger-4sk.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 02:55:43",
    "source_feed": "ct_monitor",
    "verified": true
   },
