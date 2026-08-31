@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2120,
- "generated_at": "2026-08-31T07:10:01Z",
+ "count": 2113,
+ "generated_at": "2026-08-31T08:10:01Z",
  "hosts": [
   {
    "brand": "Trezor",
@@ -122,18 +122,6 @@
    "last_seen": "2026-08-31 03:25:27",
    "source_feed": "OpenPhish",
    "verified": false
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://alone-trezr-io-strt.pages.dev/",
-   "first_seen": "2026-07-25 10:32:02",
-   "host": "alone-trezr-io-strt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:31:12",
-   "source_feed": "ct_monitor",
-   "verified": true
   },
   {
    "brand": "Ledger",
@@ -1644,18 +1632,6 @@
    "host": "dev-ledgr-com-strt-temp-en.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 21:35:00",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://dev-ledgr.pages.dev/",
-   "first_seen": "2026-07-28 04:32:02",
-   "host": "dev-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:33:30",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3444,18 +3420,6 @@
    "host": "faqs-ledgrcom-guide.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-30 21:34:27",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://fdg-trezr-strt.pages.dev/",
-   "first_seen": "2026-07-25 10:32:02",
-   "host": "fdg-trezr-strt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:28:47",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6977,18 +6941,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgeer-io-start.pages.dev/",
-   "first_seen": "2026-07-24 10:48:03",
-   "host": "ledgeer-io-start.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:35:40",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://ledgeer-live-app-desktop.pages.dev/",
@@ -10080,18 +10032,6 @@
    "host": "ledger-lpog-in.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-31 02:57:21",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-naav-liv-doc.pages.dev/",
-   "first_seen": "2026-07-16 23:48:02",
-   "host": "ledger-naav-liv-doc.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:30:59",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -17899,18 +17839,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://new-ledgr-live-io-en.pages.dev/",
-   "first_seen": "2026-07-29 06:32:01",
-   "host": "new-ledgr-live-io-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:21:47",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://new-ledgrelives.pages.dev/",
    "first_seen": "2026-07-16 17:32:02",
    "host": "new-ledgrelives.pages.dev",
@@ -22572,18 +22500,6 @@
    "host": "tegs-home-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-08-31 03:32:14",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://tgt-trezr-suite.pages.dev/",
-   "first_seen": "2026-07-30 19:16:01",
-   "host": "tgt-trezr-suite.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-08-31 03:35:40",
    "source_feed": "ct_monitor",
    "verified": true
   },
