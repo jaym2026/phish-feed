@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3048,
- "generated_at": "2026-09-01T23:10:02Z",
+ "count": 3049,
+ "generated_at": "2026-09-02T00:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -3747,12 +3747,12 @@
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "http://cn.lnmxys.com/home/register?code=41878",
+   "evidence_url": "https://cn.lnmxys.com/home/register?code=20611",
    "first_seen": "2026-06-17 11:16:50",
    "host": "cn.lnmxys.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-01 21:48:12",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-09-01 23:32:06",
+   "source_feed": "payload_hunter",
    "verified": true
   },
   {
@@ -8191,7 +8191,7 @@
    "first_seen": "2026-08-30 18:03:34",
    "host": "fitness-tracker-56z.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-01 05:33:55",
+   "last_seen": "2026-09-01 23:32:06",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -10003,7 +10003,7 @@
    "first_seen": "2026-08-24 11:15:49",
    "host": "him-still-transfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-01 20:48:23",
+   "last_seen": "2026-09-01 23:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -10015,7 +10015,7 @@
    "first_seen": "2026-08-24 11:15:49",
    "host": "him-transsfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-01 20:48:23",
+   "last_seen": "2026-09-01 23:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11896,7 +11896,7 @@
    "first_seen": "2026-08-30 18:07:08",
    "host": "jobdesk-portal-login.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-01 05:33:55",
+   "last_seen": "2026-09-01 23:32:06",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -12016,7 +12016,7 @@
    "first_seen": "2026-06-12 11:16:11",
    "host": "kasmli313univ.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-09-01 21:53:01",
+   "last_seen": "2026-09-01 23:40:02",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -12040,7 +12040,7 @@
    "first_seen": "2026-06-15 12:58:55",
    "host": "kciane645estar.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-09-01 21:53:01",
+   "last_seen": "2026-09-01 23:40:02",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -12076,7 +12076,7 @@
    "first_seen": "2026-06-11 11:12:45",
    "host": "kiamdrive474exch.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-09-01 21:52:48",
+   "last_seen": "2026-09-01 23:40:02",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -16688,7 +16688,7 @@
    "first_seen": "2026-07-25 22:48:01",
    "host": "ledgersyncdgdyushysgspathaiuhydiskbnxghidkbdghijshdvbjddjh.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-01 05:33:55",
+   "last_seen": "2026-09-01 23:32:06",
    "source_feed": "payload_hunter",
    "verified": true
   },
@@ -22832,7 +22832,7 @@
    "first_seen": "2026-08-30 18:05:34",
    "host": "main-edution-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-01 05:33:55",
+   "last_seen": "2026-09-01 23:32:06",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -30908,7 +30908,7 @@
    "first_seen": "2026-08-23 11:17:52",
    "host": "still-clickto-to.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-01 21:19:26",
+   "last_seen": "2026-09-01 23:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -32332,11 +32332,11 @@
    "brand": "Bancolombia",
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://triqu.vercel.app/",
+   "evidence_url": "https://triqu.vercel.app/tc",
    "first_seen": "2026-06-18 11:17:11",
    "host": "triqu.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-01 22:40:15",
+   "last_seen": "2026-09-01 23:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -35787,6 +35787,18 @@
    "last_seen": "2026-09-01 21:35:42",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "Outlook",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "http://www.cancelacionoutlook-two.vercel.app/",
+   "first_seen": "2026-09-01 11:19:15",
+   "host": "www.cancelacionoutlook-two.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-01 22:40:23",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Codashop",
