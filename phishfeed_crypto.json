@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1956,
- "generated_at": "2026-09-02T13:10:01Z",
+ "count": 1955,
+ "generated_at": "2026-09-02T14:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -623,7 +623,7 @@
    "first_seen": "2026-08-25 11:16:42",
    "host": "aziegbefriday6-eng.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-09-02 11:52:59",
+   "last_seen": "2026-09-02 13:40:02",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -3144,18 +3144,6 @@
    "host": "exodus-app-2uv.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-02 08:33:57",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Exodus",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://exodus-logen-guide.pages.dev/",
-   "first_seen": "2026-07-23 20:32:03",
-   "host": "exodus-logen-guide.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-02 08:33:36",
    "source_feed": "ct_monitor",
    "verified": true
   },
