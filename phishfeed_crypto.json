@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1951,
- "generated_at": "2026-09-03T18:10:06Z",
+ "count": 1950,
+ "generated_at": "2026-09-03T19:10:06Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -203,7 +203,7 @@
    "first_seen": "2026-07-27 23:00:26",
    "host": "app-ledger-live.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-03 17:40:09",
+   "last_seen": "2026-09-03 18:40:54",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -803,7 +803,7 @@
    "first_seen": "2026-09-01 11:19:15",
    "host": "bsccoin-transfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -1403,7 +1403,7 @@
    "first_seen": "2026-08-20 11:17:21",
    "host": "definitive-electronics-qyjl.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2171,7 +2171,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "dynamexcard.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:49",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4523,7 +4523,7 @@
    "first_seen": "2026-08-24 11:15:49",
    "host": "him-still-transfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -4535,7 +4535,7 @@
    "first_seen": "2026-08-24 11:15:49",
    "host": "him-transsfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -5995,11 +5995,11 @@
    "brand": "Uniswap",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "https://landing3-web-lcgz.vercel.app/positions",
+   "evidence_url": "https://landing3-web-lcgz.vercel.app/",
    "first_seen": "2026-07-11 11:15:39",
    "host": "landing3-web-lcgz.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 15:26:54",
+   "last_seen": "2026-09-03 18:40:48",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -13583,7 +13583,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -15515,7 +15515,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "memberservices-backupcentre-exodus.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -19823,7 +19823,7 @@
    "first_seen": "2026-08-23 11:17:52",
    "host": "still-clickto-to.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -21779,7 +21779,7 @@
    "first_seen": "2026-08-25 11:16:42",
    "host": "usdt-send-seven.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 16:40:17",
+   "last_seen": "2026-09-03 18:40:53",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -23330,18 +23330,6 @@
    "last_seen": "2026-09-03 16:01:54",
    "source_feed": "ct_monitor",
    "verified": true
-  },
-  {
-   "brand": "Trezor",
-   "corroboration_count": 2,
-   "crypto": true,
-   "evidence_url": "http://www.trezorguide.vercel.app/",
-   "first_seen": "2026-09-03 11:14:05",
-   "host": "www.trezorguide.vercel.app",
-   "hosting_platform": "Vercel",
-   "last_seen": "2026-09-03 11:14:05",
-   "source_feed": "OpenPhish",
-   "verified": false
   },
   {
    "brand": "Coinbase",
