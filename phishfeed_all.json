@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2971,
- "generated_at": "2026-09-04T16:10:02Z",
+ "count": 2969,
+ "generated_at": "2026-09-04T17:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -4260,7 +4260,7 @@
    "first_seen": "2026-06-17 11:16:50",
    "host": "dc.crsorgi.gov.in.index.web-index.info",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-04 15:16:07",
+   "last_seen": "2026-09-04 16:40:04",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -12809,18 +12809,6 @@
    "host": "ledger--hardwere-wallet--run.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-04 14:45:47",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger--live---run.pages.dev/",
-   "first_seen": "2026-08-01 01:00:03",
-   "host": "ledger--live---run.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 14:55:20",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -24820,18 +24808,6 @@
    "brand": "Phantom",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://phantom-flow.pages.dev/",
-   "first_seen": "2026-08-13 06:01:44",
-   "host": "phantom-flow.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 15:19:29",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Phantom",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://phantom-mail.pages.dev/",
    "first_seen": "2026-07-24 07:48:02",
    "host": "phantom-mail.pages.dev",
@@ -26448,7 +26424,7 @@
    "first_seen": "2026-08-04 11:16:09",
    "host": "robl0x-1.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-09-04 15:18:02",
+   "last_seen": "2026-09-04 16:40:04",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -34780,11 +34756,11 @@
    "brand": "Other",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "http://www.birt.club/",
+   "evidence_url": "https://www.birt.club/crs/",
    "first_seen": "2026-09-03 11:14:05",
    "host": "www.birt.club",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-04 15:40:16",
+   "last_seen": "2026-09-04 16:40:04",
    "source_feed": "OpenPhish",
    "verified": true
   },
