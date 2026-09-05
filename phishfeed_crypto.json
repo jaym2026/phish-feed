@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1948,
- "generated_at": "2026-09-05T05:10:02Z",
+ "count": 1946,
+ "generated_at": "2026-09-05T06:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -203,7 +203,7 @@
    "first_seen": "2026-07-27 23:00:26",
    "host": "app-ledger-live.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-05 03:40:16",
+   "last_seen": "2026-09-05 05:40:19",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -635,7 +635,7 @@
    "first_seen": "2026-08-25 11:16:42",
    "host": "aziegbefriday6-eng.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-09-05 03:40:16",
+   "last_seen": "2026-09-05 05:40:19",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -839,7 +839,7 @@
    "first_seen": "2026-08-22 18:05:37",
    "host": "bulletin-irr-ablaikhan.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 13:15:01",
+   "last_seen": "2026-09-05 05:32:37",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -1031,7 +1031,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "coinbase-referral-code.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-05 03:40:16",
+   "last_seen": "2026-09-05 05:40:19",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -2195,7 +2195,7 @@
    "first_seen": "2026-07-16 18:10:33",
    "host": "e-lader-login-wel.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 13:15:00",
+   "last_seen": "2026-09-05 05:32:37",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3648,6 +3648,18 @@
    "host": "geminileginei.webflow.io",
    "hosting_platform": "Webflow",
    "last_seen": "2026-09-05 02:59:01",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Gemini",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "https://gemninklogiin.webflow.io/",
+   "first_seen": "2026-09-03 11:14:05",
+   "host": "gemninklogiin.webflow.io",
+   "hosting_platform": "Webflow",
+   "last_seen": "2026-09-05 02:46:35",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -5987,7 +5999,7 @@
    "first_seen": "2026-08-14 18:09:16",
    "host": "ladger-co-account-set-up.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 13:15:01",
+   "last_seen": "2026-09-05 05:32:37",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -6023,7 +6035,7 @@
    "first_seen": "2026-07-11 11:15:39",
    "host": "landing3-web-lcgz.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-05 03:40:16",
+   "last_seen": "2026-09-05 05:40:19",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -6624,18 +6636,6 @@
    "host": "ledgeer-live-usa.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-04 21:44:24",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgeer-livee.pages.dev/",
-   "first_seen": "2026-07-28 14:00:03",
-   "host": "ledgeer-livee.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 02:58:01",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9827,7 +9827,7 @@
    "first_seen": "2026-07-25 22:48:01",
    "host": "ledgersyncdgdyushysgspathaiuhydiskbnxghidkbdghijshdvbjddjh.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 13:15:00",
+   "last_seen": "2026-09-05 05:32:37",
    "source_feed": "payload_hunter",
    "verified": true
   },
@@ -11388,18 +11388,6 @@
    "host": "ledgr-lives.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-04 21:32:29",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgr-livewllt-web.pages.dev/",
-   "first_seen": "2026-07-27 10:32:02",
-   "host": "ledgr-livewllt-web.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 02:57:37",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13559,7 +13547,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-05 03:40:16",
+   "last_seen": "2026-09-05 05:40:19",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -15239,7 +15227,7 @@
    "first_seen": "2026-07-15 18:02:46",
    "host": "login-web-ldgre.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 13:15:00",
+   "last_seen": "2026-09-05 05:32:37",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -15467,7 +15455,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "memberservices-backupcentre-exodus.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-05 03:40:16",
+   "last_seen": "2026-09-05 05:40:19",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -16867,18 +16855,6 @@
    "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
-   "evidence_url": "https://portal-ledgr-live-io.pages.dev/",
-   "first_seen": "2026-07-29 23:00:29",
-   "host": "portal-ledgr-live-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 02:58:28",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
    "evidence_url": "https://portal-ledgrr-livewllt.pages.dev/",
    "first_seen": "2026-07-28 20:32:02",
    "host": "portal-ledgrr-livewllt.pages.dev",
@@ -18215,7 +18191,7 @@
    "first_seen": "2026-07-31 18:06:54",
    "host": "sso-login-kucoin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 13:15:00",
+   "last_seen": "2026-09-05 05:32:37",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -18239,7 +18215,7 @@
    "first_seen": "2026-07-31 18:06:51",
    "host": "sso-ndex-login-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-04 13:15:00",
+   "last_seen": "2026-09-05 05:32:37",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
