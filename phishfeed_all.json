@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3006,
- "generated_at": "2026-09-05T18:10:01Z",
+ "count": 3004,
+ "generated_at": "2026-09-05T19:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -6667,12 +6667,12 @@
    "brand": "Zimbra",
    "corroboration_count": 1,
    "crypto": false,
-   "evidence_url": "https://er-zimbr.netlify.app/",
+   "evidence_url": "http://er-zimbr.netlify.app/",
    "first_seen": "2026-09-04 18:02:34",
    "host": "er-zimbr.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-09-05 18:01:01",
-   "source_feed": "urlscan_hunter",
+   "last_seen": "2026-09-05 18:40:02",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -7187,7 +7187,7 @@
    "first_seen": "2026-09-04 17:14:48",
    "host": "f005.backblazeb2.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-05 16:40:03",
+   "last_seen": "2026-09-05 18:40:02",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -21357,18 +21357,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://log-ledgr-live-auth.pages.dev/",
-   "first_seen": "2026-07-28 00:48:01",
-   "host": "log-ledgr-live-auth.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 15:05:15",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://log-ledgr.pages.dev/",
@@ -24883,7 +24871,7 @@
    "first_seen": "2026-08-05 11:14:25",
    "host": "paywalletsecure.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-09-05 16:40:03",
+   "last_seen": "2026-09-05 18:40:02",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -29856,18 +29844,6 @@
    "host": "startd-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-05 15:15:41",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://starte-ledger.pages.dev/",
-   "first_seen": "2026-07-22 04:48:02",
-   "host": "starte-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 15:04:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
