@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3005,
- "generated_at": "2026-09-05T16:10:02Z",
+ "count": 3004,
+ "generated_at": "2026-09-05T17:10:02Z",
  "hosts": [
   {
    "brand": "Other",
@@ -5680,18 +5680,6 @@
    "verified": true
   },
   {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://dwnld-live-ledger.pages.dev/",
-   "first_seen": "2026-07-28 02:32:02",
-   "host": "dwnld-live-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 10:03:08",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
    "brand": "MEXC",
    "corroboration_count": 0,
    "crypto": true,
@@ -6667,12 +6655,12 @@
    "brand": "Zimbra",
    "corroboration_count": 1,
    "crypto": false,
-   "evidence_url": "https://er-zimbr.netlify.app/",
+   "evidence_url": "http://er-zimbr.netlify.app/",
    "first_seen": "2026-09-04 18:02:34",
    "host": "er-zimbr.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-09-05 11:36:23",
-   "source_feed": "urlscan_hunter",
+   "last_seen": "2026-09-05 16:40:03",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -7187,7 +7175,7 @@
    "first_seen": "2026-09-04 17:14:48",
    "host": "f005.backblazeb2.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-05 09:37:14",
+   "last_seen": "2026-09-05 16:40:03",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -24883,7 +24871,7 @@
    "first_seen": "2026-08-05 11:14:25",
    "host": "paywalletsecure.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-09-05 15:22:41",
+   "last_seen": "2026-09-05 16:40:03",
    "source_feed": "PhishTank",
    "verified": true
   },
