@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 3001,
- "generated_at": "2026-09-05T12:10:03Z",
+ "count": 3003,
+ "generated_at": "2026-09-05T13:10:11Z",
  "hosts": [
   {
    "brand": "Other",
@@ -545,7 +545,7 @@
   },
   {
    "brand": null,
-   "corroboration_count": 1,
+   "corroboration_count": 0,
    "crypto": false,
    "evidence_url": "https://admin-for-sex-offender-and-korean.vercel.app/?naps",
    "first_seen": "2026-08-09 09:05:18",
@@ -3257,7 +3257,7 @@
   },
   {
    "brand": "Facebook",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://clone-facebook-five.vercel.app/",
    "first_seen": "2026-09-05 11:05:39",
@@ -3348,18 +3348,6 @@
    "host": "cloud-ledgrwallet.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-05 08:35:18",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://cloud-login-ledgr-live.pages.dev/",
-   "first_seen": "2026-07-28 00:32:02",
-   "host": "cloud-login-ledgr-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 10:03:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -4331,7 +4319,7 @@
    "first_seen": "2026-08-18 15:26:39",
    "host": "dc.crs.gov.in.viewcarde.in",
    "hosting_platform": null,
-   "last_seen": "2026-09-05 09:47:34",
+   "last_seen": "2026-09-05 13:05:40",
    "source_feed": "urlscan_fingerprint_watch:crs_counterfeit_certificates",
    "verified": true
   },
@@ -5796,6 +5784,18 @@
    "host": "easybank-7asiv1w20-noel6666.vercel.app",
    "hosting_platform": "Vercel",
    "last_seen": "2026-09-05 09:03:08",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://easybank-landing-page-fm.vercel.app/",
+   "first_seen": "2026-09-04 17:14:48",
+   "host": "easybank-landing-page-fm.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-05 09:37:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -14008,18 +14008,6 @@
    "host": "ledger-live-auth-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-05 08:50:05",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-authh.pages.dev/",
-   "first_seen": "2026-08-06 20:48:05",
-   "host": "ledger-live-authh.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 08:45:09",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -23493,7 +23481,7 @@
   },
   {
    "brand": "Bank of America",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://nexus-capital-online.vercel.app/",
    "first_seen": "2026-09-04 17:14:48",
@@ -24303,18 +24291,6 @@
    "brand": "OneDrive",
    "corroboration_count": 0,
    "crypto": false,
-   "evidence_url": "https://onedrive-zyy.pages.dev/",
-   "first_seen": "2026-07-30 00:48:02",
-   "host": "onedrive-zyy.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 08:43:05",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "OneDrive",
-   "corroboration_count": 0,
-   "crypto": false,
    "evidence_url": "https://onedrivetoken.z2826992542.workers.dev/",
    "first_seen": "2026-08-11 03:32:02",
    "host": "onedrivetoken.z2826992542.workers.dev",
@@ -24370,6 +24346,18 @@
    "last_seen": "2026-09-05 09:03:44",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "https://opensea-nft-boxed-0097.vercel.app/",
+   "first_seen": "2026-09-05 11:05:39",
+   "host": "opensea-nft-boxed-0097.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-05 11:05:39",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "OneDrive",
@@ -24853,7 +24841,7 @@
   },
   {
    "brand": null,
-   "corroboration_count": 1,
+   "corroboration_count": 0,
    "crypto": false,
    "evidence_url": "https://paytm-wallet-user-app.vercel.app/",
    "first_seen": "2026-08-09 09:05:17",
@@ -27221,7 +27209,7 @@
   },
   {
    "brand": "Other",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://schfd.vercel.app/",
    "first_seen": "2026-09-05 11:05:39",
@@ -35044,6 +35032,18 @@
    "verified": true
   },
   {
+   "brand": "Amazon",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://www.amazon-front-me.vercel.app/",
+   "first_seen": "2026-09-05 11:05:39",
+   "host": "www.amazon-front-me.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-05 11:05:39",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Netflix",
    "corroboration_count": 2,
    "crypto": false,
@@ -35104,8 +35104,20 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "http://www.claim-hadiah.vercel.app/",
+   "first_seen": "2026-09-05 11:05:40",
+   "host": "www.claim-hadiah.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-05 11:05:40",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Facebook",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://www.clone-facebook-five.vercel.app/",
    "first_seen": "2026-09-05 11:05:39",
@@ -35453,7 +35465,19 @@
   },
   {
    "brand": "Other",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "https://www.opensea-nft-boxed-0097.vercel.app/",
+   "first_seen": "2026-09-05 11:05:39",
+   "host": "www.opensea-nft-boxed-0097.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-05 11:05:39",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://www.orangeverification.vercel.app/",
    "first_seen": "2026-09-05 11:05:39",
@@ -35489,7 +35513,7 @@
   },
   {
    "brand": "Other",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://www.phili-theta.vercel.app/",
    "first_seen": "2026-09-05 11:05:39",
@@ -35525,7 +35549,7 @@
   },
   {
    "brand": "Other",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "https://www.schfd.vercel.app/",
    "first_seen": "2026-09-05 11:05:39",

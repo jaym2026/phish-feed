@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
  "count": 1953,
- "generated_at": "2026-09-05T12:10:03Z",
+ "generated_at": "2026-09-05T13:10:11Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -972,18 +972,6 @@
    "host": "cloud-ledgrwallet.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-05 08:35:18",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://cloud-login-ledgr-live.pages.dev/",
-   "first_seen": "2026-07-28 00:32:02",
-   "host": "cloud-login-ledgr-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 10:03:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7896,18 +7884,6 @@
    "host": "ledger-live-auth-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-05 08:50:05",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-authh.pages.dev/",
-   "first_seen": "2026-08-06 20:48:05",
-   "host": "ledger-live-authh.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-05 08:45:09",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -16312,6 +16288,18 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "https://opensea-nft-boxed-0097.vercel.app/",
+   "first_seen": "2026-09-05 11:05:39",
+   "host": "opensea-nft-boxed-0097.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-05 11:05:39",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -23366,6 +23354,18 @@
    "last_seen": "2026-09-05 08:41:42",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "https://www.opensea-nft-boxed-0097.vercel.app/",
+   "first_seen": "2026-09-05 11:05:39",
+   "host": "www.opensea-nft-boxed-0097.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-05 11:05:39",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Coinbase",
