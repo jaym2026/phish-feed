@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1894,
- "generated_at": "2026-09-06T12:10:02Z",
+ "count": 1903,
+ "generated_at": "2026-09-06T13:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -635,7 +635,7 @@
    "first_seen": "2026-08-25 11:16:42",
    "host": "aziegbefriday6-eng.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-09-06 10:40:10",
+   "last_seen": "2026-09-06 12:40:11",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -734,6 +734,18 @@
    "last_seen": "2026-09-06 10:16:33",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Binance",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://binance-blog.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "binance-blog.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Binance",
@@ -1055,7 +1067,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "coinbase-referral-code.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-06 10:40:10",
+   "last_seen": "2026-09-06 12:40:11",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -2687,7 +2699,7 @@
    "first_seen": "2026-08-01 21:32:02",
    "host": "endpoint.binancepay.dot2.ws",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-06 10:40:10",
+   "last_seen": "2026-09-06 12:40:11",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2954,6 +2966,18 @@
    "last_seen": "2026-09-06 08:50:02",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://exclusive-openseamints.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "exclusive-openseamints.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Exodus",
@@ -5939,7 +5963,7 @@
    "first_seen": "2026-07-11 11:15:39",
    "host": "landing3-web-lcgz.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-06 10:40:10",
+   "last_seen": "2026-09-06 12:40:11",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -8448,18 +8472,6 @@
    "host": "ledger-wallet-portal.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-06 10:19:27",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledger-wallet-support.pages.dev/",
-   "first_seen": "2026-07-28 02:32:02",
-   "host": "ledger-wallet-support.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-06 10:01:55",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -14801,7 +14813,7 @@
   },
   {
    "brand": "MetaMask",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "http://metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app/register/",
    "first_seen": "2026-09-06 11:15:24",
@@ -14810,6 +14822,54 @@
    "last_seen": "2026-09-06 11:15:24",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "metamask-docs-45ta0ykbu-consensys-ddffed67.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/metamask-connect/multichain/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app/metamask-connect/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://metamask-launchpad.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "metamask-launchpad.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "MetaMask",
@@ -15612,6 +15672,30 @@
    "host": "opensea-nft-boxed-0097.vercel.app",
    "hosting_platform": "Vercel",
    "last_seen": "2026-09-06 03:42:51",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://openseaproks007.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "openseaproks007.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://openseavxr.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "openseavxr.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -20213,6 +20297,18 @@
   },
   {
    "brand": "Trust Wallet",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://trustwallet-secure-check.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "trustwallet-secure-check.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Trust Wallet",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://trustwalletsupport.dev/",
@@ -22082,6 +22178,18 @@
    "last_seen": "2026-09-06 10:05:23",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Trezor",
+   "corroboration_count": 2,
+   "crypto": true,
+   "evidence_url": "http://web-trezor-io-start-us.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "web-trezor-io-start-us.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-06 11:15:24",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Trezor",
