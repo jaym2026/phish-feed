@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2982,
- "generated_at": "2026-09-06T13:10:01Z",
+ "count": 2980,
+ "generated_at": "2026-09-06T14:10:01Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -6791,12 +6791,12 @@
    "brand": "Zimbra",
    "corroboration_count": 1,
    "crypto": false,
-   "evidence_url": "http://er-zimbr.netlify.app/",
+   "evidence_url": "https://er-zimbr.netlify.app/",
    "first_seen": "2026-09-04 18:02:34",
    "host": "er-zimbr.netlify.app",
    "hosting_platform": "Netlify",
-   "last_seen": "2026-09-06 12:40:11",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-09-06 13:40:02",
+   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -15327,18 +15327,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledgerr-live-download.pages.dev/",
-   "first_seen": "2026-07-26 16:32:02",
-   "host": "ledgerr-live-download.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-06 10:23:47",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledgerr-live-us-desktop.pages.dev/",
    "first_seen": "2026-07-22 10:32:02",
    "host": "ledgerr-live-us-desktop.pages.dev",
@@ -18836,18 +18824,6 @@
    "host": "ledgrs-es-ui.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-06 08:55:24",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledgrs-i-ei.pages.dev/",
-   "first_seen": "2026-07-26 16:48:02",
-   "host": "ledgrs-i-ei.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-06 08:54:45",
    "source_feed": "ct_monitor",
    "verified": true
   },
