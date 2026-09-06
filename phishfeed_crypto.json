@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1906,
- "generated_at": "2026-09-06T04:10:02Z",
+ "count": 1905,
+ "generated_at": "2026-09-06T05:10:01Z",
  "hosts": [
   {
    "brand": "Trezor",
@@ -611,7 +611,7 @@
    "first_seen": "2026-08-25 11:16:42",
    "host": "aziegbefriday6-eng.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-09-06 00:40:19",
+   "last_seen": "2026-09-06 04:40:12",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -1007,7 +1007,7 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "coinbase-referral-code.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-06 00:40:12",
+   "last_seen": "2026-09-06 04:40:12",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -2651,7 +2651,7 @@
    "first_seen": "2026-08-01 21:32:02",
    "host": "endpoint.binancepay.dot2.ws",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-06 00:40:12",
+   "last_seen": "2026-09-06 04:40:12",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5959,11 +5959,11 @@
    "brand": "Uniswap",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "https://landing3-web-lcgz.vercel.app/positions",
+   "evidence_url": "https://landing3-web-lcgz.vercel.app/",
    "first_seen": "2026-07-11 11:15:39",
    "host": "landing3-web-lcgz.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-06 03:31:27",
+   "last_seen": "2026-09-06 04:40:12",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -20712,18 +20712,6 @@
    "host": "us-eng-ledger-io.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-06 03:08:21",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://us-homepage-en-ledgr.pages.dev/",
-   "first_seen": "2026-07-18 19:16:01",
-   "host": "us-homepage-en-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-06 03:01:40",
    "source_feed": "ct_monitor",
    "verified": true
   },
