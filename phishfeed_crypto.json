@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1889,
- "generated_at": "2026-09-07T18:10:01Z",
+ "count": 1886,
+ "generated_at": "2026-09-07T19:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -10015,18 +10015,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledgr-io-desklive.pages.dev/",
-   "first_seen": "2026-08-02 14:48:02",
-   "host": "ledgr-io-desklive.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 14:37:34",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledgr-io-learn.pages.dev/",
    "first_seen": "2026-08-04 20:48:08",
    "host": "ledgr-io-learn.pages.dev",
@@ -18799,18 +18787,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://started-ledger-live-download-eng.pages.dev/",
-   "first_seen": "2026-07-26 22:32:02",
-   "host": "started-ledger-live-download-eng.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 09:47:47",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://started-ledgerr.pages.dev/",
    "first_seen": "2026-08-06 22:48:04",
    "host": "started-ledgerr.pages.dev",
@@ -20135,7 +20111,7 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "trustwallet-secure-check.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 14:55:09",
+   "last_seen": "2026-09-07 18:40:11",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -20292,18 +20268,6 @@
    "host": "ur-trezr-walet.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-07 14:44:15",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://us-app--en--ledgr-live.pages.dev/",
-   "first_seen": "2026-08-02 15:32:02",
-   "host": "us-app--en--ledgr-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 14:37:46",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22007,7 +21971,7 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "web-trezor-io-start-us.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 16:40:05",
+   "last_seen": "2026-09-07 18:40:11",
    "source_feed": "OpenPhish",
    "verified": false
   },
