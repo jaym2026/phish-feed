@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1895,
- "generated_at": "2026-09-07T16:10:01Z",
+ "count": 1894,
+ "generated_at": "2026-09-07T17:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -21953,18 +21953,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://web-ledgrr-live.pages.dev/",
-   "first_seen": "2026-07-31 12:32:02",
-   "host": "web-ledgrr-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 14:39:27",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://web-ledgrrlive.pages.dev/",
@@ -22079,7 +22067,7 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "web-trezor-io-start-us.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 14:55:09",
+   "last_seen": "2026-09-07 16:40:05",
    "source_feed": "OpenPhish",
    "verified": false
   },
