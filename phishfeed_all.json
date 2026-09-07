@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2982,
- "generated_at": "2026-09-07T12:10:02Z",
+ "count": 2989,
+ "generated_at": "2026-09-07T13:10:02Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -1111,6 +1111,18 @@
    "brand": "Amazon",
    "corroboration_count": 2,
    "crypto": false,
+   "evidence_url": "http://amazon-ten-gamma.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "amazon-ten-gamma.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 09:00:33",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Amazon",
+   "corroboration_count": 2,
+   "crypto": false,
    "evidence_url": "https://amazon-web-inspired.vercel.app/tracking.html?orderid=123&productid=456",
    "first_seen": "2026-08-05 11:14:25",
    "host": "amazon-web-inspired.vercel.app",
@@ -1833,30 +1845,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://auth-ledger-live-home.pages.dev/",
-   "first_seen": "2026-07-27 18:32:02",
-   "host": "auth-ledger-live-home.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 10:21:23",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://auth-ledger-livee.pages.dev/",
-   "first_seen": "2026-08-02 14:48:02",
-   "host": "auth-ledger-livee.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 08:35:18",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://auth-ledger-lives.pages.dev/",
@@ -1876,18 +1864,6 @@
    "host": "auth-ledgerlivelogin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-07 08:36:28",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://auth-ledgr-com-strt.pages.dev/",
-   "first_seen": "2026-07-31 12:48:02",
-   "host": "auth-ledgr-com-strt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 09:48:37",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3006,6 +2982,23 @@
    "last_seen": "2026-09-07 11:40:14",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "Facebook",
+   "brands": [
+    "Facebook",
+    "Meta",
+    "Other"
+   ],
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://c17pu9o6k3-3755b1f233.vercel.app/meta-support-2434362893407331.html",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "c17pu9o6k3-3755b1f233.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "CoinSquare",
@@ -7866,6 +7859,18 @@
    "last_seen": "2026-09-07 10:14:13",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "Meta",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://fb-meta-verified-47091.vercel.app/",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "fb-meta-verified-47091.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Meta",
@@ -21975,11 +21980,11 @@
    "brand": "MetaMask",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "http://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/metamask-connect/multichain/",
+   "evidence_url": "http://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/smart-accounts-kit",
    "first_seen": "2026-09-06 11:15:24",
    "host": "metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 09:00:33",
+   "last_seen": "2026-09-07 11:13:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -21987,11 +21992,11 @@
    "brand": "MetaMask",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "http://metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app/metamask-connect/",
+   "evidence_url": "http://metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app/metamask-connect/solana/reference/methods/",
    "first_seen": "2026-09-06 11:15:24",
    "host": "metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 09:00:33",
+   "last_seen": "2026-09-07 11:13:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -22923,6 +22928,18 @@
    "brand": "Netflix",
    "corroboration_count": 2,
    "crypto": false,
+   "evidence_url": "http://netflix-lake.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "netflix-lake.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 09:00:33",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Netflix",
+   "corroboration_count": 2,
+   "crypto": false,
    "evidence_url": "http://netflix-web-site-three.vercel.app/",
    "first_seen": "2026-07-21 11:17:52",
    "host": "netflix-web-site-three.vercel.app",
@@ -22947,11 +22964,11 @@
    "brand": "Netflix",
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "http://netflixclonebyyash.vercel.app/",
+   "evidence_url": "https://netflixclonebyyash.vercel.app/",
    "first_seen": "2026-08-22 11:14:03",
    "host": "netflixclonebyyash.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 08:43:35",
+   "last_seen": "2026-09-07 11:13:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -24266,6 +24283,18 @@
    "last_seen": "2026-09-07 09:39:52",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Instagram",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "http://page-instagram.vercel.app/",
+   "first_seen": "2026-09-06 11:15:24",
+   "host": "page-instagram.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 09:00:33",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Ledger",
@@ -28797,18 +28826,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://start-ledger-web.pages.dev/",
-   "first_seen": "2026-07-31 12:32:02",
-   "host": "start-ledger-web.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 08:41:08",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://start-ledgerlive-download.pages.dev/",
@@ -32732,6 +32749,18 @@
    "verified": false
   },
   {
+   "brand": "Facebook",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://verification-blueticks-fb23.vercel.app/privacy-centers.html",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "verification-blueticks-fb23.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "PhishTank",
+   "verified": false
+  },
+  {
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
@@ -34808,6 +34837,18 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "http://www.adwavein.vercel.app/",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "www.adwavein.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Netflix",
    "corroboration_count": 2,
    "crypto": false,
@@ -34821,7 +34862,7 @@
   },
   {
    "brand": "Other",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://www.arknet.vercel.app/",
    "first_seen": "2026-09-07 11:13:14",
@@ -34893,7 +34934,7 @@
   },
   {
    "brand": "Other",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "http://www.definitive-electronics-qyjl.vercel.app/",
    "first_seen": "2026-09-07 11:13:14",
@@ -35010,6 +35051,18 @@
    "last_seen": "2026-09-07 10:25:37",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "Meta",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://www.fb-meta-verified-47091.vercel.app/",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "www.fb-meta-verified-47091.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Other",
@@ -35252,6 +35305,18 @@
    "verified": true
   },
   {
+   "brand": "Netflix",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "http://www.netflixclonebyyash.vercel.app/",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "www.netflixclonebyyash.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "PayPal",
    "corroboration_count": 0,
    "crypto": false,
@@ -35420,6 +35485,18 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://www.verification-blueticks-fb23.vercel.app/",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "www.verification-blueticks-fb23.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Coinbase",
    "corroboration_count": 2,
    "crypto": true,
@@ -35466,6 +35543,18 @@
    "last_seen": "2026-09-07 10:42:33",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "evidence_url": "https://www.xmagnetics.vercel.app/",
+   "first_seen": "2026-09-07 11:13:14",
+   "host": "www.xmagnetics.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-07 11:13:14",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Instagram",

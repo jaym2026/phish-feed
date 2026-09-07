@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1900,
- "generated_at": "2026-09-07T12:10:02Z",
+ "count": 1896,
+ "generated_at": "2026-09-07T13:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -473,30 +473,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://auth-ledger-live-home.pages.dev/",
-   "first_seen": "2026-07-27 18:32:02",
-   "host": "auth-ledger-live-home.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 10:21:23",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://auth-ledger-livee.pages.dev/",
-   "first_seen": "2026-08-02 14:48:02",
-   "host": "auth-ledger-livee.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 08:35:18",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://auth-ledger-lives.pages.dev/",
@@ -516,18 +492,6 @@
    "host": "auth-ledgerlivelogin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-07 08:36:28",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://auth-ledgr-com-strt.pages.dev/",
-   "first_seen": "2026-07-31 12:48:02",
-   "host": "auth-ledgr-com-strt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 09:48:37",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -14839,11 +14803,11 @@
    "brand": "MetaMask",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "http://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/metamask-connect/multichain/",
+   "evidence_url": "http://metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app/smart-accounts-kit",
    "first_seen": "2026-09-06 11:15:24",
    "host": "metamask-docs-git-dependabot-npmandya-95394d-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 09:00:33",
+   "last_seen": "2026-09-07 11:13:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -14851,11 +14815,11 @@
    "brand": "MetaMask",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "http://metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app/metamask-connect/",
+   "evidence_url": "http://metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app/metamask-connect/solana/reference/methods/",
    "first_seen": "2026-09-06 11:15:24",
    "host": "metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 09:00:33",
+   "last_seen": "2026-09-07 11:13:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -18096,18 +18060,6 @@
    "host": "start-ledger-net.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-07 08:31:45",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://start-ledger-web.pages.dev/",
-   "first_seen": "2026-07-31 12:32:02",
-   "host": "start-ledger-web.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 08:41:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22721,7 +22673,7 @@
   },
   {
    "brand": "Other",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "http://www.definitive-electronics-qyjl.vercel.app/",
    "first_seen": "2026-09-07 11:13:14",
