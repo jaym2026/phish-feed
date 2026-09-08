@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1893,
- "generated_at": "2026-09-07T23:10:02Z",
+ "count": 1890,
+ "generated_at": "2026-09-08T00:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -695,7 +695,7 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "binance-blog.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 22:19:24",
+   "last_seen": "2026-09-07 23:40:13",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -6847,18 +6847,6 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledger-9tt.pages.dev/",
-   "first_seen": "2026-07-16 07:48:01",
-   "host": "ledger-9tt.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 22:06:52",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://ledger-a7a.pages.dev/",
    "first_seen": "2026-08-11 22:48:02",
    "host": "ledger-a7a.pages.dev",
@@ -8448,18 +8436,6 @@
    "host": "ledger-web-live-aaj.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-07 21:07:43",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-web-live.pages.dev/",
-   "first_seen": "2026-08-02 23:48:01",
-   "host": "ledger-web-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 20:49:22",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -14815,11 +14791,11 @@
    "brand": "MetaMask",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "http://metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app/metamask-connect/",
+   "evidence_url": "http://metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app/embedded-wallets",
    "first_seen": "2026-09-06 11:15:24",
    "host": "metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 22:19:24",
+   "last_seen": "2026-09-07 23:40:13",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -14831,7 +14807,7 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "metamask-launchpad.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-07 22:19:24",
+   "last_seen": "2026-09-07 23:40:13",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -22440,18 +22416,6 @@
    "host": "welcome-ledger--en-dww.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-07 22:01:28",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://welcome-ledger-a-en.pages.dev/",
-   "first_seen": "2026-07-31 16:16:02",
-   "host": "welcome-ledger-a-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-07 21:39:30",
    "source_feed": "ct_monitor",
    "verified": true
   },
