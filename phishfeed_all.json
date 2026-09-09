@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2882,
- "generated_at": "2026-09-09T05:10:01Z",
+ "count": 2881,
+ "generated_at": "2026-09-09T06:10:01Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -1993,10 +1993,6 @@
   },
   {
    "brand": "Microsoft",
-   "brands": [
-    "Microsoft",
-    "Other"
-   ],
    "corroboration_count": 1,
    "crypto": false,
    "evidence_url": "https://authentication.ms/E.6pY1BDA3LAzO",
@@ -3352,9 +3348,9 @@
    "verified": false
   },
   {
-   "brand": "Other",
+   "brand": "Trust Wallet",
    "corroboration_count": 2,
-   "crypto": false,
+   "crypto": true,
    "evidence_url": "https://click-to-transfer-bep20.vercel.app/",
    "first_seen": "2026-09-08 11:14:35",
    "host": "click-to-transfer-bep20.vercel.app",
@@ -8848,9 +8844,9 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Trust Wallet",
    "corroboration_count": 2,
-   "crypto": false,
+   "crypto": true,
    "evidence_url": "https://go-still-transfer-bnb.vercel.app/",
    "first_seen": "2026-09-08 11:14:35",
    "host": "go-still-transfer-bnb.vercel.app",
@@ -21116,9 +21112,9 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Trust Wallet",
    "corroboration_count": 2,
-   "crypto": false,
+   "crypto": true,
    "evidence_url": "https://mmmm-lake.vercel.app/",
    "first_seen": "2026-09-08 11:14:35",
    "host": "mmmm-lake.vercel.app",
@@ -21128,9 +21124,9 @@
    "verified": false
   },
   {
-   "brand": "Other",
+   "brand": "Trust Wallet",
    "corroboration_count": 2,
-   "crypto": false,
+   "crypto": true,
    "evidence_url": "http://mmmm-sepia-nine.vercel.app/",
    "first_seen": "2026-09-08 11:14:35",
    "host": "mmmm-sepia-nine.vercel.app",
@@ -22740,7 +22736,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Microsoft",
    "corroboration_count": 2,
    "crypto": false,
    "evidence_url": "http://onboarding-docs-portal.com/6197094-oH1faBZb-PKS9Q",
@@ -27255,18 +27251,6 @@
    "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
-   "evidence_url": "https://sta-rt-ledgr.pages.dev/",
-   "first_seen": "2026-08-04 01:00:03",
-   "host": "sta-rt-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 03:04:09",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
    "evidence_url": "https://staart-ledgr-en.pages.dev/",
    "first_seen": "2026-07-26 19:48:02",
    "host": "staart-ledgr-en.pages.dev",
@@ -30492,9 +30476,9 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Trust Wallet",
    "corroboration_count": 2,
-   "crypto": false,
+   "crypto": true,
    "evidence_url": "http://u-lovat-six.vercel.app/",
    "first_seen": "2026-09-08 11:14:35",
    "host": "u-lovat-six.vercel.app",
