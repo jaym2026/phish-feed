@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2747,
- "generated_at": "2026-09-10T13:10:02Z",
+ "count": 2745,
+ "generated_at": "2026-09-10T14:10:02Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -3086,18 +3086,6 @@
    "last_seen": "2026-09-10 10:02:37",
    "source_feed": "OpenPhish",
    "verified": false
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://capital-glass-ledger.pages.dev/",
-   "first_seen": "2026-09-08 14:22:03",
-   "host": "capital-glass-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-10 03:44:39",
-   "source_feed": "ct_monitor",
-   "verified": true
   },
   {
    "brand": "MetaMask",
@@ -25624,18 +25612,6 @@
    "host": "start-co-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-10 09:03:23",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://start-com-ledger.pages.dev/",
-   "first_seen": "2026-07-16 10:32:01",
-   "host": "start-com-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-10 08:40:27",
    "source_feed": "ct_monitor",
    "verified": true
   },
