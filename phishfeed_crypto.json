@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1659,
- "generated_at": "2026-09-10T05:10:01Z",
+ "count": 1658,
+ "generated_at": "2026-09-10T06:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -815,7 +815,7 @@
    "first_seen": "2026-08-22 18:05:37",
    "host": "bulletin-irr-ablaikhan.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:33",
+   "last_seen": "2026-09-10 05:34:56",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -1751,7 +1751,7 @@
    "first_seen": "2026-09-02 11:15:52",
    "host": "digitalcurrencysupport.blogspot.com",
    "hosting_platform": "Blogspot",
-   "last_seen": "2026-09-09 11:33:33",
+   "last_seen": "2026-09-10 05:34:56",
    "source_feed": "payload_hunter",
    "verified": true
   },
@@ -2183,7 +2183,7 @@
    "first_seen": "2026-07-16 18:10:33",
    "host": "e-lader-login-wel.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:32",
+   "last_seen": "2026-09-10 05:34:55",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3996,18 +3996,6 @@
    "host": "guide-ledgrlive-faq.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-10 02:58:45",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://guide-ledgrlive-us.pages.dev/",
-   "first_seen": "2026-07-22 15:16:02",
-   "host": "guide-ledgrlive-us.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 21:44:57",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5915,7 +5903,7 @@
    "first_seen": "2026-08-14 18:09:16",
    "host": "ladger-co-account-set-up.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:33",
+   "last_seen": "2026-09-10 05:34:56",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -8743,12 +8731,12 @@
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://ledgerly-cxv.pages.dev/",
+   "evidence_url": "https://ledgerly-cxv.pages.dev/auth/login",
    "first_seen": "2026-08-13 18:16:05",
    "host": "ledgerly-cxv.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-10 03:22:22",
-   "source_feed": "ct_monitor",
+   "last_seen": "2026-09-10 05:34:57",
+   "source_feed": "urlscan_hunter",
    "verified": true
   },
   {
@@ -9071,7 +9059,7 @@
    "first_seen": "2026-07-25 22:48:01",
    "host": "ledgersyncdgdyushysgspathaiuhydiskbnxghidkbdghijshdvbjddjh.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:32",
+   "last_seen": "2026-09-10 05:34:55",
    "source_feed": "payload_hunter",
    "verified": true
   },
@@ -11771,7 +11759,7 @@
    "first_seen": "2026-08-28 18:08:03",
    "host": "login-wallet-ledzer.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:33",
+   "last_seen": "2026-09-10 05:34:56",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -11783,7 +11771,7 @@
    "first_seen": "2026-07-15 18:02:46",
    "host": "login-web-ldgre.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:32",
+   "last_seen": "2026-09-10 05:34:55",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -14711,7 +14699,7 @@
    "first_seen": "2026-07-31 18:06:54",
    "host": "sso-login-kucoin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:32",
+   "last_seen": "2026-09-10 05:34:55",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -14735,7 +14723,7 @@
    "first_seen": "2026-07-31 18:06:51",
    "host": "sso-ndex-login-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-09 11:33:32",
+   "last_seen": "2026-09-10 05:34:55",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -16936,7 +16924,11 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Microsoft",
+   "brands": [
+    "Microsoft",
+    "Other"
+   ],
    "corroboration_count": 2,
    "crypto": true,
    "evidence_url": "https://task-master-suite--careers46.replit.app/",
