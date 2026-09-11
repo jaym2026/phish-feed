@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
  "count": 1665,
- "generated_at": "2026-09-11T11:10:01Z",
+ "generated_at": "2026-09-11T12:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -24,6 +24,18 @@
    "host": "144618trezor.com",
    "hosting_platform": "Other",
    "last_seen": "2026-09-11 09:56:08",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Kraken",
+   "corroboration_count": 0,
+   "crypto": true,
+   "evidence_url": "https://291325kraken.com/",
+   "first_seen": "2026-09-10 17:54:02",
+   "host": "291325kraken.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-09-11 09:27:35",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -443,7 +455,7 @@
    "first_seen": "2026-06-28 11:15:18",
    "host": "auth--apps-kucooin-sso---cdnn.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-11 09:42:10",
+   "last_seen": "2026-09-11 11:13:22",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -528,18 +540,6 @@
    "host": "auth-ledgrcom-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-11 09:41:46",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://auth-strt-ledgercom.pages.dev/",
-   "first_seen": "2026-07-31 16:16:02",
-   "host": "auth-strt-ledgercom.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-11 08:48:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -635,7 +635,7 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "baseservices.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-11 08:45:22",
+   "last_seen": "2026-09-11 11:13:25",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -743,7 +743,7 @@
    "first_seen": "2026-08-06 11:15:36",
    "host": "bnb-verify.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-11 09:52:40",
+   "last_seen": "2026-09-11 11:13:23",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -1079,7 +1079,7 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "coinbaseverify.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-11 09:39:25",
+   "last_seen": "2026-09-11 11:13:23",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2183,7 +2183,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "dynamexcard.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-11 09:55:08",
+   "last_seen": "2026-09-11 11:13:22",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -3887,7 +3887,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "go-ledger-com.typedream.app",
    "hosting_platform": "Typedream",
-   "last_seen": "2026-09-11 09:35:53",
+   "last_seen": "2026-09-11 11:13:25",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -4331,7 +4331,7 @@
    "first_seen": "2026-08-29 11:16:02",
    "host": "help-l-edg-er-liv-e.typedream.app",
    "hosting_platform": "Typedream",
-   "last_seen": "2026-09-11 09:35:53",
+   "last_seen": "2026-09-11 11:13:25",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -5675,7 +5675,7 @@
    "first_seen": "2026-07-31 11:12:14",
    "host": "kconnlogoc.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-11 09:44:49",
+   "last_seen": "2026-09-11 11:13:23",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -5759,7 +5759,7 @@
    "first_seen": "2026-07-13 11:16:33",
    "host": "kocoianlogin.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-11 09:42:33",
+   "last_seen": "2026-09-11 11:13:22",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -5915,7 +5915,7 @@
    "first_seen": "2026-06-16 11:16:17",
    "host": "kucouinlogie.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-11 09:44:49",
+   "last_seen": "2026-09-11 11:13:22",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -5947,12 +5947,12 @@
    "brand": "KuCoin",
    "corroboration_count": 2,
    "crypto": true,
-   "evidence_url": "http://kuvcoinnloginz.webflow.io/",
+   "evidence_url": "https://kuvcoinnloginz.webflow.io/",
    "first_seen": "2026-08-21 11:14:39",
    "host": "kuvcoinnloginz.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-11 09:15:28",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-09-11 11:13:24",
+   "source_feed": "PhishTank",
    "verified": false
   },
   {
@@ -6395,7 +6395,7 @@
    "first_seen": "2026-07-30 11:13:39",
    "host": "ledgecosnmtart.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-11 09:44:32",
+   "last_seen": "2026-09-11 11:13:23",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -7295,7 +7295,7 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "ledger-deskto-support.square.site",
    "hosting_platform": "Square",
-   "last_seen": "2026-09-11 09:38:44",
+   "last_seen": "2026-09-11 11:13:25",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -9119,7 +9119,7 @@
    "first_seen": "2026-07-10 11:18:46",
    "host": "ledgersttret.zapier.app",
    "hosting_platform": "Zapier",
-   "last_seen": "2026-09-11 09:42:25",
+   "last_seen": "2026-09-11 11:13:22",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -13115,7 +13115,7 @@
    "first_seen": "2026-06-24 11:17:54",
    "host": "pedagio-eletronico.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-11 10:40:37",
+   "last_seen": "2026-09-11 11:13:22",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -13487,7 +13487,7 @@
    "first_seen": "2026-07-13 11:16:33",
    "host": "portal-liv-e-ap-p-ledger.typedream.app",
    "hosting_platform": "Typedream",
-   "last_seen": "2026-09-11 09:42:33",
+   "last_seen": "2026-09-11 11:13:22",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -14363,7 +14363,7 @@
    "first_seen": "2026-08-16 11:17:54",
    "host": "send-usdt-nu.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-11 09:44:18",
+   "last_seen": "2026-09-11 11:13:26",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -16139,7 +16139,7 @@
    "first_seen": "2026-08-11 11:15:50",
    "host": "startedio-trezox.zapier.app",
    "hosting_platform": "Zapier",
-   "last_seen": "2026-09-11 08:53:08",
+   "last_seen": "2026-09-11 11:13:24",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -19691,7 +19691,7 @@
    "first_seen": "2026-08-27 11:16:43",
    "host": "welcome-ledger-statr.typedream.app",
    "hosting_platform": "Typedream",
-   "last_seen": "2026-09-11 09:01:17",
+   "last_seen": "2026-09-11 11:13:26",
    "source_feed": "OpenPhish",
    "verified": true
   },
