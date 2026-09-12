@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2743,
- "generated_at": "2026-09-12T01:10:02Z",
+ "count": 2739,
+ "generated_at": "2026-09-12T02:10:01Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -4320,18 +4320,6 @@
    "verified": true
   },
   {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://dagyan-ledger.pages.dev/",
-   "first_seen": "2026-09-05 12:39:26",
-   "host": "dagyan-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-11 21:57:24",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
    "brand": "Microsoft",
    "brands": [
     "Microsoft",
@@ -5568,18 +5556,6 @@
    "host": "dropbox-5un.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-11 21:45:42",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Dropbox",
-   "corroboration_count": 0,
-   "crypto": false,
-   "evidence_url": "https://dropbox-67n.pages.dev/",
-   "first_seen": "2026-08-02 20:16:01",
-   "host": "dropbox-67n.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-11 21:39:00",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13897,18 +13873,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledger-io-start-en.pages.dev/",
-   "first_seen": "2026-07-31 14:48:02",
-   "host": "ledger-io-start-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-11 21:01:58",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://ledger-li-ve-get.pages.dev/",
@@ -14048,18 +14012,6 @@
    "host": "ledger-live-auth-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-11 20:50:15",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-live-authh.pages.dev/",
-   "first_seen": "2026-08-06 20:48:05",
-   "host": "ledger-live-authh.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-11 20:49:40",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -19939,7 +19891,7 @@
    "first_seen": "2026-07-21 11:17:52",
    "host": "netflix-web-site-three.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-11 23:40:02",
+   "last_seen": "2026-09-12 01:40:01",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -23111,7 +23063,7 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "recreate-instagrampage.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-11 23:40:02",
+   "last_seen": "2026-09-12 01:40:01",
    "source_feed": "OpenPhish",
    "verified": false
   },
