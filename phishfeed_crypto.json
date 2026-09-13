@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1653,
- "generated_at": "2026-09-12T23:10:01Z",
+ "count": 1650,
+ "generated_at": "2026-09-13T00:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -5716,18 +5716,6 @@
    "verified": false
   },
   {
-   "brand": "Kraken",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://kraken-logeded-in.pages.dev/",
-   "first_seen": "2026-07-16 20:16:02",
-   "host": "kraken-logeded-in.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 21:55:30",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
    "brand": "KuCoin",
    "corroboration_count": 2,
    "crypto": true,
@@ -6408,18 +6396,6 @@
    "host": "ledgeer-com-auth-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-12 21:38:57",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledgeer-com-start-auth.pages.dev/",
-   "first_seen": "2026-07-16 22:16:01",
-   "host": "ledgeer-com-start-auth.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 20:54:43",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -19296,18 +19272,6 @@
    "host": "wel-apps-ledgr-en.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-12 20:54:55",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://wel-desktop-en-us-ledgr.pages.dev/",
-   "first_seen": "2026-07-16 18:48:01",
-   "host": "wel-desktop-en-us-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 21:53:02",
    "source_feed": "ct_monitor",
    "verified": true
   },

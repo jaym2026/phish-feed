@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2767,
- "generated_at": "2026-09-12T23:10:01Z",
+ "count": 2763,
+ "generated_at": "2026-09-13T00:10:01Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -2495,7 +2495,7 @@
    "first_seen": "2026-09-10 18:02:32",
    "host": "bank-tech-brief.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 05:36:09",
+   "last_seen": "2026-09-12 23:48:42",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -8439,7 +8439,7 @@
    "first_seen": "2026-09-10 18:04:34",
    "host": "fpvlabs-dashboard.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 05:36:09",
+   "last_seen": "2026-09-12 23:48:42",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -12240,18 +12240,6 @@
    "verified": false
   },
   {
-   "brand": "Kraken",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://kraken-logeded-in.pages.dev/",
-   "first_seen": "2026-07-16 20:16:02",
-   "host": "kraken-logeded-in.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 21:55:30",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
    "brand": null,
    "corroboration_count": 0,
    "crypto": false,
@@ -13016,18 +13004,6 @@
    "host": "ledgeer-com-auth-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-12 21:38:57",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledgeer-com-start-auth.pages.dev/",
-   "first_seen": "2026-07-16 22:16:01",
-   "host": "ledgeer-com-start-auth.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 20:54:43",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22093,18 +22069,6 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-12 20:42:23",
    "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Zimbra",
-   "corroboration_count": 1,
-   "crypto": false,
-   "evidence_url": "https://pl-zim.netlify.app/",
-   "first_seen": "2026-09-10 18:01:03",
-   "host": "pl-zim.netlify.app",
-   "hosting_platform": "Netlify",
-   "last_seen": "2026-09-12 18:02:54",
-   "source_feed": "urlscan_hunter",
    "verified": true
   },
   {
@@ -31440,18 +31404,6 @@
    "host": "wel-apps-ledgr-en.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-12 20:54:55",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://wel-desktop-en-us-ledgr.pages.dev/",
-   "first_seen": "2026-07-16 18:48:01",
-   "host": "wel-desktop-en-us-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-12 21:53:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
