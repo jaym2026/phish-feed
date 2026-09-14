@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1632,
- "generated_at": "2026-09-14T00:10:01Z",
+ "count": 1628,
+ "generated_at": "2026-09-14T01:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -35,7 +35,7 @@
    "first_seen": "2026-09-10 17:54:02",
    "host": "291325kraken.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-13 22:40:23",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -743,7 +743,7 @@
    "first_seen": "2026-09-11 11:13:25",
    "host": "bnb-trust-wallet.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-13 22:40:27",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -755,7 +755,7 @@
    "first_seen": "2026-08-06 11:15:36",
    "host": "bnb-verify.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-13 22:40:23",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -2183,7 +2183,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "dynamexcard.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-13 22:40:23",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -6893,18 +6893,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://ledger-cloud-live.pages.dev/",
-   "first_seen": "2026-07-27 00:48:02",
-   "host": "ledger-cloud-live.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 15:31:42",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "evidence_url": "https://ledger-com-hek.pages.dev/",
@@ -11531,7 +11519,7 @@
    "first_seen": "2026-09-11 11:13:25",
    "host": "main-bep20-demo-scriptboss.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-13 22:40:27",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11627,7 +11615,7 @@
    "first_seen": "2026-09-11 11:13:25",
    "host": "metamask-ai-agent.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-13 22:40:27",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11771,7 +11759,7 @@
    "first_seen": "2026-09-11 11:13:25",
    "host": "mmmm-nu-eight.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-13 22:40:27",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11795,7 +11783,7 @@
    "first_seen": "2026-09-11 11:13:25",
    "host": "moonpay-commerce-git-ashbaker-com2-3977-solana-a-31d1f5-heliofi.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-13 22:40:27",
+   "last_seen": "2026-09-14 00:41:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -15365,18 +15353,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://start-ledgrecom-edge-us-en.pages.dev/",
-   "first_seen": "2026-08-07 13:00:05",
-   "host": "start-ledgrecom-edge-us-en.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 21:01:42",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://start-ledgrecom-edged.pages.dev/",
@@ -18497,18 +18473,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://we-ledger-com.pages.dev/",
-   "first_seen": "2026-07-18 12:32:05",
-   "host": "we-ledger-com.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 21:43:13",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://wealth-ledger-baf.pages.dev/",
@@ -18588,18 +18552,6 @@
    "host": "web-ledger-comstart-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-13 21:58:09",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://web-ledger-desktop-us.pages.dev/",
-   "first_seen": "2026-07-31 02:32:02",
-   "host": "web-ledger-desktop-us.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 21:11:46",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -19007,7 +18959,7 @@
    "first_seen": "2026-07-14 11:15:39",
    "host": "web3.snouxyifpx.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-13 22:40:23",
+   "last_seen": "2026-09-14 00:40:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
