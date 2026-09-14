@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2769,
- "generated_at": "2026-09-14T04:10:01Z",
+ "count": 2767,
+ "generated_at": "2026-09-14T05:10:01Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -5243,7 +5243,7 @@
    "first_seen": "2026-09-04 22:38:25",
    "host": "discord-web-phi.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-13 22:10:07",
+   "last_seen": "2026-09-14 04:41:04",
    "source_feed": "discord_webhook_hunter",
    "verified": true
   },
@@ -11696,18 +11696,6 @@
    "host": "io-ledgr-started-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-13 21:46:10",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://io-ledgr-started.pages.dev/",
-   "first_seen": "2026-07-16 22:48:01",
-   "host": "io-ledgr-started.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 03:32:00",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -26260,18 +26248,6 @@
    "host": "start-ledgr-com-edge.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-13 21:42:27",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://start-ledgr-desktop-io.pages.dev/",
-   "first_seen": "2026-07-16 23:16:01",
-   "host": "start-ledgr-desktop-io.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 03:32:00",
    "source_feed": "ct_monitor",
    "verified": true
   },
