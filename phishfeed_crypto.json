@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1628,
- "generated_at": "2026-09-14T01:10:01Z",
+ "count": 1622,
+ "generated_at": "2026-09-14T02:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -11,7 +11,7 @@
    "first_seen": "2026-09-05 14:54:03",
    "host": "122513ledger.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-13 15:32:20",
+   "last_seen": "2026-09-14 01:40:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -47,7 +47,7 @@
    "first_seen": "2026-07-22 18:32:02",
    "host": "846247coinbase.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-13 21:14:11",
+   "last_seen": "2026-09-14 01:40:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2676,18 +2676,6 @@
    "host": "endpoint.binancepay.dot2.ws",
    "hosting_platform": "Other",
    "last_seen": "2026-09-13 22:09:36",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Exodus",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://eng-exodeos-us.pages.dev/",
-   "first_seen": "2026-07-16 16:00:03",
-   "host": "eng-exodeos-us.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 21:10:47",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6312,18 +6300,6 @@
    "host": "learn-trezr-briedge.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-13 21:43:55",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://learn-us-ledgrcom-faq.pages.dev/",
-   "first_seen": "2026-07-16 07:16:02",
-   "host": "learn-us-ledgrcom-faq.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 22:00:17",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10457,18 +10433,6 @@
   },
   {
    "brand": "Ledger",
-   "corroboration_count": 1,
-   "crypto": true,
-   "evidence_url": "https://ledgrrlive.pages.dev/",
-   "first_seen": "2026-08-06 08:32:10",
-   "host": "ledgrrlive.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 21:48:15",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "evidence_url": "https://ledgrs--live.pages.dev/",
@@ -12967,18 +12931,6 @@
    "brand": "Phantom",
    "corroboration_count": 0,
    "crypto": true,
-   "evidence_url": "https://phantomculture.pages.dev/",
-   "first_seen": "2026-09-12 02:06:02",
-   "host": "phantomculture.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 22:13:10",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Phantom",
-   "corroboration_count": 0,
-   "crypto": true,
    "evidence_url": "https://phantomdesk.pages.dev/",
    "first_seen": "2026-08-07 18:48:03",
    "host": "phantomdesk.pages.dev",
@@ -14017,18 +13969,6 @@
    "hosting_platform": "Typedream",
    "last_seen": "2026-09-13 20:59:54",
    "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://see-walet-ledgr.pages.dev/",
-   "first_seen": "2026-07-16 13:32:02",
-   "host": "see-walet-ledgr.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 21:56:26",
-   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -19490,18 +19430,6 @@
    "last_seen": "2026-09-13 21:56:52",
    "source_feed": "PhishTank",
    "verified": false
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 0,
-   "crypto": true,
-   "evidence_url": "https://yier-bubu-ledger.pages.dev/",
-   "first_seen": "2026-09-10 03:38:02",
-   "host": "yier-bubu-ledger.pages.dev",
-   "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-13 22:12:44",
-   "source_feed": "ct_monitor",
-   "verified": true
   },
   {
    "brand": "Ledger",
