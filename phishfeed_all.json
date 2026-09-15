@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2707,
- "generated_at": "2026-09-14T23:10:01Z",
+ "count": 2708,
+ "generated_at": "2026-09-15T00:10:01Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -2107,7 +2107,7 @@
    "first_seen": "2026-09-12 18:03:14",
    "host": "avg-post-templates-dev.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 05:56:08",
+   "last_seen": "2026-09-14 23:37:04",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -4344,6 +4344,18 @@
    "verified": true
   },
   {
+   "brand": "Microsoft",
+   "corroboration_count": 0,
+   "crypto": false,
+   "evidence_url": "https://cpanel.microsoft365-techsupport.com/",
+   "first_seen": "2026-09-14 22:54:03",
+   "host": "cpanel.microsoft365-techsupport.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-09-14 22:54:03",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Comcast",
    "corroboration_count": 0,
    "crypto": false,
@@ -6079,7 +6091,7 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "ebay-seller-center-managedpayments.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-14 23:05:30",
+   "last_seen": "2026-09-14 23:37:04",
    "source_feed": "payload_hunter",
    "verified": true
   },
@@ -6823,7 +6835,7 @@
    "first_seen": "2026-08-03 00:48:01",
    "host": "eng-ledgrwalit.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 21:07:43",
+   "last_seen": "2026-09-14 23:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7291,7 +7303,7 @@
    "first_seen": "2026-07-16 11:00:03",
    "host": "exodass-en-io.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 21:50:41",
+   "last_seen": "2026-09-15 00:06:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7647,11 +7659,11 @@
    "brand": "Facebook",
    "corroboration_count": 2,
    "crypto": false,
-   "evidence_url": "https://facebook-five-nu.vercel.app/",
+   "evidence_url": "http://facebook-five-nu.vercel.app/",
    "first_seen": "2026-07-10 11:18:46",
    "host": "facebook-five-nu.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-14 22:00:43",
+   "last_seen": "2026-09-14 23:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -8543,7 +8555,7 @@
    "first_seen": "2026-09-09 18:03:10",
    "host": "fpost-web-imu.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 05:56:08",
+   "last_seen": "2026-09-14 23:37:04",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -12747,7 +12759,7 @@
    "first_seen": "2026-07-11 11:15:39",
    "host": "landing3-web-lcgz.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-14 22:00:56",
+   "last_seen": "2026-09-14 23:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -16311,7 +16323,7 @@
    "first_seen": "2026-07-16 21:16:02",
    "host": "ledgr-live-desktop-sso.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 21:06:29",
+   "last_seen": "2026-09-14 23:38:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -19275,7 +19287,7 @@
    "first_seen": "2026-06-08 11:13:29",
    "host": "metapp-pi.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-14 21:51:04",
+   "last_seen": "2026-09-14 23:40:02",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -28411,7 +28423,7 @@
    "first_seen": "2026-07-16 10:48:02",
    "host": "ur-trezr-walet.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 21:50:19",
+   "last_seen": "2026-09-15 00:06:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
