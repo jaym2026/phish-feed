@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
  "count": 2511,
- "generated_at": "2026-09-15T01:10:02Z",
+ "generated_at": "2026-09-15T02:10:02Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -7565,7 +7565,7 @@
    "first_seen": "2026-07-10 11:18:46",
    "host": "facebook-five-nu.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-14 23:40:02",
+   "last_seen": "2026-09-15 01:40:03",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -9441,7 +9441,7 @@
    "first_seen": "2026-08-04 00:48:10",
    "host": "guide-live-ledgr-coms.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-14 20:57:09",
+   "last_seen": "2026-09-15 01:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11919,7 +11919,7 @@
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
-   "dns_reason": "root_kit",
+   "dns_reason": "young_domain",
    "evidence_url": "https://iwuaawdjdwja.com/password.php?SessionID=a364a64643484fa17f50c946959503e6baf2371bd8c0c26524a7d8312ac79632",
    "first_seen": "2026-09-14 11:13:43",
    "host": "iwuaawdjdwja.com",
@@ -12691,7 +12691,7 @@
    "first_seen": "2026-07-11 11:15:39",
    "host": "landing3-web-lcgz.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-14 23:40:02",
+   "last_seen": "2026-09-15 01:40:03",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -19633,7 +19633,7 @@
    "first_seen": "2026-06-08 11:13:29",
    "host": "metapp-pi.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-14 23:40:02",
+   "last_seen": "2026-09-15 01:40:03",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -25449,6 +25449,19 @@
    "host": "signin.broker",
    "hosting_platform": "Other",
    "last_seen": "2026-09-08 08:54:48",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 0,
+   "crypto": false,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://sirhc.fr/v2/login",
+   "first_seen": "2026-09-14 11:13:43",
+   "host": "sirhc.fr",
+   "hosting_platform": "Other",
+   "last_seen": "2026-09-14 21:18:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -32150,19 +32163,6 @@
    "last_seen": "2026-09-14 11:13:43",
    "source_feed": "OpenPhish",
    "verified": false
-  },
-  {
-   "brand": "Other",
-   "corroboration_count": 2,
-   "crypto": false,
-   "dns_reason": "root_kit",
-   "evidence_url": "http://www.nassaucountymls.net/",
-   "first_seen": "2026-09-14 11:13:43",
-   "host": "www.nassaucountymls.net",
-   "hosting_platform": "Other",
-   "last_seen": "2026-09-14 11:13:43",
-   "source_feed": "OpenPhish",
-   "verified": true
   },
   {
    "brand": "PayPal",
