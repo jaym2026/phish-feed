@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1365,
- "generated_at": "2026-09-18T12:10:01Z",
+ "count": 1354,
+ "generated_at": "2026-09-18T13:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -12,7 +12,7 @@
    "first_seen": "2026-09-05 14:54:03",
    "host": "122513ledger.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -25,7 +25,7 @@
    "first_seen": "2026-08-29 15:38:03",
    "host": "144618trezor.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -38,7 +38,7 @@
    "first_seen": "2026-09-10 17:54:02",
    "host": "291325kraken.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -64,7 +64,7 @@
    "first_seen": "2026-07-22 18:32:02",
    "host": "846247coinbase.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -1663,7 +1663,7 @@
    "first_seen": "2026-07-17 11:16:03",
    "host": "desktop-hub-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:40:18",
+   "last_seen": "2026-09-18 12:54:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -1884,7 +1884,7 @@
    "first_seen": "2026-07-22 19:48:01",
    "host": "dev-ledgr-com-strt-temp-en.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:26:19",
+   "last_seen": "2026-09-18 12:22:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2430,7 +2430,7 @@
    "first_seen": "2026-06-29 11:14:23",
    "host": "dynamexcard.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 11:14:38",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -2508,7 +2508,7 @@
    "first_seen": "2026-07-17 12:32:02",
    "host": "en-app-ledgrlive.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 08:31:16",
+   "last_seen": "2026-09-18 12:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2573,7 +2573,7 @@
    "first_seen": "2026-07-18 15:16:03",
    "host": "en-ledgr-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:38:03",
+   "last_seen": "2026-09-18 12:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2976,7 +2976,7 @@
    "first_seen": "2026-07-19 05:00:03",
    "host": "eng-ledgerlogin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:08:55",
+   "last_seen": "2026-09-18 12:54:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3223,7 +3223,7 @@
    "first_seen": "2026-09-13 09:06:02",
    "host": "estate-ledger-sr-staging.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:45:33",
+   "last_seen": "2026-09-18 12:22:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5810,7 +5810,7 @@
    "first_seen": "2026-07-16 06:48:02",
    "host": "io-en-ledger-in.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:38:23",
+   "last_seen": "2026-09-18 12:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6209,129 +6209,12 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "https://kucoiin-log-in.webflow.io/",
-   "first_seen": "2026-06-08 11:13:30",
-   "host": "kucoiin-log-in.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kucoiin-login.webflow.io/",
-   "first_seen": "2026-06-08 11:13:30",
-   "host": "kucoiin-login.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kucoin-loginm.webflow.io/",
-   "first_seen": "2026-06-08 11:13:29",
-   "host": "kucoin-loginm.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kucoinelogie.webflow.io/",
-   "first_seen": "2026-06-08 11:13:30",
-   "host": "kucoinelogie.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://kucoinllogiinu.webflow.io/",
-   "first_seen": "2026-07-15 11:18:01",
-   "host": "kucoinllogiinu.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:15",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
    "evidence_url": "http://kucoinlogi-secure.webflow.io/",
    "first_seen": "2026-07-06 13:38:35",
    "host": "kucoinlogi-secure.webflow.io",
    "hosting_platform": "Webflow",
    "last_seen": "2026-09-18 09:30:07",
    "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kucointglogin.webflow.io/",
-   "first_seen": "2026-06-08 11:13:30",
-   "host": "kucointglogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kucoinuylogin.webflow.io/",
-   "first_seen": "2026-06-08 11:13:29",
-   "host": "kucoinuylogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kucokalogin.webflow.io/",
-   "first_seen": "2026-07-27 11:13:05",
-   "host": "kucokalogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kuiecunlogie.webflow.io/",
-   "first_seen": "2026-06-08 11:13:30",
-   "host": "kuiecunlogie.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
    "verified": false
   },
   {
@@ -8033,7 +7916,7 @@
    "first_seen": "2026-07-18 15:16:03",
    "host": "ledger-live-bg.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 08:31:54",
+   "last_seen": "2026-09-18 12:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -8488,7 +8371,7 @@
    "first_seen": "2026-07-16 08:16:02",
    "host": "ledger-lives-eu.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:06:21",
+   "last_seen": "2026-09-18 12:54:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9905,7 +9788,7 @@
    "first_seen": "2026-07-19 05:00:03",
    "host": "ledgr-faq-support.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:14:27",
+   "last_seen": "2026-09-18 12:54:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10477,7 +10360,7 @@
    "first_seen": "2026-06-23 12:41:19",
    "host": "ledgr-walet--us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 08:30:35",
+   "last_seen": "2026-09-18 13:06:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11258,19 +11141,6 @@
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
    "last_seen": "2026-09-18 08:43:01",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://ligjerccobstartt.webflow.io/",
-   "first_seen": "2026-09-13 11:13:02",
-   "host": "ligjerccobstartt.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -12076,7 +11946,7 @@
    "first_seen": "2026-09-15 18:06:02",
    "host": "lucky-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:37:30",
+   "last_seen": "2026-09-18 12:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12362,7 +12232,7 @@
    "first_seen": "2026-09-12 11:14:44",
    "host": "moz-extensionkeplrr-pudgbhnp-avds-projects-gnhfnp-avds-projects.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -12388,7 +12258,7 @@
    "first_seen": "2026-09-17 11:13:45",
    "host": "mweb384501qwx.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:15",
+   "last_seen": "2026-09-18 12:40:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -13324,7 +13194,7 @@
    "first_seen": "2026-08-18 11:18:46",
    "host": "prkgilrs-usdt-draner-frant.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -13844,7 +13714,7 @@
    "first_seen": "2026-08-15 11:17:49",
    "host": "send-usdt-01-kappa.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -13870,7 +13740,7 @@
    "first_seen": "2026-08-16 11:17:54",
    "host": "send-usdt-nu.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -13896,7 +13766,7 @@
    "first_seen": "2026-09-16 11:14:02",
    "host": "sendusdt-beta.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:15",
+   "last_seen": "2026-09-18 12:40:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -14068,19 +13938,6 @@
    "last_seen": "2026-09-18 09:26:19",
    "source_feed": "ct_monitor",
    "verified": true
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://sso-en-kuccoin.webflow.io/",
-   "first_seen": "2026-06-08 11:13:29",
-   "host": "sso-en-kuccoin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
   },
   {
    "brand": "Exodus",
@@ -15326,7 +15183,7 @@
    "first_seen": "2026-09-16 11:14:02",
    "host": "transfer-to-click.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:15",
+   "last_seen": "2026-09-18 12:40:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -15391,7 +15248,7 @@
    "first_seen": "2026-08-25 10:54:03",
    "host": "trezorix.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -15547,7 +15404,7 @@
    "first_seen": "2026-08-15 11:17:49",
    "host": "trustwallet-bnb-367987-654864.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -15898,7 +15755,7 @@
    "first_seen": "2026-07-19 06:32:01",
    "host": "us-start-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 08:37:31",
+   "last_seen": "2026-09-18 13:06:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -16795,7 +16652,7 @@
    "first_seen": "2026-07-19 06:16:02",
    "host": "web-ledgerdesktop.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:06:33",
+   "last_seen": "2026-09-18 12:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -17120,7 +16977,7 @@
    "first_seen": "2026-07-14 11:15:39",
    "host": "web3.chouyi.cc",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -17133,7 +16990,7 @@
    "first_seen": "2026-07-14 11:15:39",
    "host": "web3.ouyiawotkc.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-09-18 10:40:09",
+   "last_seen": "2026-09-18 12:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -17432,7 +17289,7 @@
    "first_seen": "2026-07-19 04:48:02",
    "host": "welcome-ledgr-faqs.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 09:41:30",
+   "last_seen": "2026-09-18 12:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -17645,6 +17502,19 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://www.ripple-bank.vercel.app/",
+   "first_seen": "2026-09-18 11:14:41",
+   "host": "www.ripple-bank.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-18 11:14:41",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Coinbase",
    "corroboration_count": 2,
    "crypto": true,
@@ -17682,19 +17552,6 @@
    "last_seen": "2026-09-18 09:50:44",
    "source_feed": "ct_monitor",
    "verified": true
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://xn--kuoin-lgin-mbb8u.webflow.io",
-   "first_seen": "2026-06-08 11:13:29",
-   "host": "xn--kuoin-lgin-mbb8u.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 10:40:09",
-   "source_feed": "PhishTank",
-   "verified": false
   },
   {
    "brand": "Ledger",
