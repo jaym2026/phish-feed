@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 2288,
- "generated_at": "2026-09-19T01:10:01Z",
+ "count": 2289,
+ "generated_at": "2026-09-19T02:10:01Z",
  "hosts": [
   {
    "brand": "Other",
@@ -922,7 +922,7 @@
    "first_seen": "2026-08-19 11:22:38",
    "host": "albertasportshall.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 23:40:02",
+   "last_seen": "2026-09-19 01:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -1455,7 +1455,7 @@
    "first_seen": "2026-07-19 22:32:02",
    "host": "app-rubrica-sharepoint-testing.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 21:42:55",
+   "last_seen": "2026-09-19 01:22:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2048,6 +2048,19 @@
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
+   "dns_reason": "young_domain",
+   "evidence_url": "http://background-check-status.com/6197094-oH1faBZb-PKS9Q",
+   "first_seen": "2026-09-18 11:14:41",
+   "host": "background-check-status.com",
+   "hosting_platform": "Other",
+   "last_seen": "2026-09-18 20:58:29",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
    "dns_reason": "platform_tenant",
    "evidence_url": "https://bafkreiew7w6k3ryybdumpzpuaxenhl7btkqqdb6ss7aza5plujnxjk7jmm.ipfs.dweb.link/",
    "first_seen": "2026-06-19 11:14:58",
@@ -2173,6 +2186,19 @@
    "last_seen": "2026-09-18 21:23:09",
    "source_feed": "PhishTank",
    "verified": false
+  },
+  {
+   "brand": "Other",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://basvurulariyapinkacirmayinekim.cfd/login",
+   "first_seen": "2026-09-18 11:14:41",
+   "host": "basvurulariyapinkacirmayinekim.cfd",
+   "hosting_platform": "Other",
+   "last_seen": "2026-09-18 11:14:41",
+   "source_feed": "OpenPhish",
+   "verified": true
   },
   {
    "brand": "PayPal",
@@ -2860,19 +2886,6 @@
    "host": "capital-glass-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-18 21:50:37",
-   "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "MetaMask",
-   "corroboration_count": 1,
-   "crypto": true,
-   "dns_reason": "young_domain",
-   "evidence_url": "https://card-metamask.com/",
-   "first_seen": "2026-09-06 00:38:03",
-   "host": "card-metamask.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-09-19 00:32:45",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3946,7 +3959,7 @@
    "brand": null,
    "corroboration_count": 0,
    "crypto": false,
-   "dns_reason": "root_kit",
+   "dns_reason": "young_domain",
    "evidence_url": "https://cosmixmc.org/profile.html",
    "first_seen": "2026-09-18 02:11:00",
    "host": "cosmixmc.org",
@@ -6161,7 +6174,7 @@
    "first_seen": "2026-07-19 08:32:02",
    "host": "en-livs-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 21:08:53",
+   "last_seen": "2026-09-19 01:22:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6174,7 +6187,7 @@
    "first_seen": "2026-07-20 00:32:03",
    "host": "en-phntoms.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 20:43:56",
+   "last_seen": "2026-09-19 01:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7950,7 +7963,7 @@
    "brand": "Other",
    "corroboration_count": 1,
    "crypto": false,
-   "dns_reason": "root_kit",
+   "dns_reason": "young_domain",
    "evidence_url": "https://fivemsevmeyenerkekler.xyz/",
    "first_seen": "2026-09-18 11:14:41",
    "host": "fivemsevmeyenerkekler.xyz",
@@ -8761,7 +8774,7 @@
    "first_seen": "2026-07-21 18:48:02",
    "host": "getting-started-ledgr-easily.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 20:44:41",
+   "last_seen": "2026-09-19 01:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9649,7 +9662,7 @@
    "first_seen": "2026-08-19 11:22:38",
    "host": "havredufaubourg.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 23:40:02",
+   "last_seen": "2026-09-19 01:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -12171,7 +12184,7 @@
    "first_seen": "2026-06-12 11:16:11",
    "host": "kocioenlogen.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 23:40:02",
+   "last_seen": "2026-09-19 01:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -13198,7 +13211,7 @@
    "first_seen": "2026-09-17 02:22:03",
    "host": "ledger-3hy.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 20:53:29",
+   "last_seen": "2026-09-19 01:22:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -15668,7 +15681,7 @@
    "first_seen": "2026-07-22 00:32:03",
    "host": "ledgr-com-acces.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 21:49:13",
+   "last_seen": "2026-09-19 02:06:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -22198,7 +22211,7 @@
    "first_seen": "2026-09-04 08:22:13",
    "host": "redbig-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 20:42:34",
+   "last_seen": "2026-09-19 01:38:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -23828,6 +23841,19 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "corroboration_count": 1,
+   "crypto": false,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://sjotzpd7gx9.reviewteaserarchiveproj.biz/fi3cuUR",
+   "first_seen": "2026-09-18 11:14:41",
+   "host": "sjotzpd7gx9.reviewteaserarchiveproj.biz",
+   "hosting_platform": "Other",
+   "last_seen": "2026-09-18 20:58:29",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Bank of America",
    "corroboration_count": 2,
    "crypto": false,
@@ -25409,7 +25435,7 @@
    "first_seen": "2026-08-19 11:22:38",
    "host": "swanvalleycoop.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 23:40:02",
+   "last_seen": "2026-09-19 01:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -25435,7 +25461,7 @@
    "first_seen": "2026-06-13 11:13:53",
    "host": "swisssborglogii.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-18 23:40:02",
+   "last_seen": "2026-09-19 01:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -26176,7 +26202,7 @@
    "first_seen": "2026-08-19 11:22:38",
    "host": "trust-walletsupportsdesk.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-18 23:40:02",
+   "last_seen": "2026-09-19 01:40:02",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -26184,7 +26210,7 @@
    "brand": "Other",
    "corroboration_count": 2,
    "crypto": false,
-   "dns_reason": "root_kit",
+   "dns_reason": "young_domain",
    "evidence_url": "https://trustedfunds-portal.com/",
    "first_seen": "2026-09-18 11:14:41",
    "host": "trustedfunds-portal.com",
@@ -26813,7 +26839,7 @@
    "first_seen": "2026-07-31 12:32:02",
    "host": "user-ledgr-strt-com.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-18 21:37:05",
+   "last_seen": "2026-09-19 01:38:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -29063,19 +29089,6 @@
    "host": "www.640sycamore.duckdns.org",
    "hosting_platform": "Duck DNS",
    "last_seen": "2026-09-18 11:14:41",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Other",
-   "corroboration_count": 1,
-   "crypto": false,
-   "dns_reason": "root_kit",
-   "evidence_url": "https://www.aaranonigeria.com/",
-   "first_seen": "2026-09-18 11:14:41",
-   "host": "www.aaranonigeria.com",
-   "hosting_platform": "Other",
-   "last_seen": "2026-09-19 00:40:11",
    "source_feed": "OpenPhish",
    "verified": true
   },
