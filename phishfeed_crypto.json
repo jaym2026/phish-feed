@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1318,
- "generated_at": "2026-09-20T05:10:02Z",
+ "count": 1320,
+ "generated_at": "2026-09-20T06:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -961,7 +961,7 @@
    "first_seen": "2026-09-18 13:38:02",
    "host": "ching-ledger-5pmrb4.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-19 21:52:39",
+   "last_seen": "2026-09-20 06:06:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3236,7 +3236,7 @@
    "first_seen": "2026-07-13 11:16:33",
    "host": "excoodislogin.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -3912,7 +3912,7 @@
    "first_seen": "2026-07-21 11:17:52",
    "host": "gemini-logiu.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -3938,7 +3938,7 @@
    "first_seen": "2026-07-30 11:13:39",
    "host": "geminileginei.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -3951,7 +3951,7 @@
    "first_seen": "2026-09-03 11:14:05",
    "host": "gemninklogiin.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -6044,7 +6044,7 @@
    "first_seen": "2026-06-12 11:16:11",
    "host": "kocioenlogen.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -6057,7 +6057,7 @@
    "first_seen": "2026-07-13 11:16:33",
    "host": "kocoianlogin.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -6564,7 +6564,7 @@
    "first_seen": "2026-07-30 11:13:39",
    "host": "ledgecosnmtart.webflow.io",
    "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -11933,7 +11933,7 @@
    "first_seen": "2026-09-17 11:13:45",
    "host": "mweb384501qwx.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -11949,6 +11949,19 @@
    "last_seen": "2026-09-20 03:16:12",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Trust Wallet",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://my-usdt-transper-7.vercel.app/",
+   "first_seen": "2026-09-19 11:14:08",
+   "host": "my-usdt-transper-7.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-20 03:01:52",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Ledger",
@@ -12323,7 +12336,7 @@
    "first_seen": "2026-07-22 20:16:01",
    "host": "order-ledger-827.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-19 21:43:53",
+   "last_seen": "2026-09-20 05:22:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12570,7 +12583,7 @@
    "first_seen": "2026-09-02 12:06:08",
    "host": "phantom-osint.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-20 03:10:37",
+   "last_seen": "2026-09-20 05:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12869,7 +12882,7 @@
    "first_seen": "2026-08-18 11:18:46",
    "host": "prkgilrs-usdt-draner-frant.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -13390,6 +13403,19 @@
    "host": "sendusdt-2.vercel.app",
    "hosting_platform": "Vercel",
    "last_seen": "2026-09-20 03:29:49",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Trust Wallet",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://sendusdt-omega.vercel.app/",
+   "first_seen": "2026-09-19 11:14:08",
+   "host": "sendusdt-omega.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-20 03:01:52",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -14975,7 +15001,7 @@
    "first_seen": "2026-08-19 11:22:38",
    "host": "trust-walletsupportsdesk.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -14988,7 +15014,7 @@
    "first_seen": "2026-08-15 11:17:49",
    "host": "trustwallet-bnb-367987-654864.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-20 03:40:11",
+   "last_seen": "2026-09-20 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
