@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1308,
- "generated_at": "2026-09-21T05:10:02Z",
+ "count": 1309,
+ "generated_at": "2026-09-21T06:10:02Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -1299,7 +1299,7 @@
    "first_seen": "2026-09-19 18:03:52",
    "host": "conductor-login-dev.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-20 12:00:12",
+   "last_seen": "2026-09-21 06:01:44",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3002,7 +3002,7 @@
    "first_seen": "2026-07-22 16:16:01",
    "host": "eng-ledgrecom-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-21 02:53:34",
+   "last_seen": "2026-09-21 05:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3839,7 +3839,7 @@
    "verified": true
   },
   {
-   "brand": null,
+   "brand": "Roblox",
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -7422,7 +7422,7 @@
    "first_seen": "2026-07-22 16:16:01",
    "host": "ledger-i--login.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-21 02:52:17",
+   "last_seen": "2026-09-21 05:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11647,7 +11647,7 @@
    "first_seen": "2026-07-22 16:16:01",
    "host": "metamsk-us-page.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-21 02:52:17",
+   "last_seen": "2026-09-21 05:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12523,6 +12523,19 @@
    "verified": true
   },
   {
+   "brand": "Trust Wallet",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://pi-theta-five.vercel.app/",
+   "first_seen": "2026-09-20 11:14:25",
+   "host": "pi-theta-five.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-09-21 03:03:20",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -13155,7 +13168,7 @@
    "first_seen": "2026-07-22 18:32:02",
    "host": "secure-ledger-wallt.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-21 02:53:34",
+   "last_seen": "2026-09-21 05:54:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -14845,7 +14858,7 @@
    "first_seen": "2026-08-19 11:22:38",
    "host": "trust-walletsupportsdesk.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-21 04:40:12",
+   "last_seen": "2026-09-21 05:40:10",
    "source_feed": "OpenPhish",
    "verified": false
   },
