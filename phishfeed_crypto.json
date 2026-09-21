@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1320,
- "generated_at": "2026-09-21T00:10:02Z",
+ "count": 1310,
+ "generated_at": "2026-09-21T01:10:01Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -2950,7 +2950,7 @@
    "first_seen": "2026-07-22 12:16:02",
    "host": "eng-ledgger-live-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-20 20:46:33",
+   "last_seen": "2026-09-21 00:38:02",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3211,19 +3211,6 @@
    "host": "exclusive-openseamints.vercel.app",
    "hosting_platform": "Vercel",
    "last_seen": "2026-09-20 21:07:29",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "Exodus",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://excoodislogin.webflow.io/",
-   "first_seen": "2026-07-13 11:16:33",
-   "host": "excoodislogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -3894,19 +3881,6 @@
    "brand": "Gemini",
    "corroboration_count": 2,
    "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://gemini-logiu.webflow.io/",
-   "first_seen": "2026-07-21 11:17:52",
-   "host": "gemini-logiu.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "Gemini",
-   "corroboration_count": 2,
-   "crypto": true,
    "dns_reason": null,
    "evidence_url": "https://gemini.xiaogpt1.eu.org/",
    "first_seen": "2026-06-08 11:13:30",
@@ -3914,32 +3888,6 @@
    "hosting_platform": "Other",
    "last_seen": "2026-09-20 20:41:06",
    "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "Gemini",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://geminileginei.webflow.io/",
-   "first_seen": "2026-07-30 11:13:39",
-   "host": "geminileginei.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "Gemini",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://gemninklogiin.webflow.io/",
-   "first_seen": "2026-09-03 11:14:05",
-   "host": "gemninklogiin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "OpenPhish",
    "verified": false
   },
   {
@@ -6023,32 +5971,6 @@
    "verified": true
   },
   {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kocioenlogen.webflow.io/",
-   "first_seen": "2026-06-12 11:16:11",
-   "host": "kocioenlogen.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://kocoianlogin.webflow.io",
-   "first_seen": "2026-07-13 11:16:33",
-   "host": "kocoianlogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
    "brand": "Kraken",
    "corroboration_count": 0,
    "crypto": true,
@@ -6060,32 +5982,6 @@
    "last_seen": "2026-09-20 21:13:23",
    "source_feed": "ct_monitor",
    "verified": true
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kuvcoinnloginz.webflow.io/",
-   "first_seen": "2026-08-21 11:14:39",
-   "host": "kuvcoinnloginz.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://kuyzcoinlogin.webflow.io/",
-   "first_seen": "2026-06-22 11:15:43",
-   "host": "kuyzcoinlogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "OpenPhish",
-   "verified": false
   },
   {
    "brand": "Ledger",
@@ -6540,19 +6436,6 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-09-20 20:46:45",
    "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Ledger",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://ledgecosnmtart.webflow.io/",
-   "first_seen": "2026-07-30 11:13:39",
-   "host": "ledgecosnmtart.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "PhishTank",
    "verified": true
   },
   {
@@ -7942,7 +7825,7 @@
    "first_seen": "2026-07-22 08:48:02",
    "host": "ledger-live-know.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-20 21:39:00",
+   "last_seen": "2026-09-21 01:06:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9801,7 +9684,7 @@
    "first_seen": "2026-07-22 10:32:02",
    "host": "ledgr-live-legr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-09-20 20:34:47",
+   "last_seen": "2026-09-21 01:06:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11754,19 +11637,6 @@
    "last_seen": "2026-09-20 21:10:39",
    "source_feed": "OpenPhish",
    "verified": false
-  },
-  {
-   "brand": "MetaMask",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://metamask-update.webflow.io/",
-   "first_seen": "2026-09-20 11:14:25",
-   "host": "metamask-update.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-09-20 22:40:12",
-   "source_feed": "OpenPhish",
-   "verified": true
   },
   {
    "brand": "MetaMask",
@@ -15001,7 +14871,7 @@
    "first_seen": "2026-08-19 11:22:38",
    "host": "trust-walletsupportsdesk.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-09-20 22:40:12",
+   "last_seen": "2026-09-21 00:40:12",
    "source_feed": "OpenPhish",
    "verified": false
   },
