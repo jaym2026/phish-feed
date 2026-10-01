@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1091,
- "generated_at": "2026-10-01T22:16:01Z",
+ "count": 1093,
+ "generated_at": "2026-10-01T23:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -584,7 +584,7 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "baseservices.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-01 22:10:14",
+   "last_seen": "2026-10-01 23:10:12",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -8059,7 +8059,7 @@
    "first_seen": "2026-08-30 05:06:04",
    "host": "ledgerw.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-01 22:10:14",
+   "last_seen": "2026-10-01 23:10:12",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10400,6 +10400,32 @@
    "host": "martin-clear-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-01 21:10:47",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://merite-internal-ledger.pages.dev/",
+   "first_seen": "2026-10-01 10:54:04",
+   "host": "merite-internal-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-10-01 20:42:47",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://merite-salary-ledger.pages.dev/",
+   "first_seen": "2026-10-01 10:38:07",
+   "host": "merite-salary-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-10-01 20:45:42",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13467,7 +13493,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "usdt-trustwallet-blockchain.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-01 22:10:14",
+   "last_seen": "2026-10-01 23:10:12",
    "source_feed": "phishunt",
    "verified": false
   },
