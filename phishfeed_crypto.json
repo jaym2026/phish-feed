@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1083,
- "generated_at": "2026-10-02T05:16:02Z",
+ "count": 1084,
+ "generated_at": "2026-10-02T06:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -324,7 +324,7 @@
    "first_seen": "2026-07-18 03:16:02",
    "host": "apps-hub-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:58:14",
+   "last_seen": "2026-10-02 06:06:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -571,7 +571,7 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "baseservices.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 05:10:10",
+   "last_seen": "2026-10-02 06:10:11",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -766,7 +766,7 @@
    "first_seen": "2026-09-01 11:19:15",
    "host": "bsccoin-transfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 05:10:10",
+   "last_seen": "2026-10-02 06:10:11",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -2144,7 +2144,7 @@
    "first_seen": "2026-07-26 02:32:02",
    "host": "easypc-stock-ledger-tool.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:02:48",
+   "last_seen": "2026-10-02 05:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3756,7 +3756,7 @@
    "first_seen": "2026-08-03 20:32:02",
    "host": "guide-liv-ledgr-com.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:03:58",
+   "last_seen": "2026-10-02 05:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6525,7 +6525,7 @@
    "first_seen": "2026-07-22 16:16:01",
    "host": "ledger-i--login.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:42:35",
+   "last_seen": "2026-10-02 05:22:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7981,7 +7981,7 @@
    "first_seen": "2026-08-30 05:06:04",
    "host": "ledgerw.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 05:10:10",
+   "last_seen": "2026-10-02 06:10:11",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8410,7 +8410,7 @@
    "first_seen": "2026-07-22 22:32:01",
    "host": "ledgr-live-center.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:43:02",
+   "last_seen": "2026-10-02 05:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9359,7 +9359,7 @@
    "first_seen": "2026-08-03 20:32:02",
    "host": "ledgrs-startsd.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:03:58",
+   "last_seen": "2026-10-02 06:06:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10652,6 +10652,19 @@
   },
   {
    "brand": "Ledger",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://nbddut-i6esa064.vercel.app/",
+   "first_seen": "2026-10-01 11:17:50",
+   "host": "nbddut-i6esa064.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-10-02 03:31:04",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -10737,7 +10750,7 @@
    "first_seen": "2026-07-18 00:32:05",
    "host": "officia-l-ledger-live.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:58:14",
+   "last_seen": "2026-10-02 06:06:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12245,7 +12258,7 @@
    "first_seen": "2026-07-17 13:48:01",
    "host": "start-ledgerr-com.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:58:01",
+   "last_seen": "2026-10-02 05:38:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13376,7 +13389,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "usdt-trustwallet-blockchain.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 05:10:10",
+   "last_seen": "2026-10-02 06:10:11",
    "source_feed": "phishunt",
    "verified": false
   },
