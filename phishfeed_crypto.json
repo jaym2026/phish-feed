@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1084,
- "generated_at": "2026-10-02T09:16:01Z",
+ "count": 1086,
+ "generated_at": "2026-10-02T10:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -571,7 +571,7 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "baseservices.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 08:10:11",
+   "last_seen": "2026-10-02 10:10:51",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -645,12 +645,12 @@
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "http://binance-co.github.io/binance-website/",
+   "evidence_url": "http://binance-co.github.io/binance-website",
    "first_seen": "2026-09-06 11:15:24",
    "host": "binance-co.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_seen": "2026-10-02 03:57:08",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-10-02 09:20:55",
+   "source_feed": "phishunt",
    "verified": true
   },
   {
@@ -688,7 +688,7 @@
    "first_seen": "2026-09-22 03:38:03",
    "host": "bitgetworld.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-10-02 08:59:36",
+   "last_seen": "2026-10-02 10:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -766,7 +766,7 @@
    "first_seen": "2026-09-01 11:19:15",
    "host": "bsccoin-transfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 08:10:11",
+   "last_seen": "2026-10-02 10:10:51",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -5875,7 +5875,7 @@
    "first_seen": "2026-07-24 17:16:02",
    "host": "ledger--wallet--welcome.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 04:05:45",
+   "last_seen": "2026-10-02 09:38:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5980,6 +5980,19 @@
    "host": "ledger-79m.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-02 04:00:44",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ledger-83rd-ave.pages.dev/",
+   "first_seen": "2026-10-02 02:38:04",
+   "host": "ledger-83rd-ave.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-10-02 08:42:13",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7981,7 +7994,7 @@
    "first_seen": "2026-08-30 05:06:04",
    "host": "ledgerw.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 08:10:11",
+   "last_seen": "2026-10-02 10:10:51",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8254,7 +8267,7 @@
    "first_seen": "2026-07-24 18:48:02",
    "host": "ledgr-en-com.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:59:40",
+   "last_seen": "2026-10-02 10:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10295,7 +10308,7 @@
    "first_seen": "2026-10-01 10:54:04",
    "host": "merite-internal-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 03:29:04",
+   "last_seen": "2026-10-02 09:17:33",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10343,12 +10356,12 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "http://metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app/register/",
+   "evidence_url": "https://metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app/register",
    "first_seen": "2026-09-06 11:15:24",
    "host": "metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 03:54:55",
-   "source_feed": "OpenPhish",
+   "last_seen": "2026-10-02 09:20:55",
+   "source_feed": "phishunt",
    "verified": true
   },
   {
@@ -10646,7 +10659,7 @@
    "first_seen": "2026-07-28 08:48:02",
    "host": "nava-ledgerr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 09:10:31",
+   "last_seen": "2026-10-02 09:38:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11816,7 +11829,7 @@
    "first_seen": "2026-09-26 11:15:54",
    "host": "sendbscusdtbep20.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 03:25:37",
+   "last_seen": "2026-10-02 09:16:29",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11895,6 +11908,19 @@
    "host": "sf-studios-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-02 08:43:13",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://simplexity-ledgerbook.pages.dev/",
+   "first_seen": "2026-10-01 10:54:04",
+   "host": "simplexity-ledgerbook.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-10-02 09:20:17",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13389,7 +13415,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "usdt-trustwallet-blockchain.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-02 08:10:11",
+   "last_seen": "2026-10-02 10:10:51",
    "source_feed": "phishunt",
    "verified": false
   },
