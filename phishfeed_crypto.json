@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1070,
- "generated_at": "2026-10-03T05:16:02Z",
+ "count": 1072,
+ "generated_at": "2026-10-03T06:16:02Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -558,7 +558,7 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "baseservices.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-03 05:10:12",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -753,7 +753,7 @@
    "first_seen": "2026-09-01 11:19:15",
    "host": "bsccoin-transfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-03 05:10:12",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -1260,7 +1260,7 @@
    "first_seen": "2026-09-25 18:03:39",
    "host": "contrack-297.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 11:34:43",
+   "last_seen": "2026-10-03 05:34:56",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -1403,7 +1403,7 @@
    "first_seen": "2026-08-20 11:17:21",
    "host": "definitive-electronics-qyjl.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-03 05:10:12",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7383,7 +7383,7 @@
    "first_seen": "2026-09-29 00:54:03",
    "host": "ledgerfinanceiro.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-03 03:56:18",
+   "last_seen": "2026-10-03 05:38:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7903,7 +7903,7 @@
    "first_seen": "2026-08-30 05:06:04",
    "host": "ledgerw.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-03 05:10:12",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9359,7 +9359,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-03 05:10:12",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11327,6 +11327,19 @@
    "verified": true
   },
   {
+   "brand": "MetaMask",
+   "corroboration_count": 1,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-f589e4df19f943fda2a22c1270d33114.r2.dev/index.html",
+   "first_seen": "2026-10-02 11:18:56",
+   "host": "pub-f589e4df19f943fda2a22c1270d33114.r2.dev",
+   "hosting_platform": "Cloudflare R2",
+   "last_seen": "2026-10-03 03:40:18",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -11622,6 +11635,19 @@
    "host": "sendbscusdtbep20.vercel.app",
    "hosting_platform": "Vercel",
    "last_seen": "2026-10-03 03:30:11",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Trust Wallet",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://sendbscusdtbnb.vercel.app/",
+   "first_seen": "2026-10-02 11:18:56",
+   "host": "sendbscusdtbnb.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -12726,7 +12752,7 @@
    "first_seen": "2026-09-25 18:05:48",
    "host": "tradego-finance-mike-preview.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-02 11:34:43",
+   "last_seen": "2026-10-03 05:34:56",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -12791,7 +12817,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "trezorguide.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-03 05:10:12",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "phishunt",
    "verified": false
   },
@@ -13220,7 +13246,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "usdt-trustwallet-blockchain.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-03 05:10:12",
+   "last_seen": "2026-10-03 06:10:58",
    "source_feed": "phishunt",
    "verified": false
   },
@@ -13693,7 +13719,7 @@
    "verified": false
   },
   {
-   "brand": "Other",
+   "brand": "Google",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": null,
