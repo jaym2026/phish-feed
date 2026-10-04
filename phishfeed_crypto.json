@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1068,
- "generated_at": "2026-10-04T12:16:01Z",
+ "count": 1069,
+ "generated_at": "2026-10-04T13:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -792,7 +792,7 @@
    "first_seen": "2026-09-01 11:19:15",
    "host": "bsccoin-transfer.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-04 12:10:17",
+   "last_seen": "2026-10-04 13:10:26",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -1442,7 +1442,7 @@
    "first_seen": "2026-08-20 11:17:21",
    "host": "definitive-electronics-qyjl.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-04 12:10:17",
+   "last_seen": "2026-10-04 13:10:26",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9320,7 +9320,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-04 12:10:17",
+   "last_seen": "2026-10-04 13:10:26",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -10269,7 +10269,7 @@
    "first_seen": "2026-09-22 15:54:03",
    "host": "minimal-ledger-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-04 08:49:07",
+   "last_seen": "2026-10-04 12:22:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11608,7 +11608,7 @@
    "first_seen": "2026-10-02 11:18:56",
    "host": "sendbscusdtbnb.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-04 12:10:17",
+   "last_seen": "2026-10-04 13:10:26",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -12666,6 +12666,19 @@
    "verified": true
   },
   {
+   "brand": "Trezor",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://terezerwallet.webflow.io/",
+   "first_seen": "2026-10-04 11:16:30",
+   "host": "terezerwallet.webflow.io",
+   "hosting_platform": "Webflow",
+   "last_seen": "2026-10-04 11:16:30",
+   "source_feed": "PhishTank",
+   "verified": false
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -12778,7 +12791,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "trezorguide.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-04 12:10:17",
+   "last_seen": "2026-10-04 13:10:26",
    "source_feed": "phishunt",
    "verified": false
   },
@@ -12862,7 +12875,7 @@
   },
   {
    "brand": "Trust Wallet",
-   "corroboration_count": 0,
+   "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
    "evidence_url": "https://trust-wallet-login.vercel.app/signup",
@@ -13220,7 +13233,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "usdt-trustwallet-blockchain.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-04 12:10:17",
+   "last_seen": "2026-10-04 13:10:26",
    "source_feed": "phishunt",
    "verified": false
   },
