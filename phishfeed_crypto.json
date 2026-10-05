@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1061,
- "generated_at": "2026-10-05T22:16:02Z",
+ "count": 1062,
+ "generated_at": "2026-10-05T23:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -10373,7 +10373,7 @@
    "first_seen": "2026-10-01 11:17:50",
    "host": "nbddut-i6esa064.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-05 22:10:17",
+   "last_seen": "2026-10-05 23:10:17",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11271,6 +11271,19 @@
    "host": "record-ledger-ez6.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 15:32:07",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://regent-ledger-jzg.pages.dev/",
+   "first_seen": "2026-10-05 14:22:09",
+   "host": "regent-ledger-jzg.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-10-05 20:45:52",
    "source_feed": "ct_monitor",
    "verified": true
   },
