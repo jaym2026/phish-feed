@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1063,
- "generated_at": "2026-10-05T13:16:02Z",
+ "count": 1062,
+ "generated_at": "2026-10-05T14:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -1442,7 +1442,7 @@
    "first_seen": "2026-08-20 11:17:21",
    "host": "definitive-electronics-qyjl.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-05 13:10:16",
+   "last_seen": "2026-10-05 14:10:16",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -4159,7 +4159,7 @@
    "first_seen": "2026-08-04 19:00:07",
    "host": "home-ledger-manage.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-05 04:04:24",
+   "last_seen": "2026-10-05 14:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5082,7 +5082,7 @@
    "first_seen": "2026-07-24 11:00:05",
    "host": "learn-dsktop-ledgr-live.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-05 08:58:23",
+   "last_seen": "2026-10-05 13:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6551,7 +6551,7 @@
    "first_seen": "2026-07-18 15:16:03",
    "host": "ledger-live-bg.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-05 08:54:32",
+   "last_seen": "2026-10-05 13:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9255,7 +9255,7 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-05 13:10:16",
+   "last_seen": "2026-10-05 14:10:16",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11517,7 +11517,7 @@
    "first_seen": "2026-10-02 11:18:56",
    "host": "sendbscusdtbnb.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-05 13:10:16",
+   "last_seen": "2026-10-05 14:10:16",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -12588,19 +12588,6 @@
    "verified": true
   },
   {
-   "brand": "Trezor",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://terezerwallet.webflow.io/",
-   "first_seen": "2026-10-04 11:16:30",
-   "host": "terezerwallet.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_seen": "2026-10-05 13:10:16",
-   "source_feed": "PhishTank",
-   "verified": false
-  },
-  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -12700,7 +12687,7 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "trezorguide.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-05 13:10:16",
+   "last_seen": "2026-10-05 14:10:16",
    "source_feed": "phishunt",
    "verified": false
   },
