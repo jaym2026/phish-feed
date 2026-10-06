@@ -2,9 +2,9 @@
 
 A continuously-updated feed of **currently-live phishing hosts** verified by an
 independent detection pipeline (CT-log + cloud/bucket hunters + own content
-verifier + external corroboration). Intended as an **ingest source** for
-anti-phishing blocklists and wallet-protection networks (e.g. SEAL /
-PhishDestroy → MetaMask / Phantom).
+verifier + external corroboration), run by one independent researcher. It is
+published for any anti-phishing blocklist or wallet-protection service to pull
+as an **ingest source**; it is not affiliated with any of them.
 
 Every host listed here was confirmed **live** at publish time. Hosts drop off
 automatically once they go dead, so the list reflects the present threat surface
