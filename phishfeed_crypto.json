@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1064,
- "generated_at": "2026-10-06T00:16:01Z",
+ "count": 1101,
+ "generated_at": "2026-10-06T01:16:02Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -1201,6 +1201,19 @@
   },
   {
    "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://connect-helpen.framer.media/",
+   "first_seen": "2026-07-26 18:00:26",
+   "host": "connect-helpen.framer.media",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:13:54",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -1260,7 +1273,7 @@
    "first_seen": "2026-07-26 04:00:02",
    "host": "connect-ledgrwalite-faq.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-05 21:23:41",
+   "last_seen": "2026-10-06 00:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -1711,11 +1724,11 @@
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "https://dev-tronlink-home.zapier.app",
-   "first_seen": "2026-07-23 18:00:27",
+   "evidence_url": "https://dev-tronlink-home.zapier.app/web",
+   "first_seen": "2026-06-20 12:00:27",
    "host": "dev-tronlink-home.zapier.app",
    "hosting_platform": null,
-   "last_seen": "2026-10-05 20:49:46",
+   "last_seen": "2026-10-05 21:00:08",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -2724,7 +2737,7 @@
    "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
-   "dns_reason": "root_kit",
+   "dns_reason": "young_domain",
    "evidence_url": "http://enhancedconfiguration.app/ledger.com/",
    "first_seen": "2026-10-05 11:18:16",
    "host": "enhancedconfiguration.app",
@@ -3511,6 +3524,19 @@
    "hosting_platform": "Typedream",
    "last_seen": "2026-10-05 21:18:01",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://go-live-ledggr.framer.media",
+   "first_seen": "2026-09-16 12:18:27",
+   "host": "go-live-ledggr.framer.media",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:11:07",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -5061,6 +5087,19 @@
    "verified": true
   },
   {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ldgerr-strt-supp.framer.media",
+   "first_seen": "2026-08-25 12:18:27",
+   "host": "ldgerr-strt-supp.framer.media",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:11:26",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
    "brand": "Trezor",
    "corroboration_count": 2,
    "crypto": true,
@@ -5201,6 +5240,19 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 21:14:41",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Rabby",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://learn-rabbywallot-cdn-sso.wasmer.app",
+   "first_seen": "2026-08-20 20:18:26",
+   "host": "learn-rabbywallot-cdn-sso.wasmer.app",
+   "hosting_platform": "Wasmer",
+   "last_seen": "2026-10-05 15:55:23",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -5400,6 +5452,19 @@
   },
   {
    "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://leddgrlive.framer.media",
+   "first_seen": "2026-10-01 12:18:26",
+   "host": "leddgrlive.framer.media",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:56:25",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -5578,6 +5643,19 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 15:54:30",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ledgeer-us-livee.framer.website",
+   "first_seen": "2026-08-17 12:18:27",
+   "host": "ledgeer-us-livee.framer.website",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 15:54:01",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -6254,6 +6332,19 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 15:44:13",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ledger-devices-autosynchronize.vercel.app",
+   "first_seen": "2026-09-27 12:18:27",
+   "host": "ledger-devices-autosynchronize.vercel.app",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:00:08",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -8013,6 +8104,19 @@
   },
   {
    "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ledgorlogi.framer.media/",
+   "first_seen": "2026-07-31 18:00:27",
+   "host": "ledgorlogi.framer.media",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:01:55",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -8425,6 +8529,19 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 15:58:55",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ledgr-live-s.zapier.app",
+   "first_seen": "2026-09-18 00:18:26",
+   "host": "ledgr-live-s.zapier.app",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:12:21",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -9728,6 +9845,19 @@
    "verified": true
   },
   {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://livledgerlog.framer.media",
+   "first_seen": "2026-08-31 16:18:26",
+   "host": "livledgerlog.framer.media",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 15:57:40",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
    "brand": "Trezor",
    "corroboration_count": 0,
    "crypto": true,
@@ -10053,6 +10183,19 @@
    "verified": true
   },
   {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://mehtaammsignia.gitbook.io/",
+   "first_seen": "2026-09-07 12:18:27",
+   "host": "mehtaammsignia.gitbook.io",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:58:20",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -10373,7 +10516,7 @@
    "first_seen": "2026-10-01 11:17:50",
    "host": "nbddut-i6esa064.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-06 00:10:16",
+   "last_seen": "2026-10-06 01:10:16",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -10570,6 +10713,19 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 16:13:18",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://open-ledgeerlive-offical.zapier.app/",
+   "first_seen": "2026-09-30 16:18:26",
+   "host": "open-ledgeerlive-offical.zapier.app",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:51:31",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -11211,6 +11367,240 @@
   },
   {
    "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-08e5f153316343c0aa3c10c00ee9ae24.r2.dev/index.html",
+   "first_seen": "2026-08-23 12:18:27",
+   "host": "pub-08e5f153316343c0aa3c10c00ee9ae24.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:06:46",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-2ba2f00d7b84414c955f7291fd3bcc1c.r2.dev/index.html",
+   "first_seen": "2026-06-25 16:00:26",
+   "host": "pub-2ba2f00d7b84414c955f7291fd3bcc1c.r2.dev",
+   "hosting_platform": "Cloudflare R2",
+   "last_seen": "2026-10-05 20:58:36",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-444fdfd9944c4eef8f2dc986ee4833dd.r2.dev/index.html",
+   "first_seen": "2026-07-20 18:00:26",
+   "host": "pub-444fdfd9944c4eef8f2dc986ee4833dd.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:03:27",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-4629bee5fe1648658c7bb2c2e4aa7f96.r2.dev/index.html",
+   "first_seen": "2026-09-07 12:18:27",
+   "host": "pub-4629bee5fe1648658c7bb2c2e4aa7f96.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:58:20",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-5157d5cb163a43978500022be51a458b.r2.dev/index.html",
+   "first_seen": "2026-06-18 18:00:25",
+   "host": "pub-5157d5cb163a43978500022be51a458b.r2.dev",
+   "hosting_platform": "Cloudflare R2",
+   "last_seen": "2026-10-05 20:57:33",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-53fa467612a340daab0c3c208b8d395d.r2.dev/index.html",
+   "first_seen": "2026-08-06 14:00:33",
+   "host": "pub-53fa467612a340daab0c3c208b8d395d.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 15:56:18",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-55d2437597224e659c8576f31ea5f243.r2.dev/index.html",
+   "first_seen": "2026-07-30 12:00:28",
+   "host": "pub-55d2437597224e659c8576f31ea5f243.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 15:51:53",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-58356850673041539618188db617e5dd.r2.dev/index.html",
+   "first_seen": "2026-10-02 18:18:28",
+   "host": "pub-58356850673041539618188db617e5dd.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:53:44",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-6994d03159a447ae8a16b2a1176a5a27.r2.dev/index.html",
+   "first_seen": "2026-07-29 00:00:26",
+   "host": "pub-6994d03159a447ae8a16b2a1176a5a27.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:14:58",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-72fdd0618fd348f7a128df12b7872944.r2.dev/index.html",
+   "first_seen": "2026-07-13 12:00:27",
+   "host": "pub-72fdd0618fd348f7a128df12b7872944.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:07:40",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 1,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-7f5cf36445d042168bfacd712e890dc0.r2.dev/index.html",
+   "first_seen": "2026-07-23 12:00:28",
+   "host": "pub-7f5cf36445d042168bfacd712e890dc0.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:12:46",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-7f5e4341e83541bb840145bbe46638c6.r2.dev/index.html",
+   "first_seen": "2026-08-31 04:18:26",
+   "host": "pub-7f5e4341e83541bb840145bbe46638c6.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:07:16",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-b42213e1d83c4f448026b7219ddf4de1.r2.dev/index.html",
+   "first_seen": "2026-09-15 18:18:30",
+   "host": "pub-b42213e1d83c4f448026b7219ddf4de1.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 15:30:11",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-b707cb1c1ad5452abd7f62804f60c7de.r2.dev/index.html",
+   "first_seen": "2026-09-25 12:18:27",
+   "host": "pub-b707cb1c1ad5452abd7f62804f60c7de.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:20:34",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-d50f4726ff054cd7b68736279643f20a.r2.dev/index.html",
+   "first_seen": "2026-06-27 12:00:29",
+   "host": "pub-d50f4726ff054cd7b68736279643f20a.r2.dev",
+   "hosting_platform": "Cloudflare R2",
+   "last_seen": "2026-10-05 21:03:13",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-da74aa96e0b9429e84033f8671051bd7.r2.dev/index.html",
+   "first_seen": "2026-09-08 04:18:25",
+   "host": "pub-da74aa96e0b9429e84033f8671051bd7.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:06:22",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-dc5e2b185ea941fca482351935a0f3be.r2.dev/index.html",
+   "first_seen": "2026-10-02 12:18:28",
+   "host": "pub-dc5e2b185ea941fca482351935a0f3be.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:55:14",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-f3e7a7935198448e8052bd45a3a165f0.r2.dev/index.html",
+   "first_seen": "2026-09-26 00:18:26",
+   "host": "pub-f3e7a7935198448e8052bd45a3a165f0.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:19:42",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -11220,6 +11610,45 @@
    "hosting_platform": "Cloudflare R2",
    "last_seen": "2026-10-05 20:54:55",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-f7b727523d554b9994d78cd558ff99cd.r2.dev/index.html",
+   "first_seen": "2026-07-15 00:00:27",
+   "host": "pub-f7b727523d554b9994d78cd558ff99cd.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:58:48",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-fda7cc197b78492cbe08fc7b59c1d51a.r2.dev/index.html",
+   "first_seen": "2026-08-05 18:00:32",
+   "host": "pub-fda7cc197b78492cbe08fc7b59c1d51a.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 20:56:44",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pub-fe45910597a14b45b7e5e3afa9958649.r2.dev/index.html",
+   "first_seen": "2026-09-18 00:18:26",
+   "host": "pub-fe45910597a14b45b7e5e3afa9958649.r2.dev",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:12:21",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -11831,6 +12260,19 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 21:15:06",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://sso-web-ledger-ledger-live-login.typedream.app",
+   "first_seen": "2026-08-13 12:18:28",
+   "host": "sso-web-ledger-ledger-live-login.typedream.app",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 15:58:55",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -12453,7 +12895,7 @@
    "first_seen": "2026-07-31 00:32:01",
    "host": "support-ledger-eng-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-05 16:16:26",
+   "last_seen": "2026-10-06 00:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12754,6 +13196,19 @@
    "hosting_platform": "Cloudflare Pages",
    "last_seen": "2026-10-05 16:16:12",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Trezor",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://trezortyostart.gitbook.io",
+   "first_seen": "2026-07-23 02:00:26",
+   "host": "trezortyostart.gitbook.io",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 16:13:18",
+   "source_feed": "Mastodon (phish)",
    "verified": true
   },
   {
@@ -13070,6 +13525,19 @@
   },
   {
    "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://us-ledgger-live.framer.media/live-enus",
+   "first_seen": "2026-07-12 02:00:26",
+   "host": "us-ledgger-live.framer.media",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:07:16",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -13129,7 +13597,7 @@
    "first_seen": "2026-07-23 06:48:02",
    "host": "us-wallet-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-05 21:04:47",
+   "last_seen": "2026-10-06 00:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13210,6 +13678,19 @@
    "last_seen": "2026-10-05 21:13:37",
    "source_feed": "OpenPhish",
    "verified": false
+  },
+  {
+   "brand": "Exodus",
+   "corroboration_count": 1,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://v0-exodus-wallet-app.vercel.app",
+   "first_seen": "2026-07-04 02:00:26",
+   "host": "v0-exodus-wallet-app.vercel.app",
+   "hosting_platform": null,
+   "last_seen": "2026-10-05 21:05:59",
+   "source_feed": "Mastodon (phish)",
+   "verified": true
   },
   {
    "brand": "Ledger",
