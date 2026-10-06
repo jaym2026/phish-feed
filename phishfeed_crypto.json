@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1096,
- "generated_at": "2026-10-06T22:16:02Z",
+ "count": 1097,
+ "generated_at": "2026-10-06T23:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -1169,7 +1169,7 @@
    "first_seen": "2026-08-01 07:32:02",
    "host": "com-strt-ledgr-info.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 15:32:55",
+   "last_seen": "2026-10-06 22:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6330,7 +6330,7 @@
    "first_seen": "2026-09-27 12:18:27",
    "host": "ledger-devices-autosynchronize.vercel.app",
    "hosting_platform": null,
-   "last_seen": "2026-10-06 22:10:18",
+   "last_seen": "2026-10-06 23:10:15",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -7955,7 +7955,7 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-10-06 22:10:18",
+   "last_seen": "2026-10-06 23:10:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8267,7 +8267,7 @@
    "first_seen": "2026-07-27 12:48:01",
    "host": "ledgr-eu-ledjr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 16:06:28",
+   "last_seen": "2026-10-06 23:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -8475,7 +8475,7 @@
    "first_seen": "2026-07-26 12:16:02",
    "host": "ledgr-live-enn.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 20:45:29",
+   "last_seen": "2026-10-06 22:22:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10031,6 +10031,19 @@
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
+   "evidence_url": "https://lpg-ledger.pages.dev/",
+   "first_seen": "2026-10-06 10:06:03",
+   "host": "lpg-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_seen": "2026-10-06 20:39:40",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
    "evidence_url": "https://lqt-ledger.pages.dev/",
    "first_seen": "2026-09-22 09:38:03",
    "host": "lqt-ledger.pages.dev",
@@ -10503,7 +10516,7 @@
    "first_seen": "2026-10-01 11:17:50",
    "host": "nbddut-i6esa064.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-06 22:10:18",
+   "last_seen": "2026-10-06 23:10:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -10815,7 +10828,7 @@
    "first_seen": "2026-08-03 14:48:02",
    "host": "pages-ledgere.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 15:55:11",
+   "last_seen": "2026-10-06 22:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
