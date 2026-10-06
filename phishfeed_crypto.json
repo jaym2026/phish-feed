@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1100,
- "generated_at": "2026-10-06T12:16:02Z",
+ "count": 1101,
+ "generated_at": "2026-10-06T13:16:02Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -1832,7 +1832,7 @@
    "first_seen": "2026-08-02 21:00:02",
    "host": "doc-ledger-com-azj.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 08:46:46",
+   "last_seen": "2026-10-06 12:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5290,7 +5290,7 @@
    "first_seen": "2026-07-01 07:16:02",
    "host": "learn-start-ledgr--io-en.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 09:03:18",
+   "last_seen": "2026-10-06 12:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6356,7 +6356,7 @@
    "first_seen": "2026-09-27 12:18:27",
    "host": "ledger-devices-autosynchronize.vercel.app",
    "hosting_platform": null,
-   "last_seen": "2026-10-06 12:10:18",
+   "last_seen": "2026-10-06 13:10:25",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -7305,7 +7305,7 @@
    "first_seen": "2026-07-27 00:48:02",
    "host": "ledger-wallet-liv.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 04:05:41",
+   "last_seen": "2026-10-06 12:38:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9619,7 +9619,7 @@
    "first_seen": "2026-08-05 18:48:02",
    "host": "live-ledgerwallet-securre.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-06 03:55:13",
+   "last_seen": "2026-10-06 12:22:14",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10252,6 +10252,19 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
+   "evidence_url": "https://metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app/",
+   "first_seen": "2026-10-06 11:19:16",
+   "host": "metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-10-06 11:19:16",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
    "evidence_url": "http://metamask-launchpad.vercel.app",
    "first_seen": "2026-07-03 18:00:26",
    "host": "metamask-launchpad.vercel.app",
@@ -10516,7 +10529,7 @@
    "first_seen": "2026-10-01 11:17:50",
    "host": "nbddut-i6esa064.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-06 12:10:18",
+   "last_seen": "2026-10-06 13:10:25",
    "source_feed": "OpenPhish",
    "verified": false
   },
