@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 1104,
- "generated_at": "2026-10-07T12:16:02Z",
+ "count": 1107,
+ "generated_at": "2026-10-07T13:16:01Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -532,7 +532,7 @@
    "first_seen": "2026-07-31 16:16:02",
    "host": "auth-strt-ledgercom.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-07 03:33:37",
+   "last_seen": "2026-10-07 12:54:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2586,7 +2586,7 @@
    "first_seen": "2026-07-31 16:16:02",
    "host": "en-usa-desktop-ledgre.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-07 08:47:50",
+   "last_seen": "2026-10-07 12:22:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3431,7 +3431,7 @@
    "first_seen": "2026-07-22 14:48:02",
    "host": "gat-io-ledgro-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-07 04:13:52",
+   "last_seen": "2026-10-07 13:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6408,7 +6408,7 @@
    "first_seen": "2026-09-27 12:18:27",
    "host": "ledger-devices-autosynchronize.vercel.app",
    "hosting_platform": null,
-   "last_seen": "2026-10-07 12:10:16",
+   "last_seen": "2026-10-07 13:10:19",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -8033,7 +8033,7 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_seen": "2026-10-07 12:10:16",
+   "last_seen": "2026-10-07 13:10:19",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10139,7 +10139,7 @@
    "first_seen": "2026-08-05 22:16:02",
    "host": "lrn-desktop-ledgra-en--us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-07 04:05:40",
+   "last_seen": "2026-10-07 13:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10594,7 +10594,7 @@
    "first_seen": "2026-10-01 11:17:50",
    "host": "nbddut-i6esa064.vercel.app",
    "hosting_platform": "Vercel",
-   "last_seen": "2026-10-07 12:10:16",
+   "last_seen": "2026-10-07 13:10:19",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11868,7 +11868,7 @@
    "first_seen": "2026-08-03 05:32:01",
    "host": "saf-start-ledgrcom.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-07 09:20:53",
+   "last_seen": "2026-10-07 12:22:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12297,7 +12297,7 @@
    "first_seen": "2026-08-03 17:32:02",
    "host": "sso-portal-lger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_seen": "2026-10-07 08:48:06",
+   "last_seen": "2026-10-07 13:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13368,6 +13368,19 @@
    "verified": false
   },
   {
+   "brand": "Trust Wallet",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://trustwalletindia-beta.vercel.app/",
+   "first_seen": "2026-10-07 11:12:00",
+   "host": "trustwalletindia-beta.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-10-07 11:12:00",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
    "brand": "Ledger",
    "corroboration_count": 0,
    "crypto": true,
@@ -14276,6 +14289,32 @@
    "last_seen": "2026-10-07 08:50:19",
    "source_feed": "OpenPhish",
    "verified": true
+  },
+  {
+   "brand": "MetaMask",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://www.metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app/",
+   "first_seen": "2026-10-07 11:12:00",
+   "host": "www.metamask-docs-git-cursor-fix-banner-c-960a25-consensys-ddffed67.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-10-07 11:12:00",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Trust Wallet",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://www.trustwalletindia-beta.vercel.app/",
+   "first_seen": "2026-10-07 11:12:00",
+   "host": "www.trustwalletindia-beta.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_seen": "2026-10-07 11:12:00",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Coinbase",
