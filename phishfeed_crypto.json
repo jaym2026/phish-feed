@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 934,
- "generated_at": "2026-10-12T12:16:08Z",
+ "count": 935,
+ "generated_at": "2026-10-12T13:16:08Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -2833,8 +2833,8 @@
    "first_seen": "2026-09-09 11:14:12",
    "host": "exoduswallethelpcenter.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-12 12:10:12",
-   "last_seen": "2026-10-12 12:10:12",
+   "last_checked": "2026-10-12 13:10:15",
+   "last_seen": "2026-10-12 13:10:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9883,8 +9883,8 @@
    "first_seen": "2026-09-27 11:14:52",
    "host": "muet-confessions.eastasia.cloudapp.azure.com",
    "hosting_platform": "Microsoft Azure",
-   "last_checked": "2026-10-12 12:10:12",
-   "last_seen": "2026-10-12 12:10:12",
+   "last_checked": "2026-10-12 13:10:15",
+   "last_seen": "2026-10-12 13:10:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -11744,7 +11744,7 @@
    "host": "solanax-admin.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-12 09:25:30",
-   "last_seen": "2026-10-12 09:25:30",
+   "last_seen": "2026-10-12 12:22:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -12404,7 +12404,7 @@
    "host": "support-ledger-co-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-12 03:32:48",
-   "last_seen": "2026-10-12 03:32:48",
+   "last_seen": "2026-10-12 12:22:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -13892,6 +13892,21 @@
    "last_seen": "2026-10-12 09:01:49",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Binance",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://www.binance-account-login.vercel.app/",
+   "first_seen": "2026-10-12 11:15:34",
+   "host": "www.binance-account-login.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_checked": null,
+   "last_seen": "2026-10-12 11:15:34",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Wells Fargo",
