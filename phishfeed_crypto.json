@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
  "count": 771,
- "generated_at": "2026-10-18T22:16:34Z",
+ "generated_at": "2026-10-18T23:16:36Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -3469,6 +3469,21 @@
    "verified": true
   },
   {
+   "brand": "XRP",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://house-xrp-asset-manager.pages.dev/",
+   "first_seen": "2026-10-16 20:54:08",
+   "host": "house-xrp-asset-manager.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-10-18 16:15:40",
+   "last_seen": "2026-10-18 16:15:40",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "category": "phishing",
    "corroboration_count": 0,
@@ -3689,7 +3704,7 @@
    "host": "io-home-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-18 21:10:19",
-   "last_seen": "2026-10-18 21:10:19",
+   "last_seen": "2026-10-18 22:54:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3734,7 +3749,7 @@
    "host": "io-ledgr-started.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-18 20:36:41",
-   "last_seen": "2026-10-18 20:36:41",
+   "last_seen": "2026-10-18 22:54:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3901,36 +3916,6 @@
    "last_checked": "2026-10-18 16:15:13",
    "last_seen": "2026-10-18 16:15:13",
    "source_feed": "phishunt",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://kukunilogn.webflow.io/",
-   "first_seen": "2026-10-17 11:12:46",
-   "host": "kukunilogn.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_checked": "2026-10-18 22:10:40",
-   "last_seen": "2026-10-18 22:10:40",
-   "source_feed": "OpenPhish",
-   "verified": false
-  },
-  {
-   "brand": "KuCoin",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://kukuoinlogin.webflow.io/",
-   "first_seen": "2026-10-17 11:12:46",
-   "host": "kukuoinlogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_checked": "2026-10-18 22:10:40",
-   "last_seen": "2026-10-18 22:10:40",
-   "source_feed": "OpenPhish",
    "verified": false
   },
   {
@@ -8128,8 +8113,8 @@
    "first_seen": "2026-07-04 12:00:27",
    "host": "metamaskchromeextensionn.blogspot.com",
    "hosting_platform": "Blogspot",
-   "last_checked": "2026-10-18 22:10:40",
-   "last_seen": "2026-10-18 22:10:40",
+   "last_checked": "2026-10-18 23:10:12",
+   "last_seen": "2026-10-18 23:10:12",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -10124,7 +10109,7 @@
    "host": "strt-ledgrcom-learn.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-18 16:02:09",
-   "last_seen": "2026-10-18 16:02:09",
+   "last_seen": "2026-10-18 23:06:07",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -11338,8 +11323,8 @@
    "first_seen": "2026-07-14 11:15:39",
    "host": "web3.ouyiawotkc.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-10-18 22:10:40",
-   "last_seen": "2026-10-18 22:10:40",
+   "last_checked": "2026-10-18 23:10:12",
+   "last_seen": "2026-10-18 23:10:12",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -11445,6 +11430,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-18 20:56:55",
    "last_seen": "2026-10-18 20:56:55",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://woorijip-ledger.pages.dev/",
+   "first_seen": "2026-10-18 12:38:07",
+   "host": "woorijip-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-10-18 20:34:44",
+   "last_seen": "2026-10-18 20:34:44",
    "source_feed": "ct_monitor",
    "verified": true
   },
