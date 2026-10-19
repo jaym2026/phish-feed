@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 779,
- "generated_at": "2026-10-19T18:16:30Z",
+ "count": 778,
+ "generated_at": "2026-10-19T19:16:20Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -167,21 +167,6 @@
    "last_seen": "2026-10-19 15:52:52",
    "source_feed": "ct_monitor",
    "verified": true
-  },
-  {
-   "brand": "Other",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "http://app-cryptomcomlogin.webflow.io/",
-   "first_seen": "2026-10-19 11:15:30",
-   "host": "app-cryptomcomlogin.webflow.io",
-   "hosting_platform": "Webflow",
-   "last_checked": "2026-10-19 18:10:33",
-   "last_seen": "2026-10-19 18:10:33",
-   "source_feed": "OpenPhish",
-   "verified": false
   },
   {
    "brand": "Ledger",
@@ -6104,7 +6089,7 @@
    "host": "ledgerstert.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-19 15:09:50",
-   "last_seen": "2026-10-19 15:09:50",
+   "last_seen": "2026-10-19 18:54:09",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -8233,8 +8218,8 @@
    "first_seen": "2026-07-04 12:00:27",
    "host": "metamaskchromeextensionn.blogspot.com",
    "hosting_platform": "Blogspot",
-   "last_checked": "2026-10-19 18:10:33",
-   "last_seen": "2026-10-19 18:10:33",
+   "last_checked": "2026-10-19 19:10:14",
+   "last_seen": "2026-10-19 19:10:14",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
