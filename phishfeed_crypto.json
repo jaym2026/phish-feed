@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 779,
- "generated_at": "2026-10-19T11:16:19Z",
+ "count": 781,
+ "generated_at": "2026-10-19T12:16:23Z",
  "hosts": [
   {
    "brand": "Coinbase",
@@ -1093,8 +1093,8 @@
    "first_seen": "2026-10-09 18:10:04",
    "host": "data-hoalac-member.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": "2026-10-18 17:30:36",
-   "last_seen": "2026-10-18 17:30:36",
+   "last_checked": "2026-10-19 11:30:46",
+   "last_seen": "2026-10-19 11:30:46",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -1294,6 +1294,21 @@
    "verified": true
   },
   {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "root_kit",
+   "evidence_url": "https://dev-analytics.ori-ledger.ch/",
+   "first_seen": "2026-07-17 17:00:03",
+   "host": "dev-analytics.ori-ledger.ch",
+   "hosting_platform": "Other",
+   "last_checked": "2026-10-19 11:42:27",
+   "last_seen": "2026-10-19 11:42:27",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Trezor",
    "category": "phishing",
    "corroboration_count": 0,
@@ -1350,6 +1365,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-19 04:00:59",
    "last_seen": "2026-10-19 04:00:59",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "root_kit",
+   "evidence_url": "https://dev-sys.ori-ledger.ch/",
+   "first_seen": "2026-07-17 09:32:01",
+   "host": "dev-sys.ori-ledger.ch",
+   "hosting_platform": "Other",
+   "last_checked": "2026-10-19 11:42:24",
+   "last_seen": "2026-10-19 11:42:24",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3988,8 +4018,8 @@
    "first_seen": "2026-10-18 11:14:31",
    "host": "kcinnloggn.webflow.io",
    "hosting_platform": "Webflow",
-   "last_checked": "2026-10-19 11:10:09",
-   "last_seen": "2026-10-19 11:10:09",
+   "last_checked": "2026-10-19 12:10:33",
+   "last_seen": "2026-10-19 12:10:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -4033,8 +4063,8 @@
    "first_seen": "2026-10-18 11:14:31",
    "host": "kucqcoinlogin.webflow.io",
    "hosting_platform": "Webflow",
-   "last_checked": "2026-10-19 11:10:09",
-   "last_seen": "2026-10-19 11:10:09",
+   "last_checked": "2026-10-19 12:10:33",
+   "last_seen": "2026-10-19 12:10:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -8233,8 +8263,8 @@
    "first_seen": "2026-07-04 12:00:27",
    "host": "metamaskchromeextensionn.blogspot.com",
    "hosting_platform": "Blogspot",
-   "last_checked": "2026-10-19 11:10:09",
-   "last_seen": "2026-10-19 11:15:25",
+   "last_checked": "2026-10-19 12:10:33",
+   "last_seen": "2026-10-19 12:10:33",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -11443,8 +11473,8 @@
    "first_seen": "2026-07-14 11:15:39",
    "host": "web3.ouyiawotkc.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-10-19 11:10:09",
-   "last_seen": "2026-10-19 11:10:09",
+   "last_checked": "2026-10-19 12:10:33",
+   "last_seen": "2026-10-19 12:10:33",
    "source_feed": "OpenPhish",
    "verified": false
   },
