@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 705,
- "generated_at": "2026-10-25T12:16:21Z",
+ "count": 706,
+ "generated_at": "2026-10-25T13:16:16Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -2043,7 +2043,7 @@
    "host": "eng-ledgr-io.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-25 03:38:57",
-   "last_seen": "2026-10-25 03:38:57",
+   "last_seen": "2026-10-25 12:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2373,7 +2373,7 @@
    "host": "faq-ledgr.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-25 03:59:43",
-   "last_seen": "2026-10-25 03:59:43",
+   "last_seen": "2026-10-25 12:22:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3572,8 +3572,8 @@
    "first_seen": "2026-09-15 11:14:31",
    "host": "kucoin-referral-code-pt.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-25 12:10:27",
-   "last_seen": "2026-10-25 12:10:27",
+   "last_checked": "2026-10-25 13:10:25",
+   "last_seen": "2026-10-25 13:10:25",
    "source_feed": "phishunt",
    "verified": false
   },
@@ -5402,8 +5402,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-10-25 12:10:27",
-   "last_seen": "2026-10-25 12:10:27",
+   "last_checked": "2026-10-25 13:10:25",
+   "last_seen": "2026-10-25 13:10:25",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7258,12 +7258,12 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "http://metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app/metamask-connect/multichain",
+   "evidence_url": "http://metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app/embedded-wallets/sdk/unreal/advanced/whitelabel/",
    "first_seen": "2026-10-23 11:20:46",
    "host": "metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
    "last_checked": "2026-10-25 09:13:40",
-   "last_seen": "2026-10-25 09:13:40",
+   "last_seen": "2026-10-25 11:53:41",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -7273,12 +7273,12 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "https://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/tutorials/use-erc20-paymaster/",
+   "evidence_url": "https://metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app/snaps/features/custom-ui/dialogs/",
    "first_seen": "2026-10-24 11:15:31",
    "host": "metamask-docs-keec0mi8n-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
    "last_checked": "2026-10-25 09:13:40",
-   "last_seen": "2026-10-25 09:13:40",
+   "last_seen": "2026-10-25 11:53:41",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -7337,8 +7337,8 @@
    "first_seen": "2026-10-01 11:17:48",
    "host": "metamask2-eight.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-25 12:10:27",
-   "last_seen": "2026-10-25 12:10:27",
+   "last_checked": "2026-10-25 13:10:25",
+   "last_seen": "2026-10-25 13:10:25",
    "source_feed": "phishunt",
    "verified": false
   },
@@ -9598,6 +9598,21 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
+   "evidence_url": "https://trustwallet-gules.vercel.app/",
+   "first_seen": "2026-10-25 11:53:41",
+   "host": "trustwallet-gules.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_checked": null,
+   "last_seen": "2026-10-25 11:53:41",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "Trust Wallet",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
    "evidence_url": "https://trustwallet-helpcenter.vercel.app/",
    "first_seen": "2026-08-19 11:22:38",
    "host": "trustwallet-helpcenter.vercel.app",
@@ -10577,8 +10592,8 @@
    "first_seen": "2026-09-22 11:14:33",
    "host": "zara-self-kappa.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-25 12:10:27",
-   "last_seen": "2026-10-25 12:10:27",
+   "last_checked": "2026-10-25 13:10:25",
+   "last_seen": "2026-10-25 13:10:25",
    "source_feed": "OpenPhish",
    "verified": false
   }
