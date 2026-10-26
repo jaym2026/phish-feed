@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 700,
- "generated_at": "2026-10-26T05:16:16Z",
+ "count": 701,
+ "generated_at": "2026-10-26T06:16:16Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -1063,8 +1063,8 @@
    "first_seen": "2026-10-09 18:10:04",
    "host": "data-hoalac-member.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": "2026-10-25 11:30:53",
-   "last_seen": "2026-10-25 11:30:53",
+   "last_checked": "2026-10-26 05:30:28",
+   "last_seen": "2026-10-26 05:30:28",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -5357,8 +5357,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-10-26 05:10:10",
-   "last_seen": "2026-10-26 05:10:10",
+   "last_checked": "2026-10-26 06:10:09",
+   "last_seen": "2026-10-26 06:10:09",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7459,6 +7459,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-26 03:07:16",
    "last_seen": "2026-10-26 03:07:16",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://my-ledger-6mt.pages.dev/",
+   "first_seen": "2026-10-19 02:54:04",
+   "host": "my-ledger-6mt.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-10-26 05:30:44",
+   "last_seen": "2026-10-26 05:30:44",
    "source_feed": "ct_monitor",
    "verified": true
   },
