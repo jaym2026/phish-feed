@@ -63,6 +63,10 @@ The dns slice also applies a stricter evidence bar. Every entry needs all of
 the following:
 - my own check of the page (outside listings alone are not enough)
 - a named impersonated brand, or a listing by an independent phishing feed
+- independent evidence beyond a sign-in form: the same bar I require before
+  filing an abuse report, such as corroboration from outside sources or a brand
+  read from the page itself rather than from the hostname
+- no detection on the host that I have ruled a false positive
 - a liveness check within the last 48 hours
 - a page that is not a stock hosting control panel, a suspension notice or a
   server default page
