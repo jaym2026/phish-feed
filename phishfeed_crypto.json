@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 640,
- "generated_at": "2026-10-30T16:16:31Z",
+ "count": 637,
+ "generated_at": "2026-10-30T17:16:34Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -379,21 +379,6 @@
    "verified": true
   },
   {
-   "brand": "Binance",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://barak721ipo-bit.github.io/binance",
-   "first_seen": "2026-08-28 11:16:51",
-   "host": "barak721ipo-bit.github.io",
-   "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-10-30 16:10:27",
-   "last_seen": "2026-10-30 16:10:27",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
    "brand": "Coinbase",
    "category": "phishing",
    "corroboration_count": 2,
@@ -688,8 +673,8 @@
    "first_seen": "2026-07-27 11:13:05",
    "host": "coinbaseverify.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-30 16:10:27",
-   "last_seen": "2026-10-30 16:10:27",
+   "last_checked": "2026-10-30 17:10:23",
+   "last_seen": "2026-10-30 17:10:23",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -1833,7 +1818,7 @@
    "host": "es-ledger-lve-install.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-30 15:24:25",
-   "last_seen": "2026-10-30 15:24:25",
+   "last_seen": "2026-10-30 17:06:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2195,21 +2180,6 @@
    "last_checked": "2026-10-30 15:05:28",
    "last_seen": "2026-10-30 15:05:28",
    "source_feed": "ct_monitor",
-   "verified": true
-  },
-  {
-   "brand": "Coinbase",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://femifresh3897-dev.github.io/Coinbase/",
-   "first_seen": "2026-10-22 12:04:58",
-   "host": "femifresh3897-dev.github.io",
-   "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-10-30 16:10:27",
-   "last_seen": "2026-10-30 16:10:27",
-   "source_feed": "OpenPhish",
    "verified": true
   },
   {
@@ -6411,8 +6381,8 @@
    "first_seen": "2026-10-29 11:16:38",
    "host": "metaclaim.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-30 16:10:36",
-   "last_seen": "2026-10-30 16:10:36",
+   "last_checked": "2026-10-30 17:10:23",
+   "last_seen": "2026-10-30 17:10:23",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -6711,8 +6681,8 @@
    "first_seen": "2026-09-27 11:14:52",
    "host": "muet-confessions.eastasia.cloudapp.azure.com",
    "hosting_platform": "Microsoft Azure",
-   "last_checked": "2026-10-30 16:10:27",
-   "last_seen": "2026-10-30 16:10:27",
+   "last_checked": "2026-10-30 17:10:23",
+   "last_seen": "2026-10-30 17:10:23",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8732,21 +8702,6 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "https://trustwallet-team-support.github.io/Trust/",
-   "first_seen": "2026-10-07 11:11:59",
-   "host": "trustwallet-team-support.github.io",
-   "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-10-30 16:10:27",
-   "last_seen": "2026-10-30 16:10:27",
-   "source_feed": "OpenPhish",
-   "verified": true
-  },
-  {
-   "brand": "Trust Wallet",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": true,
-   "dns_reason": "platform_tenant",
    "evidence_url": "https://trustwalletindia-beta.vercel.app/",
    "first_seen": "2026-10-07 11:12:00",
    "host": "trustwalletindia-beta.vercel.app",
@@ -9066,8 +9021,8 @@
    "first_seen": "2026-10-26 11:56:19",
    "host": "v0-trezor-suite-website.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-30 16:10:27",
-   "last_seen": "2026-10-30 16:10:27",
+   "last_checked": "2026-10-30 17:10:23",
+   "last_seen": "2026-10-30 17:10:23",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -9186,8 +9141,8 @@
    "first_seen": "2026-08-12 11:15:42",
    "host": "walletcoinbase-zeta.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-30 16:10:27",
-   "last_seen": "2026-10-30 16:10:27",
+   "last_checked": "2026-10-30 17:10:23",
+   "last_seen": "2026-10-30 17:10:23",
    "source_feed": "OpenPhish",
    "verified": false
   },
