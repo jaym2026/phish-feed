@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 633,
- "generated_at": "2026-10-31T22:16:31Z",
+ "count": 637,
+ "generated_at": "2026-10-31T23:16:31Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -403,8 +403,8 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "baseservices.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-31 22:10:09",
-   "last_seen": "2026-10-31 22:10:09",
+   "last_checked": "2026-10-31 23:10:09",
+   "last_seen": "2026-10-31 23:10:09",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -2177,8 +2177,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-10-31 22:12:04",
-   "last_seen": "2026-10-31 22:12:04",
+   "last_checked": "2026-10-31 23:12:05",
+   "last_seen": "2026-10-31 23:12:05",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2785,6 +2785,21 @@
   {
    "brand": "Ledger",
    "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://igb-ledger.pages.dev/",
+   "first_seen": "2026-10-31 09:54:04",
+   "host": "igb-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-10-31 20:42:41",
+   "last_seen": "2026-10-31 20:42:41",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -3098,6 +3113,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-31 21:45:06",
    "last_seen": "2026-10-31 21:45:06",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Kraken",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://kraken228.pages.dev/",
+   "first_seen": "2026-10-31 09:22:10",
+   "host": "kraken228.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-10-31 15:44:58",
+   "last_seen": "2026-10-31 20:38:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -4582,7 +4612,7 @@
    "host": "ledgerly-finance.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-31 21:01:22",
-   "last_seen": "2026-10-31 21:01:22",
+   "last_seen": "2026-10-31 22:38:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6321,8 +6351,8 @@
    "first_seen": "2026-10-29 11:16:38",
    "host": "metaclaim.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-10-31 22:10:09",
-   "last_seen": "2026-10-31 22:10:09",
+   "last_checked": "2026-10-31 23:10:09",
+   "last_seen": "2026-10-31 23:10:09",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7617,6 +7647,21 @@
    "verified": true
   },
   {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://second-ledger.pages.dev/",
+   "first_seen": "2026-10-31 15:22:07",
+   "host": "second-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-10-31 21:48:33",
+   "last_seen": "2026-10-31 21:48:33",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Trust Wallet",
    "category": "phishing",
    "corroboration_count": 2,
@@ -8616,8 +8661,8 @@
    "first_seen": "2026-10-07 11:11:59",
    "host": "trustwallet-team-support.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-10-31 22:12:31",
-   "last_seen": "2026-10-31 22:12:31",
+   "last_checked": "2026-10-31 23:12:31",
+   "last_seen": "2026-10-31 23:12:31",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9503,6 +9548,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-10-31 21:39:58",
    "last_seen": "2026-10-31 21:39:58",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://zto-asset-ledger.pages.dev/",
+   "first_seen": "2026-10-31 10:38:04",
+   "host": "zto-asset-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-10-31 20:42:41",
+   "last_seen": "2026-10-31 20:42:41",
    "source_feed": "ct_monitor",
    "verified": true
   }
