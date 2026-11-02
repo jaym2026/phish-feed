@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 640,
- "generated_at": "2026-11-01T23:16:19Z",
+ "count": 641,
+ "generated_at": "2026-11-02T00:16:20Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -403,8 +403,8 @@
    "first_seen": "2026-08-30 11:16:18",
    "host": "baseservices.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-01 23:10:10",
-   "last_seen": "2026-11-01 23:10:10",
+   "last_checked": "2026-11-02 00:10:10",
+   "last_seen": "2026-11-02 00:10:10",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -2162,8 +2162,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-01 23:12:11",
-   "last_seen": "2026-11-01 23:12:11",
+   "last_checked": "2026-11-02 00:12:08",
+   "last_seen": "2026-11-02 00:12:08",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7042,7 +7042,7 @@
    "host": "phantom-link-wwn.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-01 22:59:34",
-   "last_seen": "2026-11-01 22:59:34",
+   "last_seen": "2026-11-01 23:38:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7917,6 +7917,21 @@
    "verified": true
   },
   {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://soft-ledger.pages.dev/",
+   "first_seen": "2026-11-01 10:22:05",
+   "host": "soft-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-01 23:02:38",
+   "last_seen": "2026-11-01 23:02:38",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Solana",
    "category": "phishing",
    "corroboration_count": 0,
@@ -8661,8 +8676,8 @@
    "first_seen": "2026-10-07 11:11:59",
    "host": "trustwallet-team-support.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-01 23:12:36",
-   "last_seen": "2026-11-01 23:12:36",
+   "last_checked": "2026-11-02 00:12:31",
+   "last_seen": "2026-11-02 00:12:31",
    "source_feed": "OpenPhish",
    "verified": true
   },
