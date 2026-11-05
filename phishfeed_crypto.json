@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 687,
- "generated_at": "2026-11-05T18:16:36Z",
+ "count": 688,
+ "generated_at": "2026-11-05T19:16:49Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -135,6 +135,21 @@
    "hosting_platform": "Surge",
    "last_checked": "2026-11-05 16:26:03",
    "last_seen": "2026-11-05 16:26:03",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": null,
+   "evidence_url": "http://airdropcp.com/codma3/index.html",
+   "first_seen": "2026-07-02 11:15:09",
+   "host": "airdropcp.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-05 18:32:56",
+   "last_seen": "2026-11-05 18:32:56",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -778,8 +793,8 @@
    "first_seen": "2026-11-02 12:22:30",
    "host": "config-1-snowy.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -793,8 +808,8 @@
    "first_seen": "2026-11-02 12:22:30",
    "host": "config-sepia.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -1608,7 +1623,7 @@
    "host": "ember-ledger-4127.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-05 10:30:25",
-   "last_seen": "2026-11-05 10:30:25",
+   "last_seen": "2026-11-05 18:38:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2312,8 +2327,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-05 18:12:18",
-   "last_seen": "2026-11-05 18:12:18",
+   "last_checked": "2026-11-05 19:12:24",
+   "last_seen": "2026-11-05 19:12:24",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2702,8 +2717,8 @@
    "first_seen": "2026-08-22 11:14:03",
    "host": "himans-singh.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -4056,8 +4071,8 @@
    "first_seen": "2026-09-27 12:18:27",
    "host": "ledger-devices-autosynchronize.vercel.app",
    "hosting_platform": null,
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -4671,8 +4686,8 @@
    "first_seen": "2026-07-23 11:16:45",
    "host": "ledger-walletscan-ledger.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -5181,8 +5196,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5226,8 +5241,8 @@
    "first_seen": "2026-11-04 12:19:18",
    "host": "ledgerwalletsecurityupdate.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-05 15:30:22",
-   "last_seen": "2026-11-05 15:30:22",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "phishunt",
    "verified": true
   },
@@ -6201,8 +6216,8 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -8557,7 +8572,7 @@
    "host": "sso-meta-mask-us.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-05 15:49:30",
-   "last_seen": "2026-11-05 15:49:30",
+   "last_seen": "2026-11-05 18:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9216,8 +9231,8 @@
    "first_seen": "2026-11-02 12:22:30",
    "host": "trustbyxg.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -9291,8 +9306,8 @@
    "first_seen": "2026-10-07 11:11:59",
    "host": "trustwallet-team-support.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-05 18:12:40",
-   "last_seen": "2026-11-05 18:12:40",
+   "last_checked": "2026-11-05 19:12:48",
+   "last_seen": "2026-11-05 19:12:48",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9621,8 +9636,8 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "usdt-trustwallet-blockchain.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "phishunt",
    "verified": false
   },
@@ -10176,8 +10191,8 @@
    "first_seen": "2026-10-20 11:14:24",
    "host": "xinobep.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 18:10:13",
-   "last_seen": "2026-11-05 18:10:13",
+   "last_checked": "2026-11-05 19:10:30",
+   "last_seen": "2026-11-05 19:10:30",
    "source_feed": "OpenPhish",
    "verified": false
   },
