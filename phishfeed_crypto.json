@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 680,
- "generated_at": "2026-11-05T23:16:35Z",
+ "count": 682,
+ "generated_at": "2026-11-06T00:16:36Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -2297,8 +2297,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-05 23:12:13",
-   "last_seen": "2026-11-05 23:12:13",
+   "last_checked": "2026-11-06 00:12:12",
+   "last_seen": "2026-11-06 00:12:12",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2687,8 +2687,8 @@
    "first_seen": "2026-08-22 11:14:03",
    "host": "himans-singh.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 23:10:27",
-   "last_seen": "2026-11-05 23:10:27",
+   "last_checked": "2026-11-06 00:10:14",
+   "last_seen": "2026-11-06 00:10:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -4041,8 +4041,8 @@
    "first_seen": "2026-09-27 12:18:27",
    "host": "ledger-devices-autosynchronize.vercel.app",
    "hosting_platform": null,
-   "last_checked": "2026-11-05 23:10:27",
-   "last_seen": "2026-11-05 23:10:27",
+   "last_checked": "2026-11-06 00:10:14",
+   "last_seen": "2026-11-06 00:10:14",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -4656,8 +4656,8 @@
    "first_seen": "2026-07-23 11:16:45",
    "host": "ledger-walletscan-ledger.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 23:10:27",
-   "last_seen": "2026-11-05 23:10:27",
+   "last_checked": "2026-11-06 00:10:14",
+   "last_seen": "2026-11-06 00:10:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -5166,8 +5166,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-05 23:10:27",
-   "last_seen": "2026-11-05 23:10:27",
+   "last_checked": "2026-11-06 00:10:14",
+   "last_seen": "2026-11-06 00:10:14",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5211,8 +5211,8 @@
    "first_seen": "2026-11-04 12:19:18",
    "host": "ledgerwalletsecurityupdate.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-05 23:10:27",
-   "last_seen": "2026-11-05 23:10:27",
+   "last_checked": "2026-11-06 00:10:14",
+   "last_seen": "2026-11-06 00:10:14",
    "source_feed": "phishunt",
    "verified": true
   },
@@ -5302,7 +5302,7 @@
    "host": "ledgr-app-epx.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-05 22:00:22",
-   "last_seen": "2026-11-05 22:00:22",
+   "last_seen": "2026-11-05 23:54:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6186,8 +6186,8 @@
    "first_seen": "2026-08-29 11:16:03",
    "host": "license-keys.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 23:10:27",
-   "last_seen": "2026-11-05 23:10:27",
+   "last_checked": "2026-11-06 00:10:14",
+   "last_seen": "2026-11-06 00:10:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -6968,6 +6968,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-05 22:11:53",
    "last_seen": "2026-11-05 22:11:53",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://mm-ledger-site.pages.dev/",
+   "first_seen": "2026-11-05 14:38:10",
+   "host": "mm-ledger-site.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-05 21:53:09",
+   "last_seen": "2026-11-05 21:53:09",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9231,8 +9246,8 @@
    "first_seen": "2026-10-07 11:11:59",
    "host": "trustwallet-team-support.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-05 23:12:33",
-   "last_seen": "2026-11-05 23:12:33",
+   "last_checked": "2026-11-06 00:12:31",
+   "last_seen": "2026-11-06 00:12:31",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9382,7 +9397,7 @@
    "host": "us-app--en--ledgr-live.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-05 16:45:00",
-   "last_seen": "2026-11-05 16:45:00",
+   "last_seen": "2026-11-05 23:38:10",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9546,8 +9561,8 @@
    "first_seen": "2026-10-01 11:17:47",
    "host": "usdt-trustwallet-blockchain.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-05 23:10:27",
-   "last_seen": "2026-11-05 23:10:27",
+   "last_checked": "2026-11-06 00:10:14",
+   "last_seen": "2026-11-06 00:10:14",
    "source_feed": "phishunt",
    "verified": false
   },
@@ -9940,6 +9955,21 @@
    "last_seen": "2026-11-05 22:31:47",
    "source_feed": "Mastodon (phish)",
    "verified": false
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://whm-ledger.pages.dev/",
+   "first_seen": "2026-11-05 15:38:06",
+   "host": "whm-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-05 22:00:22",
+   "last_seen": "2026-11-05 22:00:22",
+   "source_feed": "ct_monitor",
+   "verified": true
   },
   {
    "brand": "Ledger",
