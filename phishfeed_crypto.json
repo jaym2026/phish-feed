@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 680,
- "generated_at": "2026-11-09T11:16:27Z",
+ "count": 682,
+ "generated_at": "2026-11-09T12:16:32Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -778,8 +778,8 @@
    "first_seen": "2026-11-06 12:21:12",
    "host": "coinnbase.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-09 11:10:07",
-   "last_seen": "2026-11-09 11:10:07",
+   "last_checked": "2026-11-09 12:10:06",
+   "last_seen": "2026-11-09 12:10:06",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2297,8 +2297,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-09 11:12:02",
-   "last_seen": "2026-11-09 11:12:02",
+   "last_checked": "2026-11-09 12:12:11",
+   "last_seen": "2026-11-09 12:12:11",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -6912,6 +6912,21 @@
    "verified": true
   },
   {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://moonsushi-daily-ledger.pages.dev/",
+   "first_seen": "2026-11-09 06:38:05",
+   "host": "moonsushi-daily-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-09 10:50:13",
+   "last_seen": "2026-11-09 10:50:13",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
    "brand": "Instagram",
    "category": "phishing",
    "corroboration_count": 2,
@@ -7881,8 +7896,8 @@
    "first_seen": "2026-11-06 12:21:12",
    "host": "quantumledgr.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-09 11:10:07",
-   "last_seen": "2026-11-09 11:10:07",
+   "last_checked": "2026-11-09 12:10:06",
+   "last_seen": "2026-11-09 12:10:06",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8121,8 +8136,8 @@
    "first_seen": "2026-10-07 11:12:00",
    "host": "sendusdt-2-psi.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-09 11:10:07",
-   "last_seen": "2026-11-09 11:10:07",
+   "last_checked": "2026-11-09 12:10:06",
+   "last_seen": "2026-11-09 12:10:06",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -9231,8 +9246,8 @@
    "first_seen": "2026-10-07 11:11:59",
    "host": "trustwallet-team-support.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-09 11:12:04",
-   "last_seen": "2026-11-09 11:12:04",
+   "last_checked": "2026-11-09 12:12:13",
+   "last_seen": "2026-11-09 12:12:13",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10075,6 +10090,21 @@
    "last_seen": "2026-11-09 04:58:50",
    "source_feed": "OpenPhish",
    "verified": false
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://xiaoyuanwei-ledger.pages.dev/",
+   "first_seen": "2026-11-09 09:38:03",
+   "host": "xiaoyuanwei-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-09 10:50:17",
+   "last_seen": "2026-11-09 10:50:17",
+   "source_feed": "ct_monitor",
+   "verified": true
   },
   {
    "brand": "XRP",
