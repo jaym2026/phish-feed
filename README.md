@@ -18,7 +18,15 @@ pull never has to process removals.
 | crypto | [`phishfeed_crypto.hosts`](phishfeed_crypto.hosts) | [`phishfeed_crypto.json`](phishfeed_crypto.json) | wallet and crypto-scoped blocklists |
 | dns | [`phishfeed_dns.hosts`](phishfeed_dns.hosts) | [`phishfeed_dns.json`](phishfeed_dns.json) | DNS resolvers that block a whole name |
 
-Raw ingest URLs:
+Ingest URLs. Use these; they stay put whatever happens to this repository:
+
+```
+https://feed.risingsunsolutions.com/phishfeed_all.hosts
+https://feed.risingsunsolutions.com/phishfeed_crypto.hosts
+https://feed.risingsunsolutions.com/phishfeed_dns.hosts
+```
+
+The same files at this repository's raw address, updated by the same run:
 
 ```
 https://raw.githubusercontent.com/jaym2026/phish-feed/main/phishfeed_all.hosts
