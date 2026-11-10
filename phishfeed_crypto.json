@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 658,
- "generated_at": "2026-11-10T11:16:26Z",
+ "count": 659,
+ "generated_at": "2026-11-10T12:16:27Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -1005,6 +1005,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-10 09:45:10",
    "last_seen": "2026-11-10 10:54:05",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://deanam-ledger-web.pages.dev/",
+   "first_seen": "2026-11-10 09:22:05",
+   "host": "deanam-ledger-web.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-10 10:49:05",
+   "last_seen": "2026-11-10 10:49:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2058,7 +2073,7 @@
    "host": "family-ledger-home.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-10 04:31:53",
-   "last_seen": "2026-11-10 04:31:53",
+   "last_seen": "2026-11-10 11:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2237,8 +2252,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-10 11:12:13",
-   "last_seen": "2026-11-10 11:12:13",
+   "last_checked": "2026-11-10 12:12:15",
+   "last_seen": "2026-11-10 12:12:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7641,8 +7656,8 @@
    "first_seen": "2026-11-06 12:21:12",
    "host": "quantumledgr.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-10 11:10:34",
-   "last_seen": "2026-11-10 11:10:34",
+   "last_checked": "2026-11-10 12:10:11",
+   "last_seen": "2026-11-10 12:10:11",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8916,8 +8931,8 @@
    "first_seen": "2026-10-07 11:11:59",
    "host": "trustwallet-team-support.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-10 11:12:41",
-   "last_seen": "2026-11-10 11:12:41",
+   "last_checked": "2026-11-10 12:12:47",
+   "last_seen": "2026-11-10 12:12:47",
    "source_feed": "OpenPhish",
    "verified": true
   },
