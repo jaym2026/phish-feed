@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
  "count": 650,
- "generated_at": "2026-11-12T05:16:28Z",
+ "generated_at": "2026-11-12T06:16:27Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -654,13 +654,13 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "http://coinbase-supportdesk.vercel.app",
+   "evidence_url": "https://coinbase-supportdesk.vercel.app/",
    "first_seen": "2026-11-10 12:18:49",
    "host": "coinbase-supportdesk.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-12 04:25:33",
-   "last_seen": "2026-11-12 04:25:33",
-   "source_feed": "phishunt",
+   "last_checked": "2026-11-12 06:10:09",
+   "last_seen": "2026-11-12 06:10:09",
+   "source_feed": "OpenPhish",
    "verified": false
   },
   {
@@ -928,8 +928,8 @@
    "first_seen": "2026-11-09 05:18:27",
    "host": "cryptofinal-nine.vercel.app",
    "hosting_platform": null,
-   "last_checked": "2026-11-12 03:10:10",
-   "last_seen": "2026-11-12 03:10:10",
+   "last_checked": "2026-11-12 06:10:09",
+   "last_seen": "2026-11-12 06:10:09",
    "source_feed": "Mastodon (phish)",
    "verified": false
   },
@@ -3892,7 +3892,7 @@
    "host": "ledger-com-us-app-start.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-12 03:40:02",
-   "last_seen": "2026-11-12 03:40:02",
+   "last_seen": "2026-11-12 05:38:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6752,13 +6752,13 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "http://my-coinbase.vercel.app",
+   "evidence_url": "https://my-coinbase.vercel.app/",
    "first_seen": "2026-11-10 12:18:49",
    "host": "my-coinbase.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-12 04:25:33",
-   "last_seen": "2026-11-12 04:25:33",
-   "source_feed": "phishunt",
+   "last_checked": "2026-11-12 06:10:09",
+   "last_seen": "2026-11-12 06:10:09",
+   "source_feed": "OpenPhish",
    "verified": false
   },
   {
@@ -7832,12 +7832,12 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "http://send-dt-bsc.vercel.app/",
+   "evidence_url": "https://send-dt-bsc.vercel.app/",
    "first_seen": "2026-10-10 11:16:09",
    "host": "send-dt-bsc.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-12 04:19:38",
-   "last_seen": "2026-11-12 04:19:38",
+   "last_checked": "2026-11-12 06:10:09",
+   "last_seen": "2026-11-12 06:10:09",
    "source_feed": "OpenPhish",
    "verified": false
   },
