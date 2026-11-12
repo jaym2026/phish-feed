@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 659,
- "generated_at": "2026-11-12T13:16:42Z",
+ "count": 660,
+ "generated_at": "2026-11-12T14:16:52Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -688,8 +688,8 @@
    "first_seen": "2026-11-10 12:18:49",
    "host": "coinbase-supportdesk.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-12 13:10:10",
-   "last_seen": "2026-11-12 13:10:10",
+   "last_checked": "2026-11-12 14:10:16",
+   "last_seen": "2026-11-12 14:10:16",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -958,8 +958,8 @@
    "first_seen": "2026-11-09 05:18:27",
    "host": "cryptofinal-nine.vercel.app",
    "hosting_platform": null,
-   "last_checked": "2026-11-12 13:10:10",
-   "last_seen": "2026-11-12 13:10:10",
+   "last_checked": "2026-11-12 14:10:16",
+   "last_seen": "2026-11-12 14:10:16",
    "source_feed": "Mastodon (phish)",
    "verified": false
   },
@@ -2297,8 +2297,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-12 13:12:20",
-   "last_seen": "2026-11-12 13:12:20",
+   "last_checked": "2026-11-12 13:22:21",
+   "last_seen": "2026-11-12 13:22:21",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -6831,8 +6831,8 @@
    "first_seen": "2026-11-10 12:18:49",
    "host": "my-coinbase.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-12 13:10:10",
-   "last_seen": "2026-11-12 13:10:10",
+   "last_checked": "2026-11-12 14:10:16",
+   "last_seen": "2026-11-12 14:10:16",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -7240,6 +7240,21 @@
    "last_seen": "2026-11-12 09:35:46",
    "source_feed": "ct_monitor",
    "verified": true
+  },
+  {
+   "brand": "Phantom",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://phantom-cash.vercel.app/",
+   "first_seen": "2026-11-12 12:18:10",
+   "host": "phantom-cash.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_checked": null,
+   "last_seen": "2026-11-12 12:18:10",
+   "source_feed": "OpenPhish",
+   "verified": false
   },
   {
    "brand": "Phantom",
@@ -7941,8 +7956,8 @@
    "first_seen": "2026-10-10 11:16:09",
    "host": "send-dt-bsc.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-12 13:10:10",
-   "last_seen": "2026-11-12 13:10:10",
+   "last_checked": "2026-11-12 14:10:16",
+   "last_seen": "2026-11-12 14:10:16",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -8047,7 +8062,7 @@
    "host": "shrimp-ledger-b.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-12 09:46:26",
-   "last_seen": "2026-11-12 09:46:26",
+   "last_seen": "2026-11-12 13:22:07",
    "source_feed": "ct_monitor",
    "verified": true
   },
