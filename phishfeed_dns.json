@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 730,
- "generated_at": "2026-11-17T20:16:50Z",
+ "count": 739,
+ "generated_at": "2026-11-17T21:16:32Z",
  "hosts": [
   {
    "brand": "Instagram",
@@ -45,6 +45,21 @@
    "hosting_platform": "Other",
    "last_checked": "2026-11-17 16:52:20",
    "last_seen": "2026-11-17 16:52:20",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://1284242.us8.myftpupload.com/11111111111174901033911000000000210201011101001/",
+   "first_seen": "2026-10-08 11:17:13",
+   "host": "1284242.us8.myftpupload.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 16:06:03",
+   "last_seen": "2026-11-17 16:06:03",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -163,8 +178,8 @@
    "first_seen": "2026-11-17 12:11:15",
    "host": "55fzvvdd22.netlify.app",
    "hosting_platform": "Netlify",
-   "last_checked": "2026-11-17 20:10:36",
-   "last_seen": "2026-11-17 20:10:36",
+   "last_checked": "2026-11-17 21:10:37",
+   "last_seen": "2026-11-17 21:10:37",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -1078,8 +1093,8 @@
    "first_seen": "2026-09-06 14:18:25",
    "host": "baran0zc4n-commits.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-17 20:12:58",
-   "last_seen": "2026-11-17 20:12:58",
+   "last_checked": "2026-11-17 21:12:40",
+   "last_seen": "2026-11-17 21:12:40",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -1168,8 +1183,8 @@
    "first_seen": "2026-10-17 11:12:46",
    "host": "bespoke-starship-cc6d7e.netlify.app",
    "hosting_platform": "Netlify",
-   "last_checked": "2026-11-17 20:10:36",
-   "last_seen": "2026-11-17 20:10:36",
+   "last_checked": "2026-11-17 21:10:37",
+   "last_seen": "2026-11-17 21:10:37",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -1333,8 +1348,8 @@
    "first_seen": "2026-08-15 11:17:49",
    "host": "bright-tarsier-4d96ff.netlify.app",
    "hosting_platform": "Netlify",
-   "last_checked": "2026-11-17 20:10:18",
-   "last_seen": "2026-11-17 20:10:18",
+   "last_checked": "2026-11-17 21:10:18",
+   "last_seen": "2026-11-17 21:10:18",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -1618,8 +1633,8 @@
    "first_seen": "2026-11-14 12:17:01",
    "host": "codasp-zones.zyyy.us",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-17 20:11:03",
-   "last_seen": "2026-11-17 20:11:03",
+   "last_checked": "2026-11-17 21:10:57",
+   "last_seen": "2026-11-17 21:10:57",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -1789,6 +1804,21 @@
    "verified": true
   },
   {
+   "brand": "Microsoft",
+   "category": "phishing",
+   "corroboration_count": 1,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://conditions2auth.dothome.co.kr/",
+   "first_seen": "2026-07-13 11:16:33",
+   "host": "conditions2auth.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 16:50:17",
+   "last_seen": "2026-11-17 16:50:17",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "category": "phishing",
    "corroboration_count": 1,
@@ -1948,8 +1978,8 @@
    "first_seen": "2026-09-08 16:18:27",
    "host": "customer-mail-com.weebly.com",
    "hosting_platform": "Weebly",
-   "last_checked": "2026-11-17 20:11:00",
-   "last_seen": "2026-11-17 20:11:00",
+   "last_checked": "2026-11-17 21:10:54",
+   "last_seen": "2026-11-17 21:10:54",
    "source_feed": "Mastodon (phish)",
    "verified": true
   },
@@ -2574,21 +2604,6 @@
    "verified": true
   },
   {
-   "brand": "Other",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": false,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://ecuador-2026--loguin.replit.app",
-   "first_seen": "2026-11-17 12:11:15",
-   "host": "ecuador-2026--loguin.replit.app",
-   "hosting_platform": "Replit",
-   "last_checked": "2026-11-17 20:11:00",
-   "last_seen": "2026-11-17 20:11:00",
-   "source_feed": "PhishTank",
-   "verified": true
-  },
-  {
    "brand": "Ledger",
    "category": "phishing",
    "corroboration_count": 0,
@@ -3003,8 +3018,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-17 20:12:51",
-   "last_seen": "2026-11-17 20:12:51",
+   "last_checked": "2026-11-17 21:12:35",
+   "last_seen": "2026-11-17 21:12:35",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -3048,8 +3063,8 @@
    "first_seen": "2026-11-13 12:16:31",
    "host": "flameindark-team.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-17 20:11:00",
-   "last_seen": "2026-11-17 20:11:00",
+   "last_checked": "2026-11-17 21:10:54",
+   "last_seen": "2026-11-17 21:10:54",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -3574,7 +3589,7 @@
    "host": "guide-ledgrlive-desktop.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-17 16:12:10",
-   "last_seen": "2026-11-17 16:12:10",
+   "last_seen": "2026-11-17 20:54:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -3605,6 +3620,21 @@
    "hosting_platform": "GitHub Pages",
    "last_checked": "2026-11-17 16:04:40",
    "last_seen": "2026-11-17 16:04:40",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "category": "phishing",
+   "corroboration_count": 1,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://hadopan.cloud-ip.cc/fovaw/",
+   "first_seen": "2026-10-25 11:53:41",
+   "host": "hadopan.cloud-ip.cc",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 17:11:47",
+   "last_seen": "2026-11-17 17:11:47",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -4038,8 +4068,8 @@
    "first_seen": "2026-10-15 11:17:48",
    "host": "igfun.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-17 20:10:18",
-   "last_seen": "2026-11-17 20:10:18",
+   "last_checked": "2026-11-17 21:10:18",
+   "last_seen": "2026-11-17 21:10:18",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -4304,6 +4334,21 @@
    "corroboration_count": 1,
    "crypto": false,
    "dns_reason": "platform_tenant",
+   "evidence_url": "https://instagram.dothome.co.kr",
+   "first_seen": "2026-10-20 11:14:25",
+   "host": "instagram.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 15:32:08",
+   "last_seen": "2026-11-17 15:32:08",
+   "source_feed": "phishunt",
+   "verified": true
+  },
+  {
+   "brand": "Instagram",
+   "category": "phishing",
+   "corroboration_count": 1,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
    "evidence_url": "http://instagram030.github.io/-",
    "first_seen": "2026-11-13 12:16:31",
    "host": "instagram030.github.io",
@@ -4323,8 +4368,8 @@
    "first_seen": "2026-09-30 11:18:48",
    "host": "instagram157.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-17 20:12:56",
-   "last_seen": "2026-11-17 20:12:56",
+   "last_checked": "2026-11-17 21:12:39",
+   "last_seen": "2026-11-17 21:12:39",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -6444,6 +6489,21 @@
    "verified": true
   },
   {
+   "brand": "Other",
+   "category": "phishing",
+   "corroboration_count": 1,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://lohigek.cloud-ip.cc/nunu/",
+   "first_seen": "2026-10-25 11:53:41",
+   "host": "lohigek.cloud-ip.cc",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 17:11:47",
+   "last_seen": "2026-11-17 17:11:47",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Microsoft",
    "category": "phishing",
    "corroboration_count": 1,
@@ -7413,8 +7473,8 @@
    "first_seen": "2026-10-07 11:12:00",
    "host": "olazamani.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-17 20:12:54",
-   "last_seen": "2026-11-17 20:12:54",
+   "last_checked": "2026-11-17 21:12:37",
+   "last_seen": "2026-11-17 21:12:37",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7488,8 +7548,8 @@
    "first_seen": "2026-10-17 11:12:46",
    "host": "ornate-zabaione-6b90cc.netlify.app",
    "hosting_platform": "Netlify",
-   "last_checked": "2026-11-17 20:10:36",
-   "last_seen": "2026-11-17 20:10:36",
+   "last_checked": "2026-11-17 21:10:37",
+   "last_seen": "2026-11-17 21:10:37",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7536,6 +7596,21 @@
    "last_checked": "2026-11-17 15:54:42",
    "last_seen": "2026-11-17 15:54:42",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Outlook",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://outlook365livee.dothome.co.kr",
+   "first_seen": "2026-10-19 11:15:30",
+   "host": "outlook365livee.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 17:43:12",
+   "last_seen": "2026-11-17 17:43:12",
+   "source_feed": "phishunt",
    "verified": true
   },
   {
@@ -7668,8 +7743,8 @@
    "first_seen": "2026-10-15 17:52:03",
    "host": "php-web-server--unitmexi.replit.app",
    "hosting_platform": "Replit",
-   "last_checked": "2026-11-17 20:10:36",
-   "last_seen": "2026-11-17 20:10:36",
+   "last_checked": "2026-11-17 21:10:37",
+   "last_seen": "2026-11-17 21:10:37",
    "source_feed": "discord_webhook_hunter",
    "verified": true
   },
@@ -7683,8 +7758,8 @@
    "first_seen": "2026-11-17 12:11:15",
    "host": "playful-sprinkles-2c0855.netlify.app",
    "hosting_platform": "Netlify",
-   "last_checked": "2026-11-17 20:10:18",
-   "last_seen": "2026-11-17 20:10:18",
+   "last_checked": "2026-11-17 21:10:18",
+   "last_seen": "2026-11-17 21:10:18",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7715,6 +7790,21 @@
    "hosting_platform": "GitHub Pages",
    "last_checked": "2026-11-17 16:31:10",
    "last_seen": "2026-11-17 16:31:10",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Other",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://portal365.dothome.co.kr/",
+   "first_seen": "2026-10-12 11:15:34",
+   "host": "portal365.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 15:44:57",
+   "last_seen": "2026-11-17 15:44:57",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8214,6 +8304,21 @@
    "verified": true
   },
   {
+   "brand": "Microsoft",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://reactivaraquii.dothome.co.kr/",
+   "first_seen": "2026-10-07 11:11:59",
+   "host": "reactivaraquii.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 16:02:26",
+   "last_seen": "2026-11-17 16:02:26",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "PayPal",
    "category": "phishing",
    "corroboration_count": 0,
@@ -8343,8 +8448,8 @@
    "first_seen": "2026-11-16 12:11:21",
    "host": "reon590.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-17 20:11:03",
-   "last_seen": "2026-11-17 20:11:03",
+   "last_checked": "2026-11-17 21:10:57",
+   "last_seen": "2026-11-17 21:10:57",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -8544,6 +8649,36 @@
    "verified": true
   },
   {
+   "brand": "Santander",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://santandermx.dothome.co.kr/",
+   "first_seen": "2026-08-02 11:13:45",
+   "host": "santandermx.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 16:49:14",
+   "last_seen": "2026-11-17 16:49:14",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Santander",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://santanderweb.dothome.co.kr/",
+   "first_seen": "2026-08-05 11:14:25",
+   "host": "santanderweb.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 16:50:17",
+   "last_seen": "2026-11-17 16:50:17",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Facebook",
    "category": "phishing",
    "corroboration_count": 2,
@@ -8628,8 +8763,8 @@
    "first_seen": "2026-10-17 11:12:46",
    "host": "security-server-landing-page--009wq.replit.app",
    "hosting_platform": "Replit",
-   "last_checked": "2026-11-17 20:10:18",
-   "last_seen": "2026-11-17 20:10:18",
+   "last_checked": "2026-11-17 21:10:18",
+   "last_seen": "2026-11-17 21:10:18",
    "source_feed": "PhishTank",
    "verified": true
   },
@@ -9414,21 +9549,6 @@
    "verified": true
   },
   {
-   "brand": "Microsoft",
-   "category": "phishing",
-   "corroboration_count": 2,
-   "crypto": false,
-   "dns_reason": "platform_tenant",
-   "evidence_url": "https://surgiebvyho-0-walaexhgo--infostephonguld.replit.app/",
-   "first_seen": "2026-11-17 12:11:15",
-   "host": "surgiebvyho-0-walaexhgo--infostephonguld.replit.app",
-   "hosting_platform": "Replit",
-   "last_checked": "2026-11-17 20:10:18",
-   "last_seen": "2026-11-17 20:10:18",
-   "source_feed": "PhishTank",
-   "verified": true
-  },
-  {
    "brand": "Other",
    "category": "phishing",
    "corroboration_count": 2,
@@ -9438,8 +9558,8 @@
    "first_seen": "2026-11-17 12:11:15",
    "host": "susannesousadasilva.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-17 20:11:03",
-   "last_seen": "2026-11-17 20:11:03",
+   "last_checked": "2026-11-17 21:10:57",
+   "last_seen": "2026-11-17 21:10:57",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9453,8 +9573,8 @@
    "first_seen": "2026-11-17 12:11:15",
    "host": "suvi-lbp.netlify.app",
    "hosting_platform": "Netlify",
-   "last_checked": "2026-11-17 20:10:18",
-   "last_seen": "2026-11-17 20:10:18",
+   "last_checked": "2026-11-17 21:10:18",
+   "last_seen": "2026-11-17 21:10:18",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10194,6 +10314,21 @@
    "verified": true
   },
   {
+   "brand": "Microsoft",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": false,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://verifre36520.dothome.co.kr/",
+   "first_seen": "2026-09-26 11:15:54",
+   "host": "verifre36520.dothome.co.kr",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-17 16:01:53",
+   "last_seen": "2026-11-17 16:01:53",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Google",
    "category": "phishing",
    "corroboration_count": 2,
@@ -10638,8 +10773,8 @@
    "first_seen": "2026-11-15 12:11:02",
    "host": "www.bbgjhfhghh.weebly.com",
    "hosting_platform": "Weebly",
-   "last_checked": "2026-11-17 20:11:03",
-   "last_seen": "2026-11-17 20:11:03",
+   "last_checked": "2026-11-17 21:10:57",
+   "last_seen": "2026-11-17 21:10:57",
    "source_feed": "OpenPhish",
    "verified": true
   },
