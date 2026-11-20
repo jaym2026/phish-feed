@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 711,
- "generated_at": "2026-11-20T12:16:36Z",
+ "count": 713,
+ "generated_at": "2026-11-20T13:16:53Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -45,6 +45,21 @@
    "hosting_platform": "Other",
    "last_checked": "2026-11-20 09:47:05",
    "last_seen": "2026-11-20 09:47:05",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Coinbase",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://907584coinbase.com/",
+   "first_seen": "2026-11-19 20:54:07",
+   "host": "907584coinbase.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-20 10:25:17",
+   "last_seen": "2026-11-20 10:25:17",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -658,8 +673,8 @@
    "first_seen": "2026-11-19 12:13:07",
    "host": "bybit-corp.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-20 12:10:22",
-   "last_seen": "2026-11-20 12:10:22",
+   "last_checked": "2026-11-20 13:10:15",
+   "last_seen": "2026-11-20 13:10:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -1018,8 +1033,8 @@
    "first_seen": "2026-10-09 18:10:04",
    "host": "data-hoalac-member.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": "2026-11-19 18:31:13",
-   "last_seen": "2026-11-19 18:31:13",
+   "last_checked": "2026-11-20 12:30:58",
+   "last_seen": "2026-11-20 12:30:58",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -2458,8 +2473,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-20 12:12:26",
-   "last_seen": "2026-11-20 12:12:26",
+   "last_checked": "2026-11-20 13:12:22",
+   "last_seen": "2026-11-20 13:12:22",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -3448,8 +3463,8 @@
    "first_seen": "2026-11-19 19:17:33",
    "host": "jurjura-group.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": null,
-   "last_seen": "2026-11-19 19:17:33",
+   "last_checked": "2026-11-20 12:30:09",
+   "last_seen": "2026-11-20 12:30:09",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3493,13 +3508,13 @@
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "https://kesu-ledger.pages.dev/",
+   "evidence_url": "https://kesu-ledger.pages.dev/login?next=%2F",
    "first_seen": "2026-10-20 06:54:05",
    "host": "kesu-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": "2026-11-20 10:14:32",
-   "last_seen": "2026-11-20 10:14:32",
-   "source_feed": "ct_monitor",
+   "last_checked": "2026-11-20 12:31:25",
+   "last_seen": "2026-11-20 12:31:25",
+   "source_feed": "urlscan_hunter",
    "verified": true
   },
   {
@@ -5283,7 +5298,7 @@
    "host": "ledgerr-app.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-20 04:59:37",
-   "last_seen": "2026-11-20 04:59:37",
+   "last_seen": "2026-11-20 12:54:04",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7398,7 +7413,7 @@
    "host": "notary-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-20 05:07:10",
-   "last_seen": "2026-11-20 05:07:10",
+   "last_seen": "2026-11-20 12:22:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7818,7 +7833,7 @@
    "host": "phantom-tech.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-20 10:15:07",
-   "last_seen": "2026-11-20 10:15:07",
+   "last_seen": "2026-11-20 12:22:08",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -8102,8 +8117,8 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "project-dapp.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-20 12:10:22",
-   "last_seen": "2026-11-20 12:10:22",
+   "last_checked": "2026-11-20 13:10:15",
+   "last_seen": "2026-11-20 13:10:15",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -8642,8 +8657,8 @@
    "first_seen": "2026-11-19 12:13:07",
    "host": "send-usdt-12.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-20 12:10:22",
-   "last_seen": "2026-11-20 12:10:22",
+   "last_checked": "2026-11-20 13:10:15",
+   "last_seen": "2026-11-20 13:10:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -9725,6 +9740,21 @@
    "last_checked": "2026-11-20 09:37:17",
    "last_seen": "2026-11-20 12:11:09",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Trust Wallet",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://trustwalletcredit.com/",
+   "first_seen": "2026-11-19 22:38:06",
+   "host": "trustwalletcredit.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-20 09:31:01",
+   "last_seen": "2026-11-20 09:31:01",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
