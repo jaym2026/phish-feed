@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 709,
- "generated_at": "2026-11-21T07:16:40Z",
+ "count": 710,
+ "generated_at": "2026-11-21T08:16:51Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -643,8 +643,8 @@
    "first_seen": "2026-11-19 12:13:07",
    "host": "bybit-corp.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-21 07:10:10",
-   "last_seen": "2026-11-21 07:10:10",
+   "last_checked": "2026-11-21 08:10:14",
+   "last_seen": "2026-11-21 08:10:14",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2443,8 +2443,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-21 07:12:19",
-   "last_seen": "2026-11-21 07:12:19",
+   "last_checked": "2026-11-21 08:12:21",
+   "last_seen": "2026-11-21 08:12:21",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -2699,7 +2699,7 @@
    "host": "guide-ledgrwalite.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-21 04:04:18",
-   "last_seen": "2026-11-21 04:04:18",
+   "last_seen": "2026-11-21 08:06:07",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -4488,7 +4488,7 @@
    "host": "ledger-live-login-access.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-21 03:30:26",
-   "last_seen": "2026-11-21 03:30:26",
+   "last_seen": "2026-11-21 07:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -5432,8 +5432,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-21 07:10:10",
-   "last_seen": "2026-11-21 07:10:10",
+   "last_checked": "2026-11-21 08:10:14",
+   "last_seen": "2026-11-21 08:10:14",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -6648,7 +6648,7 @@
    "host": "login-coinbas-pro.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-21 03:30:26",
-   "last_seen": "2026-11-21 03:30:26",
+   "last_seen": "2026-11-21 07:38:09",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -7523,7 +7523,7 @@
    "verified": true
   },
   {
-   "brand": "Other",
+   "brand": "Google",
    "category": "phishing",
    "corroboration_count": 1,
    "crypto": true,
@@ -8042,8 +8042,8 @@
    "first_seen": "2026-06-08 11:13:30",
    "host": "project-dapp.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-21 07:10:10",
-   "last_seen": "2026-11-21 07:10:10",
+   "last_checked": "2026-11-21 08:10:14",
+   "last_seen": "2026-11-21 08:10:14",
    "source_feed": "PhishTank",
    "verified": false
   },
@@ -8597,8 +8597,8 @@
    "first_seen": "2026-11-19 12:13:07",
    "host": "send-usdt-12.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-21 07:10:10",
-   "last_seen": "2026-11-21 07:10:10",
+   "last_checked": "2026-11-21 08:10:14",
+   "last_seen": "2026-11-21 08:10:14",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -10008,7 +10008,7 @@
    "host": "uss-phntom-oi.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-21 03:30:26",
-   "last_seen": "2026-11-21 03:30:26",
+   "last_seen": "2026-11-21 07:54:05",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10595,6 +10595,21 @@
    "last_checked": "2026-11-21 04:57:03",
    "last_seen": "2026-11-21 04:57:03",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "XRP",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://zbnebc.com/",
+   "first_seen": "2026-11-20 12:11:13",
+   "host": "zbnebc.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-21 04:24:46",
+   "last_seen": "2026-11-21 04:24:46",
+   "source_feed": "TweetFeed",
    "verified": true
   },
   {
