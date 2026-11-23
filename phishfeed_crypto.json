@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 718,
- "generated_at": "2026-11-23T12:16:31Z",
+ "count": 721,
+ "generated_at": "2026-11-23T13:16:42Z",
  "hosts": [
   {
    "brand": "Kraken",
@@ -379,6 +379,21 @@
    "verified": true
   },
   {
+   "brand": "MetaMask",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://auth-metamask.pages.dev/appeals/submit-appeal-form/return",
+   "first_seen": "2026-11-16 12:11:20",
+   "host": "auth-metamask.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-23 09:55:08",
+   "last_seen": "2026-11-23 12:11:32",
+   "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
    "brand": "Ledger",
    "category": "phishing",
    "corroboration_count": 2,
@@ -681,6 +696,21 @@
   {
    "brand": "Coinbase",
    "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://coinbase-lock.com/",
+   "first_seen": "2026-11-16 13:06:07",
+   "host": "coinbase-lock.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-23 09:55:37",
+   "last_seen": "2026-11-23 12:11:32",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Coinbase",
+   "category": "phishing",
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -973,8 +1003,8 @@
    "first_seen": "2026-10-09 18:10:04",
    "host": "data-hoalac-member.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": "2026-11-22 18:30:54",
-   "last_seen": "2026-11-22 18:30:54",
+   "last_checked": "2026-11-23 12:31:09",
+   "last_seen": "2026-11-23 12:31:09",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -1881,6 +1911,21 @@
   {
    "brand": "Ledger",
    "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://epalengke.onrender.com/",
+   "first_seen": "2026-11-22 19:03:57",
+   "host": "epalengke.onrender.com",
+   "hosting_platform": "Render",
+   "last_checked": "2026-11-23 12:30:12",
+   "last_seen": "2026-11-23 12:30:12",
+   "source_feed": "urlscan_hunter",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -2458,8 +2503,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-23 12:11:56",
-   "last_seen": "2026-11-23 12:11:56",
+   "last_checked": "2026-11-23 13:12:13",
+   "last_seen": "2026-11-23 13:12:13",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -3463,8 +3508,8 @@
    "first_seen": "2026-11-19 19:17:33",
    "host": "jurjura-group.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": "2026-11-22 18:30:19",
-   "last_seen": "2026-11-22 18:30:19",
+   "last_checked": "2026-11-23 12:30:28",
+   "last_seen": "2026-11-23 12:30:28",
    "source_feed": "urlscan_hunter",
    "verified": true
   },
@@ -3508,13 +3553,13 @@
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "https://kesu-ledger.pages.dev/",
+   "evidence_url": "https://kesu-ledger.pages.dev/login?next=%2F",
    "first_seen": "2026-10-20 06:54:05",
    "host": "kesu-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
-   "last_checked": "2026-11-23 09:58:11",
-   "last_seen": "2026-11-23 09:58:11",
-   "source_feed": "ct_monitor",
+   "last_checked": "2026-11-23 12:31:22",
+   "last_seen": "2026-11-23 12:31:22",
+   "source_feed": "urlscan_hunter",
    "verified": true
   },
   {
@@ -5507,8 +5552,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-23 12:10:38",
-   "last_seen": "2026-11-23 12:10:38",
+   "last_checked": "2026-11-23 13:10:09",
+   "last_seen": "2026-11-23 13:10:09",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5538,7 +5583,7 @@
    "host": "ledgerwallet-io.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-23 09:37:46",
-   "last_seen": "2026-11-23 09:37:46",
+   "last_seen": "2026-11-23 12:54:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -6438,7 +6483,7 @@
    "host": "live-desktop-ledgrir.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-23 04:37:08",
-   "last_seen": "2026-11-23 04:37:08",
+   "last_seen": "2026-11-23 12:38:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
