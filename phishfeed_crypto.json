@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 713,
- "generated_at": "2026-11-23T00:16:45Z",
+ "count": 714,
+ "generated_at": "2026-11-23T01:16:42Z",
  "hosts": [
   {
    "brand": "Kraken",
@@ -2413,8 +2413,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-23 00:12:11",
-   "last_seen": "2026-11-23 00:12:11",
+   "last_checked": "2026-11-23 01:12:06",
+   "last_seen": "2026-11-23 01:12:06",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5447,8 +5447,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-23 00:10:50",
-   "last_seen": "2026-11-23 00:10:50",
+   "last_checked": "2026-11-23 01:10:15",
+   "last_seen": "2026-11-23 01:10:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9800,6 +9800,21 @@
    "last_checked": "2026-11-22 16:55:46",
    "last_seen": "2026-11-22 16:55:46",
    "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Coinbase",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": null,
+   "evidence_url": "https://ua.tradefaq.net/site",
+   "first_seen": "2026-11-13 12:16:31",
+   "host": "ua.tradefaq.net",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-23 00:35:24",
+   "last_seen": "2026-11-23 00:35:24",
+   "source_feed": "OpenPhish",
    "verified": true
   },
   {
