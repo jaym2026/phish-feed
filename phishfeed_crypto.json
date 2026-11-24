@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 715,
- "generated_at": "2026-11-24T10:16:31Z",
+ "count": 720,
+ "generated_at": "2026-11-24T11:16:29Z",
  "hosts": [
   {
    "brand": "Kraken",
@@ -601,6 +601,21 @@
    "last_checked": "2026-11-24 05:05:29",
    "last_seen": "2026-11-24 05:05:29",
    "source_feed": "OpenPhish",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://call-ledger-20v.pages.dev/",
+   "first_seen": "2026-11-24 08:06:05",
+   "host": "call-ledger-20v.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 10:36:16",
+   "last_seen": "2026-11-24 10:36:16",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
@@ -2458,8 +2473,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-24 10:12:05",
-   "last_seen": "2026-11-24 10:12:05",
+   "last_checked": "2026-11-24 11:12:03",
+   "last_seen": "2026-11-24 11:12:03",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5005,6 +5020,21 @@
   {
    "brand": "Ledger",
    "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ledgerdesk-cmp.pages.dev/",
+   "first_seen": "2026-11-24 05:06:05",
+   "host": "ledgerdesk-cmp.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 10:36:14",
+   "last_seen": "2026-11-24 10:36:14",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -5492,8 +5522,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-24 09:10:49",
-   "last_seen": "2026-11-24 09:10:49",
+   "last_checked": "2026-11-24 11:10:17",
+   "last_seen": "2026-11-24 11:10:17",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7198,6 +7228,21 @@
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
+   "evidence_url": "https://my-finance-ledger-ai8.pages.dev/",
+   "first_seen": "2026-11-23 20:38:05",
+   "host": "my-finance-ledger-ai8.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 05:16:17",
+   "last_seen": "2026-11-24 05:16:17",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
    "evidence_url": "https://my-fund-ledger.pages.dev/",
    "first_seen": "2026-11-20 05:22:10",
    "host": "my-fund-ledger.pages.dev",
@@ -8134,6 +8179,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-24 05:00:26",
    "last_seen": "2026-11-24 05:00:26",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://prop-ledger.pages.dev/",
+   "first_seen": "2026-11-24 01:38:04",
+   "host": "prop-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 09:41:48",
+   "last_seen": "2026-11-24 09:41:48",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -9229,6 +9289,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-24 05:30:28",
    "last_seen": "2026-11-24 05:30:28",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://studio-ledger-8s0.pages.dev/",
+   "first_seen": "2026-11-24 07:22:11",
+   "host": "studio-ledger-8s0.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 10:36:15",
+   "last_seen": "2026-11-24 10:36:15",
    "source_feed": "ct_monitor",
    "verified": true
   },
