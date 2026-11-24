@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 717,
- "generated_at": "2026-11-23T23:16:30Z",
+ "count": 719,
+ "generated_at": "2026-11-24T00:16:31Z",
  "hosts": [
   {
    "brand": "Kraken",
@@ -999,6 +999,21 @@
    "corroboration_count": 0,
    "crypto": true,
    "dns_reason": "platform_tenant",
+   "evidence_url": "https://daliy-ledger-zeegolf.pages.dev/",
+   "first_seen": "2026-11-23 11:54:04",
+   "host": "daliy-ledger-zeegolf.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-23 21:34:45",
+   "last_seen": "2026-11-23 21:34:45",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
    "evidence_url": "https://data-hoalac-member.pages.dev/",
    "first_seen": "2026-10-09 18:10:04",
    "host": "data-hoalac-member.pages.dev",
@@ -1484,7 +1499,7 @@
    "host": "download-ledgerrlive.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-23 17:31:52",
-   "last_seen": "2026-11-23 17:31:52",
+   "last_seen": "2026-11-23 23:54:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2488,8 +2503,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-23 23:12:14",
-   "last_seen": "2026-11-23 23:12:14",
+   "last_checked": "2026-11-24 00:11:59",
+   "last_seen": "2026-11-24 00:11:59",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5522,8 +5537,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-23 23:10:10",
-   "last_seen": "2026-11-23 23:10:10",
+   "last_checked": "2026-11-24 00:10:12",
+   "last_seen": "2026-11-24 00:10:12",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -9844,6 +9859,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-23 17:46:38",
    "last_seen": "2026-11-23 17:46:38",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://uk-landlord-rent-ledger.pages.dev/",
+   "first_seen": "2026-11-23 15:38:10",
+   "host": "uk-landlord-rent-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-23 21:42:19",
+   "last_seen": "2026-11-23 21:42:19",
    "source_feed": "ct_monitor",
    "verified": true
   },
