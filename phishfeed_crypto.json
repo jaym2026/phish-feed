@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 720,
- "generated_at": "2026-11-24T13:16:32Z",
+ "count": 721,
+ "generated_at": "2026-11-24T14:16:32Z",
  "hosts": [
   {
    "brand": "Kraken",
@@ -2473,8 +2473,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-24 13:12:06",
-   "last_seen": "2026-11-24 13:12:06",
+   "last_checked": "2026-11-24 14:12:10",
+   "last_seen": "2026-11-24 14:12:10",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5522,8 +5522,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-24 13:10:15",
-   "last_seen": "2026-11-24 13:10:15",
+   "last_checked": "2026-11-24 14:10:15",
+   "last_seen": "2026-11-24 14:10:15",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -6943,12 +6943,27 @@
    "corroboration_count": 2,
    "crypto": true,
    "dns_reason": "platform_tenant",
-   "evidence_url": "https://metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app/embedded-wallets/sdk/node",
+   "evidence_url": "https://metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app/metamask-connect",
    "first_seen": "2026-10-23 11:20:46",
    "host": "metamask-docs-fbv47wj26-consensys-ddffed67.vercel.app",
    "hosting_platform": "Vercel",
    "last_checked": "2026-11-24 09:40:00",
-   "last_seen": "2026-11-24 09:40:00",
+   "last_seen": "2026-11-24 12:11:18",
+   "source_feed": "OpenPhish",
+   "verified": false
+  },
+  {
+   "brand": "MetaMask",
+   "category": "phishing",
+   "corroboration_count": 2,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "http://metamask-docs-git-dependabot-npmandya-5f7441-consensys-ddffed67.vercel.app/agent-wallet/reference/architecture",
+   "first_seen": "2026-11-24 12:11:18",
+   "host": "metamask-docs-git-dependabot-npmandya-5f7441-consensys-ddffed67.vercel.app",
+   "hosting_platform": "Vercel",
+   "last_checked": null,
+   "last_seen": "2026-11-24 12:11:18",
    "source_feed": "OpenPhish",
    "verified": false
   },
