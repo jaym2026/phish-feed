@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 717,
- "generated_at": "2026-11-25T06:16:32Z",
+ "count": 719,
+ "generated_at": "2026-11-25T07:16:33Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -30,6 +30,21 @@
    "hosting_platform": "Other",
    "last_checked": "2026-11-25 04:10:30",
    "last_seen": "2026-11-25 04:10:30",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Coinbase",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://988423coinbase.com/",
+   "first_seen": "2026-11-12 00:38:05",
+   "host": "988423coinbase.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-25 06:35:31",
+   "last_seen": "2026-11-25 06:35:31",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2458,8 +2473,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-25 06:11:57",
-   "last_seen": "2026-11-25 06:11:57",
+   "last_checked": "2026-11-25 07:12:02",
+   "last_seen": "2026-11-25 07:12:02",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5492,8 +5507,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-25 06:10:09",
-   "last_seen": "2026-11-25 06:10:09",
+   "last_checked": "2026-11-25 07:10:10",
+   "last_seen": "2026-11-25 07:10:10",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -10519,6 +10534,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-25 03:44:54",
    "last_seen": "2026-11-25 03:44:54",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Trust Wallet",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "young_domain",
+   "evidence_url": "https://www.elitextrustwallet.com/",
+   "first_seen": "2026-11-09 13:22:07",
+   "host": "www.elitextrustwallet.com",
+   "hosting_platform": "Other",
+   "last_checked": "2026-11-25 06:31:39",
+   "last_seen": "2026-11-25 06:31:39",
    "source_feed": "ct_monitor",
    "verified": true
   },
