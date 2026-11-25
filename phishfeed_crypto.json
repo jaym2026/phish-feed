@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 714,
- "generated_at": "2026-11-24T23:16:34Z",
+ "count": 717,
+ "generated_at": "2026-11-25T00:16:35Z",
  "hosts": [
   {
    "brand": "Ledger",
@@ -375,6 +375,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-24 17:32:39",
    "last_seen": "2026-11-24 17:32:39",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Exodus",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://barbearia-exodo.pages.dev/",
+   "first_seen": "2026-11-24 13:38:06",
+   "host": "barbearia-exodo.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 21:33:41",
+   "last_seen": "2026-11-24 21:33:41",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2443,8 +2458,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-24 23:12:01",
-   "last_seen": "2026-11-24 23:12:01",
+   "last_checked": "2026-11-25 00:12:03",
+   "last_seen": "2026-11-25 00:12:03",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -5275,6 +5290,21 @@
   {
    "brand": "Ledger",
    "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://ledgerockcabin.pages.dev/",
+   "first_seen": "2026-11-24 12:22:09",
+   "host": "ledgerockcabin.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 21:33:41",
+   "last_seen": "2026-11-24 21:33:41",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
    "corroboration_count": 1,
    "crypto": true,
    "dns_reason": "platform_tenant",
@@ -5462,8 +5492,8 @@
    "first_seen": "2026-09-20 11:14:25",
    "host": "ledgerwalleet.webador.com",
    "hosting_platform": "Other",
-   "last_checked": "2026-11-24 23:10:16",
-   "last_seen": "2026-11-24 23:10:16",
+   "last_checked": "2026-11-25 00:10:09",
+   "last_seen": "2026-11-25 00:10:09",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7624,6 +7654,21 @@
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-24 16:39:06",
    "last_seen": "2026-11-24 16:39:06",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://pallet-ledger.pages.dev/",
+   "first_seen": "2026-11-24 14:54:08",
+   "host": "pallet-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-24 21:34:03",
+   "last_seen": "2026-11-24 21:34:03",
    "source_feed": "ct_monitor",
    "verified": true
   },
