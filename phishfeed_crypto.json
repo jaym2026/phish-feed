@@ -1,7 +1,7 @@
 {
  "contact": "https://github.com/jaym2026/phish-feed/issues",
- "count": 721,
- "generated_at": "2026-11-26T23:16:40Z",
+ "count": 723,
+ "generated_at": "2026-11-27T00:17:04Z",
  "hosts": [
   {
    "brand": "Kraken",
@@ -194,7 +194,7 @@
    "host": "aolacash-ledger.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-26 17:14:04",
-   "last_seen": "2026-11-26 17:14:04",
+   "last_seen": "2026-11-26 23:22:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -2053,8 +2053,8 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "exclusive-openseamints.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-26 23:10:12",
-   "last_seen": "2026-11-26 23:10:12",
+   "last_checked": "2026-11-27 00:10:15",
+   "last_seen": "2026-11-27 00:10:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -2548,8 +2548,8 @@
    "first_seen": "2026-10-22 12:04:58",
    "host": "femifresh3897-dev.github.io",
    "hosting_platform": "GitHub Pages",
-   "last_checked": "2026-11-26 23:12:26",
-   "last_seen": "2026-11-26 23:12:26",
+   "last_checked": "2026-11-27 00:12:25",
+   "last_seen": "2026-11-27 00:12:25",
    "source_feed": "OpenPhish",
    "verified": true
   },
@@ -7517,8 +7517,8 @@
    "first_seen": "2026-09-06 11:15:24",
    "host": "openseaproks007.vercel.app",
    "hosting_platform": "Vercel",
-   "last_checked": "2026-11-26 23:10:12",
-   "last_seen": "2026-11-26 23:10:12",
+   "last_checked": "2026-11-27 00:10:15",
+   "last_seen": "2026-11-27 00:10:15",
    "source_feed": "OpenPhish",
    "verified": false
   },
@@ -8883,7 +8883,7 @@
    "host": "solana-auth.pages.dev",
    "hosting_platform": "Cloudflare Pages",
    "last_checked": "2026-11-26 16:38:40",
-   "last_seen": "2026-11-26 16:38:40",
+   "last_seen": "2026-11-27 00:06:06",
    "source_feed": "ct_monitor",
    "verified": true
   },
@@ -10505,6 +10505,36 @@
    "last_checked": "2026-11-26 17:01:36",
    "last_seen": "2026-11-26 17:01:36",
    "source_feed": "PhishTank",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://wipwch-ledger-app.pages.dev/",
+   "first_seen": "2026-11-26 11:54:05",
+   "host": "wipwch-ledger-app.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-26 21:33:00",
+   "last_seen": "2026-11-26 21:33:00",
+   "source_feed": "ct_monitor",
+   "verified": true
+  },
+  {
+   "brand": "Ledger",
+   "category": "phishing",
+   "corroboration_count": 0,
+   "crypto": true,
+   "dns_reason": "platform_tenant",
+   "evidence_url": "https://wipwch-ledger.pages.dev/",
+   "first_seen": "2026-11-26 11:38:05",
+   "host": "wipwch-ledger.pages.dev",
+   "hosting_platform": "Cloudflare Pages",
+   "last_checked": "2026-11-26 21:31:21",
+   "last_seen": "2026-11-26 21:31:21",
+   "source_feed": "ct_monitor",
    "verified": true
   },
   {
